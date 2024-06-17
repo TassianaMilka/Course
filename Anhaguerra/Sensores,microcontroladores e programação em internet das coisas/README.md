@@ -20,11 +20,16 @@ Os pontos principais
 
 1.Descreveu sobre a evolução de aparelhos conectados  como os carros conectados;
 
-2.Sobre a interligaçaõ da rede;
+2.Sobre a interligação da rede;
 
 3.Sensores;
 
-4.
+4.Linguagem de programação o python;
+
+5.Arduino que contém a sua utilização das linguagebs de programação o C E C++;
+
+6.Como tudo pode ser importante para o presente e o futuro comercial.
+
 
 
 # English 
