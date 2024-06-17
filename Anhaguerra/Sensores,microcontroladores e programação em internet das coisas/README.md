@@ -22,7 +22,9 @@ Os pontos principais
 
 2.Sobre a interligaçaõ da rede;
 
-3.
+3.Sensores;
+
+4.
 
 
 # English 
