@@ -10,13 +10,13 @@ Aonde realizou?
 
 Foi realizado no site da faculdade  Anhaguera;
 
-Quando realizouv 
+Quando realizou?
 
 Realizei em 2024 entre fevereiro ate maio;
 
 Quantas etapas? 
 
-Foram três etapss.
+Foram três etapas.
 
 
 # Os  principais pontos
