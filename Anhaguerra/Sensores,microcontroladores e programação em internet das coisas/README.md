@@ -6,15 +6,15 @@
 
 # Perguntas
 
-Aonde realizou
+Aonde realizou?
 
 Foi realizado no site da faculdade  Anhaguera;
 
-Quando realizou 
+Quando realizouv 
 
 Realizei em 2024 entre fevereiro ate maio;
 
-Quantas etapas 
+Quantas etapas? 
 
 Foram três etapss.
 
