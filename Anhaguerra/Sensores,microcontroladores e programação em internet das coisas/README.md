@@ -15,10 +15,11 @@ Quando realizou
 Realizei em 2024 entre fevereiro ate maio;
 
 Quantas etapas 
+
 Foram três etapss.
 
 
-# Os pontos principais 
+# Os  principais pontos
 
 1.Descreveu sobre a evolução de aparelhos conectados  como os carros conectados;
 
