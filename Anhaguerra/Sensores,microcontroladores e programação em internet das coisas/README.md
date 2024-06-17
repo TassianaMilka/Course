@@ -28,10 +28,13 @@ Foram três etapss.
 
 4.Linguagem de programação o python;
 
-5.Arduino que contém a sua utilização das linguagebs de programação o C E C++;
+5.Arduino que contém a sua utilização das linguagebs de programação o C e C++;
 
 6.Como tudo pode ser importante para o presente e o futuro comercial.
 
+Já descrevi um pequeno texto sobre Arduino que é o link a seguir:
+
+https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
 
 # English 
@@ -41,4 +44,4 @@ Foram três etapss.
 
 
 
-https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
+
