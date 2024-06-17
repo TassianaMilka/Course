@@ -7,7 +7,8 @@ Esse repostório é destinado para descrever em forma de resumo todos os cursos 
 
 # English 
 
-This repository is   to write in   the resume  evernoly course  and public a   the linkedin.
+This repository is for writing the summary of the course certificates posted on linkedin.
+
 
 # Espanõl 
 
