@@ -1,8 +1,11 @@
 Write in portuguese, english and spanish.
 
-Português
+# Português
+
 Sensores,microcontroladores e programação em internet das coisas
-Perguntas
+
+# Perguntas
+
 Aonde realizou?
 
 Foi realizado no site da faculdade Anhaguera;
@@ -32,7 +35,8 @@ Já descrevi um pequeno texto sobre arduino que é o link a seguir:
 
 https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
-English
+# English
+
 Sensors, microcontrollers and programming in the internet of things
 Questions
 Where did you do it?
@@ -64,8 +68,10 @@ I have already described a short text about arduino which is the following link:
 
 https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
-Espanõl
-Preguntas
+# Espanõl
+
+# Preguntas
+
 ¿Dónde lo hiciste?
 
 En la página web del universidad Anhaguera;
