@@ -89,7 +89,7 @@ Lo celebré en 2024 entre febrero y mayo;
 
 ¿Cuántos pasos?
 
-Hubo tres etapas.
+Tres etapas.
 
 #  
 
