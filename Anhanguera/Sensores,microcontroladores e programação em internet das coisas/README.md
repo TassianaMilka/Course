@@ -90,7 +90,7 @@ Lo celebré en 2024 entre febrero y mayo;
 
 Tres pasos.
 
-# 
+# Preguntas
 
 1.Describió la evolución de los dispositivos conectados, como los automóviles;
 
