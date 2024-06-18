@@ -18,7 +18,9 @@ Quantas etapas?
 
 Foram três etapas.
 
-Os principais pontos 1.Descreveu sobre a evolução de aparelhos conectados como os carros;
+# Os principais pontos
+
+1.Descreveu sobre a evolução de aparelhos conectados como os carros;
 
 2.Sobre a interligação da rede;
 
