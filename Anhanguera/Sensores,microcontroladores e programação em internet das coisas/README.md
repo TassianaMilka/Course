@@ -5,6 +5,7 @@ Write in portuguese, english and spanish.
 # Sensores,microcontroladores e programação em internet das coisas
 
 # Perguntas
+
 Aonde realizou?
 
 Foi realizado no site da faculdade Anhaguera;
@@ -67,6 +68,7 @@ https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
 # Espanõl
 
+# 
 # Preguntas
 
 ¿Dónde lo hiciste?
@@ -80,5 +82,20 @@ Lo celebré en 2024 entre febrero y mayo;
 ¿Cuántos pasos?
 
 Tres pasos.
+
+# 
+1. Describió la evolución de los dispositivos conectados, como los automóviles;
+
+2. En la interconexión a la red;
+
+3. Sensores;
+
+4. Lenguaje de programación: python;
+
+5. Arduino, que contiene el uso de los lenguajes de programación C y C++;
+
+6. Cómo todo puede ser importante para el negocio presente y futuro.
+
+Ya he descrito un breve texto sobre arduino que es el siguiente enlace:
 
 https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
