@@ -62,7 +62,7 @@ There were three stages.
 
 3.Sensors;
 
-4.Programming language: python;
+4.Programming language python;
 
 5.Arduino which contains its use of the programming languages C and C++;
 
