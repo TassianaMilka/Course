@@ -84,17 +84,18 @@ Lo celebré en 2024 entre febrero y mayo;
 Tres pasos.
 
 # 
-1. Describió la evolución de los dispositivos conectados, como los automóviles;
 
-2. En la interconexión a la red;
+1.Describió la evolución de los dispositivos conectados, como los automóviles;
 
-3. Sensores;
+2.En la interconexión a la red;
 
-4. Lenguaje de programación: python;
+3.Sensores;
 
-5. Arduino, que contiene el uso de los lenguajes de programación C y C++;
+4.Lenguaje de programación: python;
 
-6. Cómo todo puede ser importante para el negocio presente y futuro.
+5.Arduino, que contiene el uso de los lenguajes de programación C y C++;
+
+6.Cómo todo puede ser importante para el negocio presente y futuro.
 
 Ya he descrito un breve texto sobre arduino que es el siguiente enlace:
 
