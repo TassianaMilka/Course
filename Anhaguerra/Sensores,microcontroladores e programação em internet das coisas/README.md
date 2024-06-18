@@ -66,7 +66,7 @@ There were three stages.
 
 5.Arduino which contains its use of the programming languages C and C++;
 
-6.How everything can be important for the present and future business.
+6.How everything can be important for the present and future professionally.
 
 I have already described a short text about arduino which is the following link:
 
