@@ -100,7 +100,7 @@ Tres pasos.
 
 4.Lenguaje de programación python;
 
-5.Arduino, que contiene el uso de los lenguajes de programación C y C++;
+5.Arduino que contiene el uso de los lenguajes de programación C y C++;
 
 6.Cómo todo puede ser importante para el negocio presente y futuro.
 
