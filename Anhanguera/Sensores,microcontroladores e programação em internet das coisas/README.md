@@ -84,7 +84,7 @@ En la página web del universidad Anhaguera;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2024 entre febrero y mayo;
+Lo celebré en 2024 entre febrero y junio;
 
 ¿Cuántos pasos?
 
@@ -98,7 +98,7 @@ Tres pasos.
 
 3.Sensores;
 
-4.Lenguaje de programación: python;
+4.Lenguaje de programación python;
 
 5.Arduino, que contiene el uso de los lenguajes de programación C y C++;
 
