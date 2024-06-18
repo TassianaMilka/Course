@@ -77,5 +77,22 @@ https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 # Espanõl 
 
 
+# Preguntas
+
+¿Dónde lo hiciste?
+
+Se llevó a cabo en la página web del colegio Anhaguera;
+
+¿Cuándo sucedió?
+
+Lo celebré en 2024 entre febrero y mayo;
+
+¿Cuántos pasos?
+
+Hubo tres etapas.
+
+#  
+
+https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
 
