@@ -58,7 +58,7 @@ There were three stages.
 
 1. Described the evolution of connected devices such as cars;
 
-2.On grid interconnection;
+2.On  interconnection network;
 
 3.Sensors;
 
