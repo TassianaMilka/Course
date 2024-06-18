@@ -34,7 +34,10 @@ Já descrevi um pequeno texto sobre arduino que é o link a seguir:
 https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
 # English
-Sensors, microcontrollers and programming in the internet of things Questions Where did you do it?
+
+# Sensors, microcontrollers and programming in the internet of things Questions.
+
+Where did you do it?
 
 It was held on the website of the Anhaguera university;
 
