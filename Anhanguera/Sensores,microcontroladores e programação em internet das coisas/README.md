@@ -12,7 +12,7 @@ Foi realizado no site da faculdade Anhaguera;
 
 Quando realizou?
 
-Realizei em 2024 entre fevereiro ate maio;
+Realizei em 2024 entre fevereiro até junho;
 
 Quantas etapas?
 
@@ -48,7 +48,7 @@ It was held on the website of the Anhaguera university;
 
 When did it happen?
 
-I held it in 2024 between February and May;
+I held it in 2024 between february and june;
 
 How many steps?
 
