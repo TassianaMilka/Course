@@ -21,7 +21,7 @@ Foram três etapas.
 
 # Os  principais pontos
 
-1.Descreveu sobre a evolução de aparelhos conectados  como os carros conectados;
+1.Descreveu sobre a evolução de aparelhos conectados  como os carros;
 
 2.Sobre a interligação da rede;
 
