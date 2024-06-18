@@ -40,6 +40,18 @@ https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
 # English 
 
+ Where did you do it?
+
+It was held on the website of the Anhaguera college;
+
+When did it happen?
+
+I held it in 2024 between February and May;
+
+How many steps? 
+
+There were three stages.
+
 
 # Espanõl 
 
