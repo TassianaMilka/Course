@@ -33,7 +33,7 @@ Foram três etapas.
 
 6.Como tudo pode ser importante para o presente e o futuro comercial.
 
-Já descrevi um pequeno texto sobre Arduino que é o link a seguir:
+Já descrevi um pequeno texto sobre arduino que é o link a seguir:
 
 https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
