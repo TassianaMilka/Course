@@ -28,7 +28,7 @@ Foram três etapas.
 
 4.Linguagem de programação o python;
 
-5.Arduino que contém a sua utilização das linguagebs de programação o C e C++;
+5.Arduino que contém a sua utilização das linguagens de programação o C e C++;
 
 6.Como tudo pode ser importante para o presente e o futuro comercial.
 
