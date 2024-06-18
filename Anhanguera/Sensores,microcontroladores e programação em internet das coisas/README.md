@@ -38,7 +38,7 @@ https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
 # English
 
-# Sensors, microcontrollers and programming in the internet of things.
+# Sensors, microcontrollers and programming in the internet of things
 
 # Questions.
 
@@ -74,7 +74,8 @@ https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
 # Espanõl
 
-# 
+# Sensores, microcontroladores y programación en el internet de las cosas
+
 # Preguntas
 
 ¿Dónde lo hiciste?
