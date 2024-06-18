@@ -56,15 +56,15 @@ There were three stages.
 
 # The principals 
 
-1. Described the evolution of connected devices such as cars;
+1.Described the evolution of connected devices such as cars;
 
-2. On interconnection network;
+2.On interconnection network;
 
-3. Sensors;
+3.Sensors;
 
-4. Programming language: python;
+4.Programming language: python;
 
-5. Arduino which contains its use of the programming languages C and C++;
+5.Arduino which contains its use of the programming languages C and C++;
 
 6.How everything can be important for the present and future business.
 
