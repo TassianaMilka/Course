@@ -54,6 +54,21 @@ How many steps?
 
 There were three stages.
 
+# The principals 
+
+1. Described the evolution of connected devices such as cars;
+
+2.On grid interconnection;
+
+3.Sensors;
+
+4. Programming language: python;
+
+5. Arduino which contains its use of the programming languages C and C++;
+
+6.How everything can be important for the present and future business.
+
+I have already described a short text about arduino which is the following link:
 
 https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
