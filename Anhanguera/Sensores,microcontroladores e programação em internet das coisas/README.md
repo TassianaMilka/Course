@@ -40,7 +40,7 @@ https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
 # Sensors, microcontrollers and programming in the internet of things
 
-# Questions.
+# Questions
 
 Where did you do it?
 
