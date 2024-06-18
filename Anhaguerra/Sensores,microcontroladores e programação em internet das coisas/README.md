@@ -81,7 +81,7 @@ https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
 ¿Dónde lo hiciste?
 
-Se llevó a cabo en la página web del colegio Anhaguera;
+ En la página web del universidad Anhaguera;
 
 ¿Cuándo sucedió?
 
