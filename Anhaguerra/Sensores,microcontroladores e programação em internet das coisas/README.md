@@ -42,7 +42,7 @@ https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
  Where did you do it?
 
-It was held on the website of the Anhaguera college;
+It was held on the website of the Anhaguera university;
 
 When did it happen?
 
