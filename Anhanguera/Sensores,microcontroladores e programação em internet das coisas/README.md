@@ -50,7 +50,9 @@ How many steps?
 
 There were three stages.
 
-The principals 1.Described the evolution of connected devices such as cars;
+# The principals 
+
+1.Described the evolution of connected devices such as cars;
 
 2.On interconnection network;
 
