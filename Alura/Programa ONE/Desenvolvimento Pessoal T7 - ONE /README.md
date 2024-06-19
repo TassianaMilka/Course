@@ -1,6 +1,7 @@
 
 
-Principais pontos 
+#  Principais pontos 
 
--Aprender sobre como manter mais organização na sua vida pessoal e profissional;
--
+Aprender sobre como manter mais organização na sua vida pessoal e profissional;
+
+
