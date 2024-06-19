@@ -1,4 +1,4 @@
-/*A variável que pode acontecer mudança do número secreto é let numeroSecreto = 4-*/
+/*A variável que pode acontecer mudança do número secreto é let numeroSecreto = 4.*/
 
 
 alert('Boas-vindas ao jogo do número secreto')
