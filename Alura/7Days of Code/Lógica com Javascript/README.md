@@ -1,4 +1,5 @@
 
-Começado em 19 de Junho de 2024 até      .
+Começado em 19 de Junho.
 
+# 7DaysOfCode
 
