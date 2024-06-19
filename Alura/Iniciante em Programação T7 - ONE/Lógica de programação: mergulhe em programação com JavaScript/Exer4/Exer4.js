@@ -1,7 +1,7 @@
 /* Mostre um alerta com a mensagem "Boas vindas ao nosso site!".
 
 Declare uma variável chamada nome e atribua a ela o valor "Lua".
-
+ 
 Crie uma variável chamada idade e atribua a ela o valor 25.
 
 Defina uma variável numeroDeVendas e atribua a ela o valor 50.
