@@ -1,7 +1,7 @@
 /* Pergunte ao usuário qual é o dia da semana. Se a resposta for "Sábado" ou "Domingo", mostre "Bom fim de semana!". Caso contrário, mostre "Boa semana!".*/
 
 
-let dia=1;
+let dia=1; 
 
 let dia=promt console.log('Informe  se  é para  Sábado ou Domingo ou  número aleatório');
 
