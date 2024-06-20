@@ -12,7 +12,7 @@ if(quantidadeMilhas >= 30000){
 }
 
 /* Mudança*/
-
+/* O if dentro do else é uma forma encadeada  que realiza o desconto conforme a quantidade*/
 let porcentagemDesconto = 0;
 
 if(quantidadeMilhas >= 30000){
