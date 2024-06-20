@@ -1,6 +1,6 @@
 /*Inclua comandos console.log em diferentes partes do código para verificar o fluxo do programa*/
 
-/*1*/
+/*1*/ 
 
 alert('Bem-vindo ao jogo do número secreto');
 Console.log('Vamos lá pessoal');
