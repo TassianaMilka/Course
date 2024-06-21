@@ -23,5 +23,38 @@ while(num2>0){
     
 }
 
+/*Crie um programa de contagem regressiva. Peça um número e conte deste número até 0, usando um loop while no console do navegador.*/
+
+let num3=3;
+
+let num3 = prompt('Informe o número:');
+
+
+/*Loop*/
+while(num3>0){
+    
+    console.log('Números-'+num3);
+
+    num3--;
+     
+    
+}
+
+/*Crie um programa de contagem progressiva. Peça um número e conte de 0 até esse número, usando um loop while no console do navegador.*/
+
+  let num4=3;
+  
+  
+let num4 = prompt('Informe o número:');
+
+/*Loop*/
+while(num4>0){
+    
+    console.log('Números-'+num4);
+
+    num4++;
+     
+    
+}
 
 
