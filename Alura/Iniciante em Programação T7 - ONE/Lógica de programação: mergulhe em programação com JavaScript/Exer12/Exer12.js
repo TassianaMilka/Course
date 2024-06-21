@@ -57,4 +57,18 @@ while(num4>0){
     
 }
 
+/*Crie um programa de contagem progressiva. Peça um número e conte de 0 até esse número, usando um loop while no console do navegador.*/
+
+
+let num4=3;
+let zero = 0;
+
+let num4 = prompt('Informe o número:');
+/*Loop*/
+while (zero <= num4) {
+    console.log('Núnero-'+zero);
+    zero++;
+}
+
+
 
