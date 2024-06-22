@@ -48,3 +48,30 @@ console.log("O valor 2="+valor2);
 console.log("O resultado de resultado="+resultado);
 
 
+/*Peça ao usuário para inserir sua idade com prompt. Com base na idade inserida, utilize um if para verificar se a pessoa é maior ou menor de idade, exibindo uma mensagem apropriada no console.*/
+
+
+
+let idade=10;
+
+let idade = prompt("Digite sua idade:"); 
+
+if(idade>50){
+    
+    console.log(" A idade é maior que 100");
+}
+
+else if( idade<50){
+    
+    console.log(" A idade é menor que 100");
+}
+
+
+
+
+
+
+
+
+
+
