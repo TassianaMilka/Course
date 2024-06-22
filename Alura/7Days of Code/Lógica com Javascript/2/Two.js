@@ -9,14 +9,15 @@ let nome;
 let idade;
 let linguagem;
 
-("Informe o seu nome");
+let nome=prompt("Informe o seu nome");
 
-("Informe a sua idade");
+let idade=prompt("Informe a sua idade");
 
-("Informe a linguagem de programção que gosta");
+let linguagem=prompt("Informe a linguagem de programção que gosta");
 
 
 alert("Olá [nome], você tem [idade] anos e já está aprendendo [linguagem]!");
+
 
 
 /*Você gosta de estudar [linguagem]? Responda com o número 1 para SIM ou 2 para NÃO.
