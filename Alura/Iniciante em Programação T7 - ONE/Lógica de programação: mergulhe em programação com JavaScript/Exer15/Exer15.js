@@ -56,15 +56,16 @@ let idade=10;
 
 let idade = prompt("Digite sua idade:"); 
 
-if(idade>50){
+if(idade>18){
     
-    console.log(" A idade é maior que 100");
+    console.log(" A idade é maior que 18");
 }
 
-else if( idade<50){
+else if( idade<18){
     
-    console.log(" A idade é menor que 100");
+    console.log(" A idade é menor que 18");
 }
+
 
 
 
