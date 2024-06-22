@@ -16,6 +16,17 @@ let nome1="Tassiana";
 alert("Olá,"+nome);
 
 
+/*Utilize o prompt e faça a seguinte pergunta: Qual a linguagem de programação que você mais gosta?. Em seguida, armazene a resposta em uma variável e mostre no console do navegador.*/
+
+
+
+let linguagem="Java";
+
+
+let idade = prompt("Qual a linguagem de programação que você mais gosta?"); 
+
+console.log(" A linguagem de programação que você gosta é "+linguagem);
+
 
 /*Crie uma variável chamada "valor1" e outra chamada "valor2", atribuindo a elas valores numéricos de sua escolha. Em seguida, realize a soma desses dois valores e armazene o resultado em uma terceira variável chamada "resultado". Utilize o console.log para mostrar a mensagem "A soma de [valor1] e [valor2] é igual a [resultado]." no console.*/
 
