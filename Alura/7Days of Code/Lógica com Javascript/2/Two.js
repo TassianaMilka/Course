@@ -16,7 +16,7 @@ let idade=prompt("Informe a sua idade");
 let linguagem=prompt("Informe a linguagem de programção que gosta");
 
 
-alert("Olá [nome], você tem [idade] anos e já está aprendendo [linguagem]!");
+alert("Olá"+nome",você tem"+idade "anos e já está aprendendo"+linguagem);
 
 
 
@@ -32,7 +32,7 @@ E aí, dependendo da resposta, ele deve mostrar uma das seguintes mensagens:
 let linguagem="Javascript";
 let programar=1;
 
-console.log("Você gosta de estudar [linguagem]?");
+console.log("Você gosta de estudar"+linguagem);
 
 
 if(programar==1){
