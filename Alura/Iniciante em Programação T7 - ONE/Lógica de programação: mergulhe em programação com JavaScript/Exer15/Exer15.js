@@ -71,7 +71,7 @@ else if( idade<18){
 
 
 
-let numero;
+let numero=1;
 
 
 let numero = prompt("Digite o numero:"); 
