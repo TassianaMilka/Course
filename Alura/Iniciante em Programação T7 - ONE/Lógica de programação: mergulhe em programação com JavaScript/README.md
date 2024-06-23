@@ -21,3 +21,15 @@ Quantas etapas?
 Foram cinco etapas.
 
 # Os principais pontos
+-Console.log;
+
+-alert;
+
+-if and else;
+
+-while;
+
+-Exercício para treinamento.
+
+
+
