@@ -25,6 +25,10 @@ Foram cinco etapas.
 
 1.Console.log;
 
+let num=1;
+
+-console.log('Informar'+num);
+
 2.alert;
 
 3.if and else;
