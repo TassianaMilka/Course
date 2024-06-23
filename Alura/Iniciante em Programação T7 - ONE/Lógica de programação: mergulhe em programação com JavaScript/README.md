@@ -52,17 +52,15 @@ There were five stages.
 
  
 
-The principals
-1.Described the evolution of connected devices such as cars;
+#  The principals
 
-2.On interconnection network;
+1.Console.log;
 
-3.Sensors;
+2.alert;
 
-4.Programming language python;
+3.if and else;
 
-5.Arduino which contains its use of the programming languages C and C++;
+4.while;
 
-6.How everything can be important for the present and future professionally.
+5.Exercise for training.
 
-I have already described a short text about arduino which is the following link:
