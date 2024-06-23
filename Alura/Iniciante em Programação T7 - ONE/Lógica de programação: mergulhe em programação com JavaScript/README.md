@@ -47,6 +47,15 @@ let num=2;
 
 4.while;
 
+let num;
+
+- while(num>2){
+
+- console.log('Numero'+num);
+
+- num++;
+
+}
 5.Exercício para treinamento.
 
 # English
