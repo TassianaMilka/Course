@@ -37,7 +37,7 @@ let num=1;
    
  console.log('Igual'+num);
 
-}else if(num>2){
+}else{
 
  console.log('Maior'+num);
  
