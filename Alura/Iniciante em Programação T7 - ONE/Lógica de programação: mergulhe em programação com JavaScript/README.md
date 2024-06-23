@@ -40,6 +40,7 @@ let num=1;
 }else if(num>2){
 
  console.log('Maior'+num);
+ 
 }
 
 4.while;
