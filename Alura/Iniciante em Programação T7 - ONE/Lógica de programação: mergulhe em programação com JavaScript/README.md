@@ -86,3 +86,13 @@ Lo celebré en 2024 en Junio;
 Tres pasos.
 
 # Los puntos principales
+
+1.Console.log;
+
+2.alert;
+
+3.if and else;
+
+4.while;
+
+5.Exercício para treinamento.
