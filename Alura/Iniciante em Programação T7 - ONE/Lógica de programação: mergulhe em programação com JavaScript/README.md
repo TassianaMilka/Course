@@ -51,7 +51,7 @@ let num;
 
 - while(num>2){
 
-- console.log('Numero'+num);
+ console.log('Numero'+num);
 
 - num++;
 
@@ -113,7 +113,7 @@ let num;
 
 - while(num>2){
 
-- console.log('Num'+num);
+  console.log('Num'+num);
 
 - num++;
 
@@ -154,6 +154,26 @@ let num=1;
  
 3.if and else;
 
+let num=2;
+
+if(num==2){
+console.log('='+num);
+
+}else{
+
+console.log('>'+num);
+
+}
+
 4.while;
+
+let num;
+
+- while(num>2){
+
+  console.log('Num'+num);
+
+- num++;
+
 
 5.Ejercicio para entrenar.
