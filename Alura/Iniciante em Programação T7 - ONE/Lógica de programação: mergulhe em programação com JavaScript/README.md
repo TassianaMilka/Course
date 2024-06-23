@@ -34,7 +34,7 @@ let num=1;
    
 3.if and else;
  - if(num==2){
- - 
+   
  console.log('Igual'+num);
 
 }else if(num>2){
