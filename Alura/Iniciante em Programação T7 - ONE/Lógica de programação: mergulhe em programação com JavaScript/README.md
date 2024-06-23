@@ -8,14 +8,14 @@ Sensores,microcontroladores e programação em internet das coisas
 Perguntas
 Aonde realizou?
 
-Foi realizado no site da faculdade Anhaguera;
+Foi realizado no site da Alura;
 
 Quando realizou?
 
-Realizei em 2024 entre fevereiro até junho;
+Realizei em 2024 em junho;
 
 Quantas etapas?
 
-Foram três etapas.
+Foram cinco etapas.
 
 Os principais pontos
