@@ -33,9 +33,12 @@ let num=1;
  - alert('Olá vamos começar');
    
 3.if and else;
- - if(num==2)
+ - if(num==2){
+ - 
  console.log('Igual'+num);
-else if(num>2){
+
+}else if(num>2){
+
  console.log('Maior'+num);
 }
 
