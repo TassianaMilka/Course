@@ -30,7 +30,8 @@ let num=1;
 - console.log('Informar'+num);
 
 2.alert;
-
+ - aler('Olá vamos começar');
+   
 3.if and else;
 
 4.while;
