@@ -2,5 +2,11 @@
 
 #  Principais pontos 
 
-Em breve.
+
+Começou e finalizou em 2024 Junho;
+
+
+
+
+
 
