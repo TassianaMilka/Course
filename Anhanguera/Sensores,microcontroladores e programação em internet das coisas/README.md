@@ -12,7 +12,7 @@ Foi realizado no site da faculdade Anhaguera;
 
 Quando realizou?
 
-Realizei em 2024 entre fevereiro até junho;
+Realizei em 2024 entre fevereiro até Junho;
 
 Quantas etapas?
 
