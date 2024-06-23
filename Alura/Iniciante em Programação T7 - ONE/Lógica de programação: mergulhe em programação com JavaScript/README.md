@@ -30,9 +30,14 @@ let num=1;
 - console.log('Informar'+num);
 
 2.alert;
- - aler('Olá vamos começar');
+ - alert('Olá vamos começar');
    
 3.if and else;
+ - if(num==2)
+ console.log('Igual'+num);
+else if(num>2){
+ console.log('Maior'+num);
+}
 
 4.while;
 
