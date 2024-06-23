@@ -87,11 +87,11 @@ There were five stages.
 
  let num=1;
 
-- console.log('Informar'+num);
+- console.log('num'+num);
 
 2.alert;
 
-- alert('Olá vamos começar');
+- alert('Hello star');
 
 3.if and else;
 
@@ -99,11 +99,11 @@ let num=2;
 
  - if(num==2){
    
- console.log('Igual'+num);
+ console.log('='+num);
 
 }else{
 
- console.log('Maior'+num);
+ console.log('>'+num);
  
 }
 
@@ -113,7 +113,7 @@ let num;
 
 - while(num>2){
 
-- console.log('Numero'+num);
+- console.log('Num'+num);
 
 - num++;
 
