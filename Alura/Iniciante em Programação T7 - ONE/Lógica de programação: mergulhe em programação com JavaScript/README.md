@@ -66,3 +66,23 @@ There were five stages.
 
 5.Exercise for training.
 
+
+# Espanõl
+
+Sensores, microcontroladores y programación en el internet de las cosas
+
+# Preguntas
+
+¿Dónde lo hiciste?
+
+En la página web del Alura;
+
+¿Cuándo sucedió?
+
+Lo celebré en 2024 en Junio;
+
+¿Cuántos pasos?
+
+Tres pasos.
+
+# Los puntos principales
