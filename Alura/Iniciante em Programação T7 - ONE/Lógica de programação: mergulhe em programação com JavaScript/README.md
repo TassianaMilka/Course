@@ -91,9 +91,32 @@ There were five stages.
 
 2.alert;
 
+- alert('Olá vamos começar');
+
 3.if and else;
 
+let num=2;
+
+ - if(num==2){
+   
+ console.log('Igual'+num);
+
+}else{
+
+ console.log('Maior'+num);
+ 
+}
+
 4.while;
+
+let num;
+
+- while(num>2){
+
+- console.log('Numero'+num);
+
+- num++;
+
 
 5.Exercise for training.
 
