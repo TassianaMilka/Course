@@ -83,7 +83,8 @@ Lo celebré en 2024 en Junio;
 
 ¿Cuántos pasos?
 
-Tres pasos.
+Cinco pasos.
+
 
 # Los puntos principales
 
@@ -95,4 +96,4 @@ Tres pasos.
 
 4.while;
 
-5.Exercício para treinamento.
+5.Ejercicio para entrenar.
