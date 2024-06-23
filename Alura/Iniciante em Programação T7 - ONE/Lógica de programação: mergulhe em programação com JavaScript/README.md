@@ -20,4 +20,4 @@ Quantas etapas?
 
 Foram cinco etapas.
 
-Os principais pontos
+# Os principais pontos
