@@ -33,6 +33,8 @@ let num=1;
  - alert('Olá vamos começar');
    
 3.if and else;
+
+let num=2;
  - if(num==2){
    
  console.log('Igual'+num);
