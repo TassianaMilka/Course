@@ -4,7 +4,9 @@ Write in portuguese, english and spanish.
 
 # Português
 
-Sensores,microcontroladores e programação em internet das coisas
+ Lógica de programação: mergulhe em programação com JavaScript
+
+ 
 Perguntas
 Aonde realizou?
 
