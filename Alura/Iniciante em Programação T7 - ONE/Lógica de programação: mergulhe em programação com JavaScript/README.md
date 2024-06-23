@@ -4,7 +4,7 @@ Write in portuguese, english and spanish.
 
 # Português
 
- Lógica de programação: mergulhe em programação com JavaScript
+# Lógica de programação: mergulhe em programação com JavaScript
 
  
 # Perguntas
@@ -35,7 +35,7 @@ Foram cinco etapas.
 
 # English
 
-Programming Logic: Dive into Programming with JavaScript
+# Programming Logic: Dive into Programming with JavaScript
 
 # Questions
 
@@ -69,7 +69,7 @@ There were five stages.
 
 # Espanõl
 
-Lógica de programación: Sumérgete en la programación con JavaScript
+# Lógica de programación: Sumérgete en la programación con JavaScript
 
 # Preguntas
 
