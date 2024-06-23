@@ -23,15 +23,15 @@ Foram cinco etapas.
 
 # Os principais pontos
 
--Console.log;
+1.Console.log;
 
--alert;
+2.alert;
 
--if and else;
+3.if and else;
 
--while;
+4.while;
 
--Exercício para treinamento.
+5.Exercício para treinamento.
 
 # English
 
