@@ -69,7 +69,7 @@ There were five stages.
 
 # Espanõl
 
-Sensores, microcontroladores y programación en el internet de las cosas
+Lógica de programación: Sumérgete en la programación con JavaScript
 
 # Preguntas
 
