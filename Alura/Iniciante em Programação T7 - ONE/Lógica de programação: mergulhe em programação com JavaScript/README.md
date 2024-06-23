@@ -27,7 +27,7 @@ Foram cinco etapas.
 
 let num=1;
 
--console.log('Informar'+num);
+- console.log('Informar'+num);
 
 2.alert;
 
