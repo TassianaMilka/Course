@@ -1,0 +1,51 @@
+alert('Olá a todos esse é o primeiro exemplo de Javascript do jogo');
+let numeroMaximo= 50000;
+/*Os nomes precisa ser claro para compreender*/ 
+/* Os número não é descrito com aspa pelo fato que é só utilizado para texto*/ 
+let  numeroSecreto = parseInt.(Math.randon()*numeroMaximo+1);
+console.log(numeroSecreto)
+let chute;
+/*let chute=prompt('Escolha um número entre 1 e 10');*/
+/*Loop(Enquanto não é igual a 5)*/ 
+while(chute!=numeroSecreto){
+
+let chute=prompt('Escolha um número entre 1 e '${numeroMaximo});
+
+/*Condição*/ 
+
+    if(chute==numeroSecreto){
+      
+  
+    }else{
+        if(chute>numeroSecreto){
+
+        alert('O número secreto é menor  que' ${chute});
+
+        }  else{
+
+        alert('O número secreto é maior que '${chute});
+      }
+
+     /* tentativa=tentativa+1;*/
+      tentativas++;
+
+    }
+} 
+let palavraTentativas= tentativas>1 ?'tentativas':'tentativa';
+alert('Você descobiru o número secreto' ${numeroSecreto} 'com '${tentativas} tentativas.${palavrasTentativas});
+
+/*if(tentativas>1){
+ alert('Você descobiru o número secreto ${numeroSecreto} com ${tentativas} tentativas.');
+}else{
+
+  alert('Você descobiru o número secreto ${numeroSecreto} com ${tentativas} tentativa.');
+
+}*/
+
+/*Aclopamento*/ 
+
+/*Templete String*/ 
+
+/*Live Sever*/ 
+
+
