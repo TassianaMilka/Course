@@ -144,8 +144,14 @@ Cinco pasos.
 
 1.Console.log;
 
+let num=1;
+
+- console.log('num'+num);
+
 2.alert;
 
+ - alert('Hola!');
+ 
 3.if and else;
 
 4.while;
