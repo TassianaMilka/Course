@@ -26,6 +26,26 @@ if(!acertou){
 
 console.log("Finalização");
 
-
+/*Com Math para número aleatório*/
 /*2*/
+const numero = parseInt(Math.random()*10);;
+let chute;
+let acertou = false;
+
+for(let contador = 0; contador < 3; contador++){    
+    chute = prompt("Tente adivinhar o número de 0 a 10:");
+    if(chute == numero){
+      console.log("Parabéns, você acertou! O número era="+ numero);
+       acertou = true;
+        break;
+    }
+}
+ 
+if(!acertou){
+   console.log ("Infelizmente, você não acertou. O número era="+numero);
+
+}
+
+console.log("Finalização");
+
 
