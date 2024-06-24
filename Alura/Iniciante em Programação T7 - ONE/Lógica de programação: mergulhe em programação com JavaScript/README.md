@@ -15,7 +15,7 @@ Foi realizado no site da Alura;
 
 Quando realizou?
 
-Realizei em 2024 em junho;
+Realizei em 2024 de Junho;
 
 Quantas etapas?
 
@@ -133,7 +133,7 @@ En la página web del Alura;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2024 en Junio;
+Lo celebré en 2024 de Junio;
 
 ¿Cuántos pasos?
 
