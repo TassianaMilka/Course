@@ -1,6 +1,6 @@
 /*Seu desafio de hoje é criar os destinos possíveis de um jogo, em que o usuário consiga escolher:
 
-1. Se quer seguir para área de Front-End ou seguir para a área de Back-End.
+1. Se quer seguir para área de Front-End ou seguir para a área de Back-End. 
 
 2. Caso esteja na área de Front-End, se quer aprender React ou aprender Vue. Caso esteja na área de Back-End, poderá aprender C# ou aprender Java.
 
