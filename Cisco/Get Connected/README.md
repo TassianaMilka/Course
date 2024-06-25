@@ -28,6 +28,6 @@ Foram cinco etapas.
 
 4.Dispositivo de entrada e saída;
 
-5. Como é o ambiente virtual da internet;
+5.Como é o ambiente virtual da internet;
 
 
