@@ -38,13 +38,13 @@ Foram cinco etapas.
 
 1.Write about the star technology;
 
-2.Diferença entre hardware,software and rede na forma de conectarem entre eles;
+2.
 
-3.Compreender como funciona o sistema operacional e diferença entre Windows,Linux w maCos;
+3.
 
-4.Dispositivo de entrada e saída;
+4.
 
-5.Como é o ambiente virtual da internet.
+5.
 
 # Questions
 
