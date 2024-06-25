@@ -36,7 +36,7 @@ Foram cinco etapas.
 # Get Connected
 
 
-1. Write about the star tecnology;
+1.Write about the star technology;
 
 2.Diferença entre hardware,software and rede na forma de conectarem entre eles;
 
