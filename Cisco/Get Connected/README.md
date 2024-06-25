@@ -51,3 +51,18 @@ There were five stages.
 
 # Espanõl 
 
+# Preguntas
+
+¿Dónde lo hiciste?
+
+En la página web del Cisco/Cisco Networking Academy;
+
+¿Cuándo sucedió?
+
+Lo celebré en 2024 de  Junio;
+
+¿Cuántos pasos?
+
+Cinco pasos.
+
+# Los puntos principales
