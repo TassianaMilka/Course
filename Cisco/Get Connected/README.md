@@ -49,7 +49,7 @@ How many steps?
 
 There were five stages.
 
-# ff
+# The principals
 
 # Espanõl 
 
