@@ -33,6 +33,8 @@ Foram cinco etapas.
 
 # English 
 
+# Get Connected
+
 # Questions
 
 Where did you do it?
@@ -50,6 +52,8 @@ There were five stages.
 # ff
 
 # Espanõl 
+
+# Get Connected
 
 # Preguntas
 
