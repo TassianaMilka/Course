@@ -81,3 +81,6 @@ Lo celebré en 2024 de  Junio;
 Cinco pasos.
 
 # Los puntos principales
+
+
+2.Diferencia entre hardware, software y red en la forma que se conectan entre sí;
