@@ -24,4 +24,16 @@ nome="Tassiana";
 imprimirmensagem();
 
 
+/*Criar uma função que recebe um número como parâmetro e retorna o dobro desse número.*/
+
+function imprimirdobro(numero){
+
+numero=2*7;
+
+    console.log("O número dobro da multiplicação é="+numero);
+    
+  
+}
+
+imprimirdobro();
 
