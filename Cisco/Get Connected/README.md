@@ -35,6 +35,17 @@ Foram cinco etapas.
 
 # Get Connected
 
+
+1. Write about the star tecnology;
+
+2.Diferença entre hardware,software and rede na forma de conectarem entre eles;
+
+3.Compreender como funciona o sistema operacional e diferença entre Windows,Linux w maCos;
+
+4.Dispositivo de entrada e saída;
+
+5.Como é o ambiente virtual da internet.
+
 # Questions
 
 Where did you do it?
