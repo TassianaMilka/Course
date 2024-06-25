@@ -69,3 +69,15 @@ console.log(numero);
 
 imprimirmaior();
 
+/*Criar uma função que recebe um número como parâmetro e retorna o resultado da multiplicação desse número por ele mesmo.*/
+
+function imprimirmultiplicar(multiplicar){
+
+multiplicar=9*9;
+   
+console.log("O números multiplicados contém o resultado igual="+multiplicar);
+    
+  
+}
+
+imprimirmultiplicar();
