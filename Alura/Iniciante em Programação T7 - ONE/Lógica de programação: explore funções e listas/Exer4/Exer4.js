@@ -53,3 +53,19 @@ console.log("O número dobro da multiplicação é="+media);
 
 imprimirmedia();
 
+
+/*Criar uma função que recebe dois números como parâmetros e retorna o maior deles.*/
+
+function imprimirmaior(a,b){
+
+
+return a > b ? a : b;
+
+
+}
+let numero;
+numero=imprimirmaior(2,4);
+console.log(numero);
+
+imprimirmaior();
+
