@@ -24,7 +24,7 @@ Foram cinco etapas.
 
 2.Diferença entre hardware,software e rede na forma de conectarem entre eles;
 
-3.Compreender como funciona o sistema operacional e diferença entre Windows,Linus w maCos;
+3.Compreender como funciona o sistema operacional e diferença entre Windows,Linux w maCos;
 
 4.Dispositivo de entrada e saída;
 
