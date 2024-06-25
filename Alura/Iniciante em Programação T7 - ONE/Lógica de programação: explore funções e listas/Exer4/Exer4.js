@@ -40,7 +40,7 @@ imprimirdobro();
 
 /*Criar uma função que recebe três números como parâmetros e retorna a média deles.*/
 
-function imprimirmedia(numero){
+function imprimirmedia(media){
 
 console.log(" O número da primeira prova foi 8");
 console.log( " O número da segunda prova foi 5");
