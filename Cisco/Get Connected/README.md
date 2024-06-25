@@ -82,5 +82,6 @@ Cinco pasos.
 
 # Los puntos principales
 
+1.Described about the beginning of technology;
 
 2.Diferencia entre hardware, software y red en la forma que se conectan entre sí;
