@@ -22,7 +22,7 @@ Foram cinco etapas.
 
 1.Descreveu sobre o começo da tecnologia;
 
-2.Diferença entre hardwar,software e rede na forma de conectarem entre eles;
+2.Diferença entre hardware,software e rede na forma de conectarem entre eles;
 
 3.Compreender como funciona o sistema operacional e diferença entre Windows,Linus w maCos;
 
