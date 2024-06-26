@@ -58,7 +58,7 @@ console.log("\n");
      console.log(" Tudo bem na sua escolha armazenado="+escolhe3);
      console.log("\n");
 
-escolhe4 = prompt(" Desja descrever mais especialização de tecnologia sim-[1] ou número aleatório para não.\n");
+escolhe4 = prompt(" Deseja descrever mais especialização de tecnologia sim-[1] ou número aleatório para não.\n");
 if(escolhe4==1){
       console.log("Armazenado os dados\n"+escolhe4) 
 
