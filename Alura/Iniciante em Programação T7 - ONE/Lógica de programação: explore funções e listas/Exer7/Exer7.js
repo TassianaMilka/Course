@@ -21,8 +21,9 @@ let num=5;
   /*Laço de repetição*/
    for(n = 1; n<= 5; n++) {
        /*Multiplicação*/
-      fatorial*=n;
+        fatorial*=n;
    }
  /*Imprimir*/
- console.log("Fatorial\n", num, fatorial);
+ console.log("Fatorial\n"+num, fatorial);
 Fatorialnum();
+
