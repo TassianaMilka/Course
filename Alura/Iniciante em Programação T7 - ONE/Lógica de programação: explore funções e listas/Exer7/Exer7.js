@@ -76,3 +76,14 @@ let raio =4;
 Areaperimetro();
 
 
+/*Crie uma função que mostre na tela a tabuada de um número dado como parâmetro.*/
+
+function Multiplicarnum(numero){
+  console.log("O resultado da multiplicação\n");
+}
+/*Realizar multiplicação*/
+let numero =2*5;
+ /*Imprimir*/
+   console.log(" "+numero);
+  
+Multiplicarnum();
