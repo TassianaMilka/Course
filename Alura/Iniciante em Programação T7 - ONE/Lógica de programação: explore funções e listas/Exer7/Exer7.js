@@ -58,4 +58,21 @@ let largura = 5;
 
 Areaperimetro();
 
+/*Crie uma função que mostre na tela a área e o perímetro de uma sala circular, utilizando seu raio que será fornecido como parâmetro. Considere Pi = 3,14.*/
+
+function Areaperimetro(altura,largura){
+    /*Imprimir*/
+    console.log("Área e Perimetro");
+    
+}
+let raio =4;
+/*Realizar multiplicação*/
+ let area = 3.14* raio* raio;
+ let perimetro = 2* 3.14 * raio;
+ /*Imprimir*/
+   console.log("Área-"+area);
+  console.log("Perímetro-"+perimetro);
+
+Areaperimetro();
+
 
