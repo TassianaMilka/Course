@@ -27,3 +27,16 @@ let num=5;
  console.log("Fatorial\n"+num, fatorial);
 Fatorialnum();
 
+/*Crie uma função que converte um valor em dólar, passado como parâmetro, e retorna o valor equivalente em reais. Para isso, considere a cotação do dólar igual a R$4,80.*/
+
+function Dolar( reais){
+    
+}
+let valor;
+ /*Informar*/
+ valor=prompt("Informa o valor=\n");
+  valorConvertido = valor * 4.80;
+  /*Imprimir*/
+console.log("Valor convertido de dolar para real: R$%"+ valorConvertido);
+Dolar();
+
