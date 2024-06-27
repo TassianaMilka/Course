@@ -40,3 +40,22 @@ let valor;
 console.log("Valor convertido de dolar para real: R$%"+ valorConvertido);
 Dolar();
 
+
+/*-Crie uma função que mostre na tela a área e o perímetro de uma sala retangular, utilizando altura e largura que serão dadas como parâmetro.*/
+
+function Areaperimetro(altura,largura){
+    /*Imprimir*/
+    console.log("Área e Perimetro");
+    
+}
+let altura = 4; 
+let largura = 5; 
+/*Realizar multiplicação*/
+ let area = altura * largura;
+ let perimetro = 2 * (altura + largura);
+   console.log("Área da sala-"+area);
+  console.log("Perímetro da sala-"+perimetro);
+
+Areaperimetro();
+
+
