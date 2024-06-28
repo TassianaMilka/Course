@@ -27,15 +27,15 @@ Foram cinco etapas.
 
 let num=1;
 
-- console.log('Informar'+num);
+console.log('Informar'+num);
 
 2.alert;
- - alert('Olá vamos começar');
+alert('Olá vamos começar');
    
 3.if and else;
 
 let num=2;
- - if(num==2){
+if(num==2){
    
  console.log('Igual'+num);
 
@@ -49,11 +49,11 @@ let num=2;
 
 let num;
 
-- while(num>2){
+while(num>2){
 
  console.log('Numero'+num);
 
-- num++;
+num++;
 
 }
 
@@ -87,17 +87,17 @@ There were five stages.
 
  let num=1;
 
-- console.log('num'+num);
+console.log('num'+num);
 
 2.alert;
 
-- alert('Hello star');
+alert('Hello star');
 
 3.if and else;
 
 let num=2;
 
- - if(num==2){
+if(num==2){
    
  console.log('='+num);
 
@@ -111,11 +111,11 @@ let num=2;
 
 let num;
 
-- while(num>2){
+while(num>2){
 
   console.log('Num'+num);
 
-- num++;
+  num++;
 
 
 5.Exercise for training.
@@ -146,11 +146,11 @@ Cinco pasos.
 
 let num=1;
 
-- console.log('num'+num);
+console.log('num'+num);
 
 2.alert;
 
- - alert('Hola!');
+alert('Hola!');
  
 3.if and else;
 
@@ -169,11 +169,11 @@ console.log('>'+num);
 
 let num;
 
-- while(num>2){
+while(num>2){
 
   console.log('Num'+num);
 
-- num++;
+num++;
 
 
 5.Ejercicio para entrenar.
