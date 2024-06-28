@@ -14,7 +14,8 @@ Quantas etapas?
 
 Foram cinco etapas.
 
-# Principais pontos
+# Os principais pontos
+
 
 - let titulo= document.querySelector('h1') 
 titulo.innerHTML= 'Jogo do número secreto';
