@@ -103,3 +103,25 @@ Lo celebré en 2024 de Junio;
 Cinco pasos.
 
 # Los puntos principales
+
+1.let titulo= document.querySelector('h1') titulo.innerHTML= 'Juego';
+
+2.exibirTextoNaTela('h1','Juego');
+
+3.parseInt(Math.random() * 3 + 1);
+
+4.function Num(mul){
+
+console.log("Example"); }
+
+let mul=2*5;
+
+console.log(mul);
+
+Num();
+
+5.puch() and pop();
+
+6.Array;
+
+7.Exercise for training.
