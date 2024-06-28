@@ -18,7 +18,7 @@ Foram cinco etapas.
 
 # Os principais pontos
 
-1.A importancia da rede social Linkedin;
+1.A importância da rede social Linkedin;
 
 2.Funcionamento;
 
