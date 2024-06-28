@@ -21,3 +21,11 @@ titulo.innerHTML= 'Jogo do número secreto';
 - exibirTextoNaTela('h1','Jogo de número secreto');
 
 - parseInt(Math.random() * 3 + 1);
+
+- function Num(mul){
+     console.log("Exemplo");
+    }
+    let mul=2*5;
+    console.log(mul);
+     Num();
+  
