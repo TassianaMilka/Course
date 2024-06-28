@@ -24,27 +24,17 @@ Foram cinco etapas.
 
 2.Diferença entre hardware,software e rede na forma de conectarem entre eles;
 
-3.Compreender como funciona o sistema operacional e diferença entre Windows,Linux w maCos;
+3.Compreender como funciona o sistema operacional e diferença entre Windows,Linux e maCos;
 
-4.Dispositivo de entrada e saída;
+4.Dispositivo de entrada e saída; 
 
-5.Como é o ambiente virtual da internet.
+5.O ambiente virtual da internet.
 
 
 # English 
 
 # Get Connected
 
-
-1.Write about the star technology;
-
-2.
-
-3.
-
-4.
-
-5.
 
 # Questions
 
@@ -61,6 +51,16 @@ How many steps?
 There were five stages.
 
 # The principals
+
+1.Described about the star technology ;
+
+2.Difference between hardware, software and net in the way they connect between them;
+
+3.Understand how the operating system and the difference between Windows, Linux and macOS;
+
+4.Input and output device;
+
+5.The virtual environment of the internet.
 
 # Espanõl 
 
@@ -85,5 +85,13 @@ Cinco pasos.
 1.Descrito sobre los inicios de la tecnología;
 
 2.Diferencia entre hardware, software y red en la forma que se conectan entre sí;
+
+3.Comprender cómo funciona el sistema operativo  la diferencia entre Windows, Linux y macOS;
+
+4.Dispositivo de entrada y salida;
+
+5.El entorno virtual de Internet.
+
+
 
 
