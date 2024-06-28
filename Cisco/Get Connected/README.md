@@ -30,6 +30,7 @@ Foram cinco etapas.
 
 5.O ambiente virtual da internet.
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 # English 
 
@@ -62,6 +63,9 @@ There were five stages.
 
 5.The virtual environment of the internet.
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+
 # Espanõl 
 
 # Get Connected
@@ -92,6 +96,7 @@ Cinco pasos.
 
 5.El entorno virtual de Internet.
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 https://www.linkedin.com/in/tassiana-milka/details/certifications/
 
