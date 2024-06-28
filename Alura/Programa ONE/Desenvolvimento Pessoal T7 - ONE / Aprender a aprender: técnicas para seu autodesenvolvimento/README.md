@@ -28,7 +28,7 @@ Foram cinco etapas.
 
 4.Disciplina;
 
-5.Elemine barreiras;
+5.Elimine barreiras;
 
 6.Lifelong learning;
 
@@ -70,35 +70,36 @@ There were five stages.
 
 # The principals
 
-1.Estilo de vida;
+1.Lifestyle;
 
-2.Razões para aprender;
+2.Reasons to learn;
 
 3.Ikigai;
 
-4.Disciplina;
+4.Discipline;
 
-5.Elemine barreiras;
+5.Eliminate barriers;
 
 6.Lifelong learning;
 
 7.Feedback;
 
-8.Mindset(fixo e crescimento);
+8.Mindset(fixed and growth);
 
-9.Modo(focado e difuso);
+9.Mode (focused and diffuse);
 
-10.Formatos de aprendizagem;
+10.Learning formats;
 
 11.Chunks;
 
-12.Definir metas;
+12.Set goals;
 
 13.Smart;
 
-14.Pirâmides de níveis;
+14.Level pyramids;
 
-15.Planejamento.
+15.Planning.
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
@@ -120,9 +121,35 @@ Cinco pasos.
 
 # Los puntos principales
 
+1.Modo de vida;
 
+2.Razones para aprender;
 
+3.Ikigai;
 
+4.Disciplina;
+
+5.Eliminar barreras;
+
+6.Lifelong learning;
+
+7.Feedback;
+
+8.Mindset(fijo y crecimiento);
+
+9.Modo (focalizado y difuso);
+
+10.Formatos de aprendizaje;
+
+11.Chunks;
+
+12.Establece metas;
+
+13.Smart;
+
+14.Pirámides niveladas;
+
+15.Planificación.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
