@@ -33,7 +33,7 @@ titulo.innerHTML= 'Jogo do número secreto';
   
    console.log(mul);
   
-    Num();
+   Num();
   
 5.puch() and pop();
 
