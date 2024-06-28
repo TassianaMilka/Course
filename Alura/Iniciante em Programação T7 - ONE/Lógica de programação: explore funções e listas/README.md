@@ -77,4 +77,4 @@ Num();
 
 6.Array;
 
-7.
+7.Exercise for training.
