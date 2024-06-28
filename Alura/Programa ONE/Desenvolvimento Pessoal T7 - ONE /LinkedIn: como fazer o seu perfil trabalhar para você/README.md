@@ -46,11 +46,11 @@ There were five stages.
 
 # The principals
 
-1. The importance of the social network Linkedin;
+1.The importance of the social network Linkedin;
 
-2. Operation;
+2.Operation;
 
-3. Ways to get results.
+3.Ways to get results.
    
 --------------------------------------------------------------------------------------------------------------------------------
 
