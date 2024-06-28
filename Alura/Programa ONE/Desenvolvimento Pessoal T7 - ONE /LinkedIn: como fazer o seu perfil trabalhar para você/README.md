@@ -70,6 +70,13 @@ Cinco pasos.
 
 # Los puntos principales
 
+1. La importancia de  red social Linkedin;
 
+2. Funcionamento;
+
+3. Formas de obtener resultados.
+
+   
+--------------------------------------------------------------------------------------------------------------------------------
 
 
