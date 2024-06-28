@@ -104,6 +104,8 @@ There were five stages.
 
 # Espanõl
 
+# Aprender a aprender: técnicas para tu autodesarrollo.
+
 # Preguntas
 
 ¿Dónde lo hiciste?
