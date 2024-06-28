@@ -68,7 +68,7 @@ How many steps?
 
 There were five stages.
 
-
+# The principals
 
 1.Estilo de vida;
 
