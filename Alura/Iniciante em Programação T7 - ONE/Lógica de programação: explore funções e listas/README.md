@@ -20,4 +20,4 @@ titulo.innerHTML= 'Jogo do número secreto';
 
 - exibirTextoNaTela('h1','Jogo de número secreto');
 
-  
+- parseInt(Math.random() * 3 + 1);
