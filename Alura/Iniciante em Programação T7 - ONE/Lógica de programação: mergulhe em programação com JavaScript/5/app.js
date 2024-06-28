@@ -3,7 +3,7 @@ let numeroMaximo= 50000;
 /*Os nomes precisa ser claro para compreender*/ 
 /* Os número não é descrito com aspa pelo fato que é só utilizado para texto*/ 
 let  numeroSecreto = parseInt.(Math.randon()*numeroMaximo+1);
-console.log(numeroSecreto)
+console.log(numeroSecreto);
 let chute;
 /*let chute=prompt('Escolha um número entre 1 e 10');*/
 /*Loop(Enquanto não é igual a 5)*/ 
