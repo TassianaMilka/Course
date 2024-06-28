@@ -54,7 +54,7 @@ Foram cinco etapas.
 
 # English
 
-# Learning to learn: techniques for your self-development.
+# Learning to learn: techniques for your self-development
 
 # Questions
 
@@ -106,7 +106,7 @@ There were five stages.
 
 # Espanõl
 
-# Aprender a aprender: técnicas para tu autodesarrollo.
+# Aprender a aprender: técnicas para tu autodesarrollo
 
 # Preguntas
 
