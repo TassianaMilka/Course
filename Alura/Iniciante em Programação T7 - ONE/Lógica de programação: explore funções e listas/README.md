@@ -26,14 +26,14 @@ titulo.innerHTML= 'Jogo do número secreto';
 
 4.function Num(mul){
 
-   -  console.log("Exemplo");
+ console.log("Exemplo");
     }
   
-    let mul=2*5;
+   let mul=2*5;
   
-    console.log(mul);
+   console.log(mul);
   
-     Num();
+    Num();
   
 5.puch() and pop();
 
