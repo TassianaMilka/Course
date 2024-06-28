@@ -126,3 +126,5 @@ Num();
 6.Array;
 
 7.Ejercicio para entrenar.
+
+https://www.linkedin.com/in/tassiana-milka/details/certifications/
