@@ -124,4 +124,4 @@ Num();
 
 6.Array;
 
-7.Exercise for training.
+7.Ejercicio para entrenar.
