@@ -14,6 +14,7 @@ Quantas etapas?
 
 Foram cinco etapas.
 
+# Principais pontos
 
 - let titulo= document.querySelector('h1') 
 titulo.innerHTML= 'Jogo do número secreto';
@@ -28,4 +29,9 @@ titulo.innerHTML= 'Jogo do número secreto';
     let mul=2*5;
     console.log(mul);
      Num();
+  
+- puch() and pop();
+
+- Array;
+  
   
