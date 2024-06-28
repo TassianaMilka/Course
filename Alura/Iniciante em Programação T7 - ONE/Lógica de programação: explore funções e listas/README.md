@@ -87,6 +87,7 @@ Num();
 
 # Espanõl
 
+# Lógica de programación:
 # Preguntas
 
 ¿Dónde lo hiciste?
