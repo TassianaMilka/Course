@@ -15,7 +15,7 @@ Quantas etapas?
 Foram cinco etapas.
 
 
--let titulo= document.querySelector('h1') 
+- let titulo= document.querySelector('h1') 
 titulo.innerHTML= 'Jogo do número secreto';
 
 -
