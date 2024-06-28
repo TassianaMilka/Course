@@ -17,16 +17,16 @@ Foram cinco etapas.
 # Os principais pontos
 
 
-- let titulo= document.querySelector('h1') 
+1.let titulo= document.querySelector('h1') 
 titulo.innerHTML= 'Jogo do número secreto';
 
-- exibirTextoNaTela('h1','Jogo de número secreto');
+2.exibirTextoNaTela('h1','Jogo de número secreto');
 
-- parseInt(Math.random() * 3 + 1);
+3.parseInt(Math.random() * 3 + 1);
 
-- function Num(mul){
-- 
-     console.log("Exemplo");
+4.function Num(mul){
+
+   -  console.log("Exemplo");
     }
   
     let mul=2*5;
@@ -35,8 +35,9 @@ titulo.innerHTML= 'Jogo do número secreto';
   
      Num();
   
-- puch() and pop();
+5.puch() and pop();
 
-- Array;
-  
+6.Array;
+
+7.Exercício para treinamento.
   
