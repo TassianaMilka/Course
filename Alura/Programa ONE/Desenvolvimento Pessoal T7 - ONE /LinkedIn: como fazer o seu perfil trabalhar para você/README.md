@@ -2,6 +2,8 @@ Write in portuguese, english and spanish.
 
 # Português
 
+# LinkedIn: como fazer o seu perfil trabalhar para você
+
 Aonde realizou?
 
 Foi realizado no site da Alura;
