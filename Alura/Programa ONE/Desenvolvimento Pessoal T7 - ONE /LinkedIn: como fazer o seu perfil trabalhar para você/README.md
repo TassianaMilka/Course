@@ -54,5 +54,22 @@ There were five stages.
    
 --------------------------------------------------------------------------------------------------------------------------------
 
+# Preguntas
+
+¿Dónde lo hiciste?
+
+En la página web del Alura;
+
+¿Cuándo sucedió?
+
+Lo celebré en 2024 de Junio;
+
+¿Cuántos pasos?
+
+Cinco pasos.
+
+# Los puntos principales
+
+
 
 
