@@ -57,3 +57,24 @@ There were five stages.
 
 # The principals
 
+1.let titulo= document.querySelector('h1') titulo.innerHTML= 'Game';
+
+2.exibirTextoNaTela('h1','Game');
+
+3.parseInt(Math.random() * 3 + 1);
+
+4.function Num(mul){
+
+console.log("Example"); }
+
+let mul=2*5;
+
+console.log(mul);
+
+Num();
+
+5.puch() and pop();
+
+6.Array;
+
+7.
