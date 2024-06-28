@@ -41,6 +41,8 @@ titulo.innerHTML= 'Jogo do número secreto';
 
 7.Exercício para treinamento.
 
+# English
+
 # Questions
  
 Where did you do it?
