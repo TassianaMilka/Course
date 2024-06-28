@@ -24,9 +24,23 @@ Foram cinco etapas.
 
 3.Formas para obter resultado;
 
-4. SSI.
+4.SSI.
 --------------------------------------------------------------------------------------------------------------------------------
 
+# Questions
 
+Where did you do it?
+
+It was held on the website of the Alura;
+
+When did it happen?
+
+I held it in 2024 the June;
+
+How many steps?
+
+There were five stages.
+
+The principals
 
 
