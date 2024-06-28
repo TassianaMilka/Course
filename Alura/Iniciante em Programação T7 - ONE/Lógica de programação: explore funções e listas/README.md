@@ -87,7 +87,8 @@ Num();
 
 # Espanõl
 
-# Lógica de programación:
+# Lógica de programación:explorar funciones y listas.
+
 # Preguntas
 
 ¿Dónde lo hiciste?
