@@ -62,7 +62,7 @@ num++;
 
 # English
 
-# Programming Logic: Dive into Programming with JavaScript
+# Programming logic: Dive into Programming with JavaScript
 
 # Questions
 
