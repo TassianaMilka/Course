@@ -26,6 +26,10 @@ Foram cinco etapas.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+# English
+
+# LinkedIn: How to Make Your Profile Work for You
+
 # Questions
 
 Where did you do it?
@@ -42,6 +46,12 @@ There were five stages.
 
 # The principals
 
+1. The importance of the social network Linkedin;
+
+2. Operation;
+
+3. Ways to get results.
+   
 --------------------------------------------------------------------------------------------------------------------------------
 
 
