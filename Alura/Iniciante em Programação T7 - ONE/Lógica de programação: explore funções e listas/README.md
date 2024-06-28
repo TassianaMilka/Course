@@ -81,6 +81,8 @@ Num();
 
 7.Exercise for training.
 
+# Espanõl
+
 # Preguntas
 
 ¿Dónde lo hiciste?
