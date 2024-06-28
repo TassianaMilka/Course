@@ -18,4 +18,6 @@ Foram cinco etapas.
 - let titulo= document.querySelector('h1') 
 titulo.innerHTML= 'Jogo do número secreto';
 
--
+- exibirTextoNaTela('h1','Jogo de número secreto');
+
+  
