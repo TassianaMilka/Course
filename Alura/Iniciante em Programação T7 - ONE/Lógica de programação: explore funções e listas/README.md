@@ -113,7 +113,7 @@ Cinco pasos.
 
 4.function Num(mul){
 
-console.log("Example"); }
+console.log("Ejemplo"); }
 
 let mul=2*5;
 
