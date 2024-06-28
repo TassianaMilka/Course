@@ -2,7 +2,7 @@ Write in portuguese, english and spanish.
 
 # Português
 
-# Aprender a aprender: técnicas para seu autodesenvolvimento.
+# Aprender a aprender: técnicas para seu autodesenvolvimento
 
 
 Aonde realizou?
