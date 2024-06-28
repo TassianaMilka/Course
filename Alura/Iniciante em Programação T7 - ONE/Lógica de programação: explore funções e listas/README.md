@@ -43,6 +43,8 @@ titulo.innerHTML= 'Jogo do número secreto';
 
 7.Exercício para treinamento.
 
+--------------------------------------------------------------------------------------------------------------------------------
+
 # English
 
 # Questions
@@ -85,6 +87,8 @@ Num();
 
 7.Exercise for training.
 
+--------------------------------------------------------------------------------------------------------------------------------
+
 # Espanõl
 
 # Lógica de programación:explorar funciones y listas.
@@ -126,5 +130,8 @@ Num();
 6.Array;
 
 7.Ejercicio para entrenar.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 
 https://www.linkedin.com/in/tassiana-milka/details/certifications/
