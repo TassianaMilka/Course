@@ -7,7 +7,7 @@ Depois, ela deverá inserir os dois valores que deseja utilizar, e o programa im
 As opções disponíveis deverão ser: soma, subtração, multiplicação, divisão, e sair. Nessa última, o programa deverá parar de ser executado, mostrando uma mensagem "Até a próxima".*/
 
 
-
+ 
 let escolheSN='s';
 let escolher;
 let mensagem="Até a próxima :)";
