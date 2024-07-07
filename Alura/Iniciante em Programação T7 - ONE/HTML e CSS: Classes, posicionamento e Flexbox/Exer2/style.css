@@ -1,0 +1,38 @@
+*{
+
+    background-color: aliceblue;
+    margin:0;
+    padding:0;
+    border:0;
+    content:0;
+}
+
+
+.titulo-blog{
+
+
+    color:#523b3b;
+    margin:0;
+    padding:0;
+    border:0;
+    content:0;
+}
+
+
+
+
+.texto-destaque{  
+   
+
+    color:#030303;
+
+}
+
+
+.urgente{
+
+
+    color:#fc0101;
+
+
+}
