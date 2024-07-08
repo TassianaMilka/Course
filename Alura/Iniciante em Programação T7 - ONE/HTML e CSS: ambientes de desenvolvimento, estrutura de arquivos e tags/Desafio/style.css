@@ -1,0 +1,46 @@
+body{
+
+    background-color: #d4babe;
+    border-radius:300px;
+    margin:0;
+    padding:0;
+}
+
+
+
+.image{
+
+    text-align:center;
+}
+
+
+img{
+
+    border-radius:20%;
+}
+
+h1{
+
+    color: brown;
+}
+
+
+
+p{ color: #000000;
+
+
+}
+
+
+a{
+
+
+   color: blueviolet;
+}
+
+menu{
+
+    background-color: #af9b93;
+   
+
+}
