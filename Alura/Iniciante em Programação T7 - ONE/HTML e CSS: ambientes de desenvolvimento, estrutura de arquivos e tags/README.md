@@ -28,15 +28,9 @@ Foram cinco etapas.
 
 4.p;
 
-5. background-color;
+5.button;
 
-6. font;
-
-7.
-
-
-
-
+6.background-color.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -60,6 +54,17 @@ There were five stages.
 
 # The principals
 
+1.Description about HTML and CSS;
+
+2.meta http-equiv="X-UA-Compatible" content="IE=edge";
+
+3.h1;
+
+4.p;
+
+5.button;
+
+6.background-color.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -83,7 +88,17 @@ Cinco pasos.
 
 # Los puntos principales
 
+1.Descripción sobre HTML y CSS;
 
+2.meta http-equiv="X-UA-Compatible" content="IE=edge";
+
+3.h1;
+
+4.p;
+
+5.button;
+
+6.background-color.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
