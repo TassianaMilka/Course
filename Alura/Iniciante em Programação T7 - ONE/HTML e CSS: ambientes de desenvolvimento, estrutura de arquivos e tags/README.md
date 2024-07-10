@@ -28,7 +28,11 @@ Foram cinco etapas.
 
 4.p;
 
-5. 
+5. background-color;
+
+6. font;
+
+7.
 
 
 
