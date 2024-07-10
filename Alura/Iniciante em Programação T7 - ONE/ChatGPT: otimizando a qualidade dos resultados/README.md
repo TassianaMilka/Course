@@ -4,6 +4,8 @@ Write in portuguese, english and spanish.
 
 # ChatGPT: otimizando a qualidade dos resultados
 
+# Perguntas
+
 Aonde realizou?
 
 Foi realizado no site da Alura;
