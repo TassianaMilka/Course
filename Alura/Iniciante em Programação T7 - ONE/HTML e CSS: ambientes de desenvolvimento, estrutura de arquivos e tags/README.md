@@ -2,7 +2,7 @@ Write in portuguese, english and spanish.
 
 # Português
 
-Lógica de programação: explore funções e listas
+#  HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
 
 # Perguntas
 
