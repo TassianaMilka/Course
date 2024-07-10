@@ -20,6 +20,9 @@ Foram cinco etapas.
 
 # Os principais pontos
 
+1.Descrição sobre HTML e CSS;
+
+2.
 
 
 
