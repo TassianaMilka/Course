@@ -26,4 +26,23 @@ Foram cinco etapas.
 
 # English 
 
+# Questions
+
+
+Programming logic: functions and lists.
+
+Where did you do it?
+
+It was held on the website of the Alura;
+
+When did it happen?
+
+I held it in 2024 the June;
+
+How many steps?
+
+There were five stages.
+
+# The principals
+
 
