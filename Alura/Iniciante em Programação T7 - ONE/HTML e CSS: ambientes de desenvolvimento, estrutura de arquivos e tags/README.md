@@ -22,7 +22,9 @@ Foram cinco etapas.
 
 1.Descrição sobre HTML e CSS;
 
-2.<!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+2.<meta http-equiv="X-UA-Compatible" content="IE=edge">;
+
+
 
 
 
