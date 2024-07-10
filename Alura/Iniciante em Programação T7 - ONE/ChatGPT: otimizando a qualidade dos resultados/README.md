@@ -76,7 +76,7 @@ Lo celebré en 2024 de Junio;
 
 ¿Cuántos pasos?
 
-cuato pasos.
+Cuatro pasos.
 
 # Los puntos principales
 
