@@ -29,7 +29,7 @@ Foram quatro etapas.
 
 # English 
 
-# ChatGPT: Optimizing the quality of results
+# ChatGPT: optimizing the quality of results
 
 # Questions
 
