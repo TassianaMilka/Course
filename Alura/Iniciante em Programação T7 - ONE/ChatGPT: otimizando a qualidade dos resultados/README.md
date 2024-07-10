@@ -70,4 +70,9 @@ cuato pasos.
 
 # Los puntos principales
 
+1.Sitios web;
+
+2.Uso;
+
+3.Formas/técnicas.
 
