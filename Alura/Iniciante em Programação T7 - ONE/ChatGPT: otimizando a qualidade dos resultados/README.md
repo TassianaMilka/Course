@@ -28,6 +28,8 @@ Foram quatro etapas.
 
 # English 
 
+# ChatGPT: 
+
 # Questions
 
 
