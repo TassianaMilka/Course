@@ -12,7 +12,7 @@ Foi realizado no site da Alura;
 
 Quando realizou?
 
-Realizei em 2024 de Junho;
+Realizei em 2024 de Julho;
 
 Quantas etapas?
 
@@ -44,7 +44,7 @@ It was held on the website of the Alura;
 
 When did it happen?
 
-I held it in 2024 the June;
+I held it in 2024 the July;
 
 How many steps?
 
@@ -74,7 +74,7 @@ En la página web del Alura;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2024 de Junio;
+Lo celebré en 2024 de Julo;
 
 ¿Cuántos pasos?
 
