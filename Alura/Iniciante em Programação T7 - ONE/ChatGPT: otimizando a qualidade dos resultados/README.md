@@ -1,6 +1,8 @@
 # Português
 
 
+# ChatGPT: otimizando a qualidade dos resultados
+
 Aonde realizou?
 
 Foi realizado no site da Alura;
