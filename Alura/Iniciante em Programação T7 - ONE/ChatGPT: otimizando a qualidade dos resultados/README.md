@@ -1,5 +1,6 @@
-# Português
+Write in portuguese, english and spanish.
 
+# Português
 
 # ChatGPT: otimizando a qualidade dos resultados
 
