@@ -28,7 +28,7 @@ Foram cinco etapas.
 
 # English
 
-# 
+#  HTML e CSS: development environments, file structure and tags
 
 # Questions
 
@@ -51,6 +51,7 @@ There were five stages.
 
 # Espanõl
 
+# HTML e CSS: entornos de desarrollo, estructura de archivos y etiquetas
 
 # Preguntas
 
