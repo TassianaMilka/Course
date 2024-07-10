@@ -49,9 +49,9 @@ titulo.innerHTML= 'Jogo do número secreto';
 
 # English
 
-# Questions
-
 # Programming logic:  functions  and  lists.
+
+# Questions
  
 Where did you do it?
 
