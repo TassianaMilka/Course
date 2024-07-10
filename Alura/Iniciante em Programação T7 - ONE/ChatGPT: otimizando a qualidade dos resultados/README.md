@@ -15,4 +15,15 @@ Foram cinco etapas.
 
 # Os principais pontos
 
-1.
+1.Sites;
+
+2.Utilização;
+
+3.Formas/técnica para utilizar.
+
+
+
+
+# English 
+
+
