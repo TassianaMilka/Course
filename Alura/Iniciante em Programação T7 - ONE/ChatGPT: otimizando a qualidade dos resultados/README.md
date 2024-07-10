@@ -19,7 +19,7 @@ Foram quatro etapas.
 
 2.Utilização;
 
-3.Formas/técnica para utilizar.
+3.Formas/técnicas.
 
 
 
@@ -49,5 +49,8 @@ There were four stages.
 
 2.Use;
 
-3.Shapes/technique.
+3.Shapes/techniques.
+
+
+
 
