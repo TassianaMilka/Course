@@ -4,6 +4,8 @@ Write in portuguese, english and spanish.
 
 # Lógica de programação: explore funções e listas
 
+# Perguntas
+
 Aonde realizou?
 
 Foi realizado no site da Alura;
