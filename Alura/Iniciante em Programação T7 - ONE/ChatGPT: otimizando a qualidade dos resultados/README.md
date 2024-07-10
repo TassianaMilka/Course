@@ -45,10 +45,9 @@ There were four stages.
 
 # The principals
 
+1.Websites;
 
-1. Websites;
-
-2. Use;
+2.Use;
 
 3.Shapes/technique.
 
