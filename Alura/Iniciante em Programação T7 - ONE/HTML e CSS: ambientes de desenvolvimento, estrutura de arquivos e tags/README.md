@@ -41,6 +41,10 @@ Num();
 
 7.Exercício para treinamento.
 
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 # English
 Programming logic: functions and lists.
 Questions
@@ -79,6 +83,9 @@ Num();
 
 7.Exercise for training.
 
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 Espanõl
 Lógica de programación:explorar funciones y listas.
 Preguntas
@@ -116,6 +123,9 @@ Num();
 6.Array;
 
 7.Ejercicio para entrenar.
+
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 https://www.linkedin.com/in/tassiana-milka/details/certifications/
 
