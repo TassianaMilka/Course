@@ -41,7 +41,7 @@ I held it in 2024 the June;
 
 How many steps?
 
-There were for stages.
+There were four stages.
 
 # The principals
 
