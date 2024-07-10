@@ -52,5 +52,22 @@ There were four stages.
 3.Shapes/techniques.
 
 
+# Espanõl
+
+# Preguntas
+
+¿Dónde lo hiciste?
+
+En la página web del Alura;
+
+¿Cuándo sucedió?
+
+Lo celebré en 2024 de Junio;
+
+¿Cuántos pasos?
+
+cuato pasos.
+
+# Los puntos principales
 
 
