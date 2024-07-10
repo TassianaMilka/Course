@@ -80,7 +80,7 @@ En la página web del Alura;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2024 de Junio;
+Lo celebré en 2024 de Julio;
 
 ¿Cuántos pasos?
 
