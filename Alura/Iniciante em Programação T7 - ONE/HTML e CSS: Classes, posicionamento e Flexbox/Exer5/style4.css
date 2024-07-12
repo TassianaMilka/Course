@@ -1,0 +1,10 @@
+
+body{
+
+    background-color: #8f5328;
+    margin:10% 15%;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+
+}

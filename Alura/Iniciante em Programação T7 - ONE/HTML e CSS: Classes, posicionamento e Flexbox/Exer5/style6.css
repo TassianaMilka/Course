@@ -1,0 +1,12 @@
+
+body{
+    margin:10;
+    padding:0;
+    background-color: #646777;
+}
+
+.responsivo-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
