@@ -34,7 +34,7 @@ Foram cinco etapas.
 
 # English
 
-HTML e CSS: 
+# HTML and CSS: Classes, Positioning, and Flexbox
 
 # Questions
 
@@ -81,6 +81,7 @@ Cinco pasos.
 
 # Los puntos principales
 
+# 
 1.Nobre de classe;
 
 2.flex;
