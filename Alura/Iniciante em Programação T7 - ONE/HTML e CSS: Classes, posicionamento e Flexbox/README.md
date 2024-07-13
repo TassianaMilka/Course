@@ -24,13 +24,9 @@ Foram cinco etapas.
 
 2.flex;
 
-3.strong;
+3.color para button;
 
-4.span;
-
-5.color para button;
-
-6.margin e padding.
+4.margin e padding.
 
 # English
 
@@ -56,13 +52,9 @@ There were five stages.
 
 2.flex;
 
-3.strong;
+3.color a to button;
 
-4.span;
-
-5.color a to button;
-
-6.margin and padding.
+4.margin and padding.
 
 # Espanõl
 
@@ -88,10 +80,6 @@ Cinco pasos.
 
 2.flex;
 
-3.strong;
+3.color para button;
 
-4.span;
-
-5.color para button;
-
-6.margin y padding.
+4.margin y padding.
