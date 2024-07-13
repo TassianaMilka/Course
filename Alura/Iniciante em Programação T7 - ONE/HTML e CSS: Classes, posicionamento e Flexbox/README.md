@@ -64,9 +64,12 @@ There were five stages.
 
 6.margin and padding.
 
-Espanõl
-HTML e CSS: entornos de desarrollo, estructura de archivos y etiquetas
-Preguntas
+# Espanõl
+
+# HTML y CSS: Clases, Posicionamiento y Flexbox
+
+# Preguntas
+
 ¿Dónde lo hiciste?
 
 En la página web del Alura;
@@ -81,7 +84,6 @@ Cinco pasos.
 
 # Los puntos principales
 
-# 
 1.Nobre de classe;
 
 2.flex;
