@@ -18,20 +18,22 @@ Quantas etapas?
 
 Foram cinco etapas.
 
-Os principais pontos
-1.Descrição sobre HTML e CSS;
+# Os principais pontos
 
-2.meta http-equiv="X-UA-Compatible" content="IE=edge";
+1.Nome de classe;
 
-3.h1;
+2.flex;
 
-4.p;
+3.strong;
 
-5.button;
+4.span;
 
-6.background-color.
+5.color para button;
+
+6.margin e padding.
 
 # English
+
 HTML e CSS: 
 
 # Questions
@@ -50,17 +52,17 @@ There were five stages.
 
 # The principals
 
-1.Description about HTML and CSS;
+1.Name class;
 
-2.meta http-equiv="X-UA-Compatible" content="IE=edge";
+2.flex;
 
-3.h1;
+3.strong;
 
-4.p;
+4.span;
 
-5.button;
+5.color a to button;
 
-6.background-color.
+6.margin and padding.
 
 Espanõl
 HTML e CSS: entornos de desarrollo, estructura de archivos y etiquetas
@@ -79,14 +81,14 @@ Cinco pasos.
 
 # Los puntos principales
 
-1.Descripción sobre HTML y CSS;
+1.Nobre de classe;
 
-2.meta http-equiv="X-UA-Compatible" content="IE=edge";
+2.flex;
 
-3.h1;
+3.strong;
 
-4.p;
+4.span;
 
-5.button;
+5.color para button;
 
-6.background-color.
+6.margin y padding.
