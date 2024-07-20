@@ -23,6 +23,6 @@ Foram cinco etapas.
 
 1.Arrumar uma página ideal em diversas formas de visualizar;
 
-2.Divisão de rem;
+2.Divisão de rem na font-size:1.5rem;
 
 3.
