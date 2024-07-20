@@ -34,20 +34,60 @@ Foram cinco etapas.
 # Englsih 
 
 
+HTML e CSS: development environments, file structure and tags
+
+# Questions
+
+Where did you do it?
+
+It was held on the website of the Alura;
+
+When did it happen?
+
+I held it in 2024 the June;
+
+How many steps?
+
+There were five stages.
+
+# The principals
+
+1.Description about HTML and CSS;
+
+2.meta http-equiv="X-UA-Compatible" content="IE=edge";
+
+3.h1;
+
+4.p;
+
+5.button;
+
+6.background-color.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-# Esoanõl 
+# Espanõl
+
+HTML e CSS: entornos de desarrollo, estructura de archivos y etiquetas
+
+# Preguntas
+
+¿Dónde lo hiciste?
+
+En la página web del Alura;
+
+¿Cuándo sucedió?
+
+Lo celebré en 2024 de Julio;
+
+¿Cuántos pasos?
+
+Cinco pasos.
+
+# Los puntos principales
 
 
-
-
-
-
-
-
-# Espanõl 
-
+--------------------------------------------------------------------------------------------------------------------------------
 
 
 
