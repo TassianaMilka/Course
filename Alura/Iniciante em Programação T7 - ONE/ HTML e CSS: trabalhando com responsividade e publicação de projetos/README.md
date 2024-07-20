@@ -27,7 +27,7 @@ Foram cinco etapas.
 
 3.@media(max-width:1200px);
 
-4.windh:auto;
+4.width:auto;
 
 
 
