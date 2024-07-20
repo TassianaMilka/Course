@@ -28,9 +28,12 @@ Foram cinco etapas.
 
 4.width:auto.
 
-Englsih
-HTML e CSS: working with responsiveness and publishing projects
+# Englsih
+
+HTML e CSS:
+
 Questions
+
 Where did you do it?
 
 It was held on the website of the Alura;
@@ -43,18 +46,15 @@ How many steps?
 
 There were five stages.
 
-The principals
-1.Ideal page in different ways of viewing;
+# The principals
 
-2.Division of rem na font-size:1.5rem;
 
-3.@media(max-width:1200px);
+# Espanõl
 
-4.width:auto.
+# HTML e CSS: 
 
-Espanõl
-HTML e CSS: trabajando con proyectos de capacidad de respuesta y publicación
-Preguntas
+# Preguntas
+
 ¿Dónde lo hiciste?
 
 En la página web del Alura;
@@ -67,13 +67,7 @@ Lo celebré en 2024 de Julio;
 
 Cinco pasos.
 
-Los puntos principales
-1.Página ideal en diferentes formas de visualización;
+# Los puntos principales
 
-2.Division de rem na font-size:1.5rem;
-
-3.@media(max-width:1200px);
-
-4.width:auto.
 
 
