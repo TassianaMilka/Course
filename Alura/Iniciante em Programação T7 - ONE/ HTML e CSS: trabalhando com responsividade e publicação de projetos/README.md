@@ -21,7 +21,7 @@ Foram cinco etapas.
 
 # Os principais pontos
 
-1.Arrumar uma página ideal em diversas formas de visualizar;
+1.Página ideal em diversas formas de visualizar;
 
 2.Divisão de rem na font-size:1.5rem;
 
@@ -52,17 +52,15 @@ There were five stages.
 
 # The principals
 
-1.Description about HTML and CSS;
+1.Ideal page in different ways of viewing;
 
-2.meta http-equiv="X-UA-Compatible" content="IE=edge";
+2.Division of rem na font-size:1.5rem;
 
-3.h1;
+3.@media(max-width:1200px);
 
-4.p;
+4.width:auto.
 
-5.button;
 
-6.background-color.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -85,6 +83,14 @@ Lo celebré en 2024 de Julio;
 Cinco pasos.
 
 # Los puntos principales
+
+1.Página ideal en diferentes formas de visualización;
+
+2.Division de rem na font-size:1.5rem;
+
+3.@media(max-width:1200px);
+
+4.width:auto.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
