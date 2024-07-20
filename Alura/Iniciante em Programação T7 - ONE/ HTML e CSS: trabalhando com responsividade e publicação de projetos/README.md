@@ -25,4 +25,6 @@ Foram cinco etapas.
 
 2.Divisão de rem na font-size:1.5rem;
 
-3.
+3.@media(max-width:1200px);
+
+4.width🧑‍🚀;
