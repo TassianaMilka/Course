@@ -1,0 +1,12 @@
+
+section{
+    border-style: solid;    
+    border-color:red;   
+    margin: 10%;   
+    display: flex;  
+    justify-content: space-around;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+
+}
