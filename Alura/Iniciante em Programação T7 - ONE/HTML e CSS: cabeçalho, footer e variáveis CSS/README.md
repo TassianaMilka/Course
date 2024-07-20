@@ -51,7 +51,7 @@ There were five stages.
 
 # Espanõl
 
-# HTML e CSS: 
+# HTML e CSS: variables de encabezado, pie de página y CSS
 
 # Preguntas
 
