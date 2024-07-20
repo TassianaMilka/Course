@@ -27,4 +27,19 @@ Foram cinco etapas.
 
 3.@media(max-width:1200px);
 
-4.width🧑‍🚀;
+4.windh:auto;
+
+
+
+# Englsih 
+
+
+
+
+
+# Espanõl 
+
+
+
+
+
