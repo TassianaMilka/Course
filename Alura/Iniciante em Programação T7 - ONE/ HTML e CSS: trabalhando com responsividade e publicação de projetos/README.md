@@ -66,7 +66,7 @@ There were five stages.
 
 # Espanõl
 
-HTML e CSS: trabajando con proyectos de capacidad de respuesta y publicación
+# HTML e CSS: trabajando con proyectos de capacidad de respuesta y publicación
 
 # Preguntas
 
