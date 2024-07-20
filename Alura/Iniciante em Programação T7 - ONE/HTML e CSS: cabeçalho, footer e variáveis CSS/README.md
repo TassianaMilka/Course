@@ -20,13 +20,6 @@ Foram cinco etapas.
 
 # Os principais pontos
 
-1.Página ideal em diversas formas de visualizar;
-
-2.Divisão de rem na font-size:1.5rem;
-
-3.@media(max-width:1200px);
-
-4.width:auto.
 
 # Englsih
 
