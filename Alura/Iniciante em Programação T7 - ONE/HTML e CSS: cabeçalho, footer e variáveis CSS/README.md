@@ -24,7 +24,9 @@ Foram cinco etapas.
 
 2../img/montanha.png;
 
-3.
+3. border-style: solid;
+
+4. 
 
 # Englsih
 
