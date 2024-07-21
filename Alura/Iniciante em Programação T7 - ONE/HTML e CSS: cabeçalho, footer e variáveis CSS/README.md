@@ -24,11 +24,13 @@ Foram cinco etapas.
 
 2../img/montanha.png;
 
-3. border-style: solid;
+3.border-style: solid;
 
-4. header  e footer;
+4.header  e footer;
 
-5.
+5.nav;
+
+
 
 # Englsih
 
