@@ -20,6 +20,11 @@ Foram cinco etapas.
 
 # Os principais pontos
 
+1.margin:12px;
+
+2../img/montanha.png;
+
+3.
 
 # Englsih
 
