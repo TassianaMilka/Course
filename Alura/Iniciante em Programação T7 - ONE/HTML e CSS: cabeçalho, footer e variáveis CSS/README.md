@@ -30,6 +30,7 @@ Foram cinco etapas.
 
 5.nav;
 
+6.:root.
 
 
 # Englsih
@@ -52,6 +53,17 @@ There were five stages.
 
 # The principals
 
+1.margin:12px;
+
+2../img/montanha.png;
+
+3.border-style: solid;
+
+4.header  e footer;
+
+5.nav;
+
+6.:root.
 
 # Espanõl
 
@@ -73,5 +85,16 @@ Cinco pasos.
 
 # Los puntos principales
 
+1.margin:12px;
+
+2../img/montanha.png;
+
+3.border-style: solid;
+
+4.header  e footer;
+
+5.nav;
+
+6.:root.
 
 
