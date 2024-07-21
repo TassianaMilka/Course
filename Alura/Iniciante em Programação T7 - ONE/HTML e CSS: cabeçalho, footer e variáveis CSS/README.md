@@ -26,7 +26,9 @@ Foram cinco etapas.
 
 3. border-style: solid;
 
-4. 
+4. <header>  e <footer>;
+
+5.
 
 # Englsih
 
