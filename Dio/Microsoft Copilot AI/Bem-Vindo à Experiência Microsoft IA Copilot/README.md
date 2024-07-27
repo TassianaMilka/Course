@@ -20,13 +20,16 @@ Foram uma etapa.
 
 # Os principais pontos
 
-1.
+1.Começo;
 
+2.Copilot;
+
+3.Uma noção sobre a ferramenta.
 
 
 # English
 
-# 
+# Welcome expericiation in Microsoft AI Copilot
 
 # Questions
 
@@ -43,50 +46,26 @@ There were one stage.
 
 # The principals 
 
-1.Described the evolution of connected devices such as cars;
-
-2.On interconnection network;
-
-3.Sensors;
-
-4.Programming language python;
-
-5.Arduino which contains its use of the programming languages C and C++;
-
-6.How everything can be important for the present and future professionally.
-
-I have already described a short text about arduino which is the following link:
-
-https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
 # Espanõl
 
-# Sensores, microcontroladores y programación en el internet de las cosas
+# Ben-viendo    en Microsoft IA Copilot
 
 # Preguntas
 
 ¿Dónde lo hiciste?
 
-En la página web del universidad Anhaguera;
+En la página web del Dio;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2024 entre Febrero y Junio;
+Lo celebré en 2024 de Julio;
 
 ¿Cuántos pasos?
 
-Tres pasos.
+un paso.
 
 # Los puntos principales 
 
-1.Describió la evolución de los dispositivos conectados, como los automóviles;
+1.
 
-2.En la interconexión a la red;
-
-3.Sensores;
-
-4.Lenguaje de programación python;
-
-5.Arduino que contiene el uso de los lenguajes de programación C y C++;
-
-6.Cómo todo puede ser importante para el negocio presente y futuro.
