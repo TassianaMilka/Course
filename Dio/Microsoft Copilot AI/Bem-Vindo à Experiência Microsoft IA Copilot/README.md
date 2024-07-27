@@ -68,5 +68,9 @@ un paso.
 
 # Los puntos principales 
 
-1.
+1.Inicio;
+
+2.Copilot;  
+
+3.Comprensión de la herramienta.
 
