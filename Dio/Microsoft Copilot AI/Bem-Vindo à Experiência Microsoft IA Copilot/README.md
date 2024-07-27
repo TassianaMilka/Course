@@ -8,7 +8,7 @@ Write in portuguese, english and spanish.
 
 Aonde realizou?
 
-Foi realizado no site da faculdade Anhaguera;
+Foi realizado no site da Dio;
 
 Quando realizou?
 
@@ -16,39 +16,26 @@ Realizei em 2024 entre Fevereiro até Junho;
 
 Quantas etapas?
 
-Foram três etapas.
+Foram uma etapa.
 
 # Os principais pontos
 
-1.Descreveu sobre a evolução de aparelhos conectados como os carros;
+1.
 
-2.Sobre a interligação da rede;
 
-3.Sensores;
-
-4.Linguagem de programação o python;
-
-5.Arduino que contém a sua utilização das linguagens de programação o C e C++;
-
-6.Como tudo pode ser importante para o presente e o futuro comercial.
-
-Já descrevi um pequeno texto sobre arduino que é o link a seguir:
-
-https://github.com/TassianaMilka/Project-Write/tree/main/Write%20text/Arduino
 
 # English
 
-# Sensors, microcontrollers and programming in the internet of things
+# 
 
 # Questions
 
 Where did you do it?
 
-It was held on the website of the Anhaguera university;
-
+It was held on the website of the Dio;
 When did it happen?
 
-I held it in 2024 between February and June;
+In 2024 the July;
 
 How many steps?
 
