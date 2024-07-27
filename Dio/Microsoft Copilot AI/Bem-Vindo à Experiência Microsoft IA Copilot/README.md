@@ -39,7 +39,7 @@ In 2024 the July;
 
 How many steps?
 
-There were three stages.
+There were one stage.
 
 # The principals 
 
