@@ -46,6 +46,11 @@ There were one stage.
 
 # The principals 
 
+1.Start;
+
+2.Copilot;
+
+3.Understanding of the tool.
 
 # Espanõl
 
