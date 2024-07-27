@@ -29,7 +29,7 @@ Foram uma etapa.
 
 # English
 
-# Welcome expericiation in Microsoft AI Copilot
+# Welcome experience in Microsoft AI Copilot
 
 # Questions
 
