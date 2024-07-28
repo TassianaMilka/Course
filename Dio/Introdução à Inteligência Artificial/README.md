@@ -18,12 +18,13 @@ Quantas etapas?
 
 Foram uma etapa.
 
-Os principais pontos
-1.Começo;
+# Os principais pontos
 
-2.Copilot;
+1.Aprendizado de máquina;
 
-3.Uma noção sobre a ferramenta.
+2.Inteligência Artificial IA(Neural);
+
+3.Robótica.
 
 # English
 
