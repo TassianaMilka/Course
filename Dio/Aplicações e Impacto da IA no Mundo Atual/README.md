@@ -16,7 +16,7 @@ Realizei em 2024 de Julho;
 
 Quantas etapas?
 
-Foram uma etapa.
+Foram cinco etapas.
 
 # Os principais pontos
 
