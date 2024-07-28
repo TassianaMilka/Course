@@ -32,7 +32,7 @@ Foram cinco etapas.
 
 6.Interagir;
 
-7.feedback.
+7.Feedback.
 
 
 # English
