@@ -49,6 +49,11 @@ There were one stage.
 
 # The principals
 
+1.Machine learning;
+
+2.Artificial Intelligence AI (Neural);
+
+3.Robotics.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
