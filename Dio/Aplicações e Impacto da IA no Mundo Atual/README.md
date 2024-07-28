@@ -55,6 +55,19 @@ There were five stages.
 
 # The principals
 
+1.Supervised learning;
+
+2.Unsupervised learning;
+
+3.Reinforcement learning;
+
+4.Understand;
+
+5.Interpret;
+
+6.Interact;
+
+7.Feedback.
 
 # Espanõl
 
