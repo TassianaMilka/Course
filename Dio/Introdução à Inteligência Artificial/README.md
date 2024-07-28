@@ -26,6 +26,8 @@ Foram uma etapa.
 
 3.Robótica.
 
+
+
 # English
 
 Welcome experience in Microsoft AI Copilot
@@ -50,9 +52,14 @@ There were one stage.
 
 3.Understanding of the tool.
 
-Espanõl
-Bienvenido experiencia en Microsoft IA Copilot
-Preguntas
+
+
+# Espanõl
+
+# 
+
+# Preguntas
+
 ¿Dónde lo hiciste?
 
 En la página web del Dio;
@@ -65,9 +72,5 @@ Lo celebré en 2024 de Julio;
 
 un paso.
 
-Los puntos principales
-1.Inicio;
+# Los puntos principales
 
-2.Copilot;
-
-3.Comprensión de la herramienta.
