@@ -100,7 +100,3 @@ Cinco pasos.
 
 6.background-color.
 
---------------------------------------------------------------------------------------------------------------------------------
-
-https://www.linkedin.com/in/tassiana-milka/details/certifications/
-
