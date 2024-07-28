@@ -93,8 +93,5 @@ Cinco pasos.
 4.width:auto.
 
 
---------------------------------------------------------------------------------------------------------------------------------
-
-https://www.linkedin.com/in/tassiana-milka/details/certifications/
 
 
