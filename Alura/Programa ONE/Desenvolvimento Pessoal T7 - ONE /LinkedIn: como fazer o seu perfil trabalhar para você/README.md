@@ -81,6 +81,4 @@ Cinco pasos.
 
 3.Formas de obtener resultados.
 
---------------------------------------------------------------------------------------------------------------------------------
 
-https://www.linkedin.com/in/tassiana-milka/details/certifications/
