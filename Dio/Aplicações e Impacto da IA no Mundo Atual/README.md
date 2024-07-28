@@ -53,16 +53,14 @@ How many steps?
 
 There were one stage.
 
-The principals
-1.Machine learning;
+# The principals
 
-2.Artificial Intelligence AI (Neural);
 
-3.Robotics.
+# Espanõl
 
-Espanõl
-Introducción Inteligencia Artificial
-Preguntas
+# 
+#  Preguntas
+
 ¿Dónde lo hiciste?
 
 En la página web del Dio;
@@ -75,9 +73,5 @@ Lo celebré en 2024 de Julio;
 
 un paso.
 
-Los puntos principales
-1.Aprendizaje automático;
+# Los puntos principales
 
-2.Inteligencia Artificial AI (Neural);
-
-3.Robótica.
