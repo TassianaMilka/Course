@@ -30,7 +30,7 @@ Foram uma etapa.
 
 # English
 
-# Introducition Intelligent Artificial 
+#   Introduction Intelligence Artificial
 
 
 # Questions
