@@ -12,7 +12,7 @@ Foi realizado no site da Dio;
 
 Quando realizou?
 
-Realizei em 2024 entre Fevereiro até Junho;
+Realizei em 2024 de Julho;
 
 Quantas etapas?
 
@@ -25,9 +25,12 @@ Os principais pontos
 
 3.Uma noção sobre a ferramenta.
 
-English
+# English
+
 Welcome experience in Microsoft AI Copilot
-Questions
+
+# Questions
+
 Where did you do it?
 
 It was held on the website of the Dio; When did it happen?
@@ -38,7 +41,8 @@ How many steps?
 
 There were one stage.
 
-The principals
+# The principals
+
 1.Start;
 
 2.Copilot;
