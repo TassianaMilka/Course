@@ -88,9 +88,5 @@ Cuatro pasos.
 
 3.Formas/técnicas.
 
---------------------------------------------------------------------------------------------------------------------------------
-
-
-https://www.linkedin.com/in/tassiana-milka/details/certifications/
 
 
