@@ -26,7 +26,13 @@ Foram cinco etapas.
 
 3.Aprendizado por reforço;
 
-4.
+4.Compreender;
+
+5.Intepretar;
+
+6.Interagir;
+
+7.
 
 
 
