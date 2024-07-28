@@ -35,7 +35,9 @@ Foram uma etapa.
 
 Where did you do it?
 
-It was held on the website of the Dio; When did it happen?
+It was held on the website of the Dio; 
+
+When did it happen?
 
 In 2024 the July;
 
