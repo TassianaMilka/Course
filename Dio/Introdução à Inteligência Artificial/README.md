@@ -30,8 +30,7 @@ Foram uma etapa.
 
 # English
 
-Welcome experience in Microsoft AI Copilot
-
+# 
 # Questions
 
 Where did you do it?
@@ -46,11 +45,6 @@ There were one stage.
 
 # The principals
 
-1.Start;
-
-2.Copilot;
-
-3.Understanding of the tool.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
