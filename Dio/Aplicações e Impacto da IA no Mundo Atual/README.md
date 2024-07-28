@@ -71,7 +71,8 @@ There were five stages.
 
 # Espanõl
 
-# 
+# Aplicaciones e impacto de la IA en el mundo actual
+
 #  Preguntas
 
 ¿Dónde lo hiciste?
@@ -84,7 +85,19 @@ Lo celebré en 2024 de Julio;
 
 ¿Cuántos pasos?
 
-un paso.
+cinco pasos.
 
 # Los puntos principales
+
+1.Aprendizaje supervisado;
+
+2.Aprendizaje no supervisado;
+
+3.Aprendizaje por refuerzo;
+
+4.Entender;
+
+5.Interpretar;
+
+6.Interactuar;
 
