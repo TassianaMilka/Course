@@ -77,3 +77,9 @@ un paso.
 
 # Los puntos principales
 
+1.Aprendizaje automático;
+
+2.Inteligencia Artificial AI (Neural);
+
+3.Robótica.
+
