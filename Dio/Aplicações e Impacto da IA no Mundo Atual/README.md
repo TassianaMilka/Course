@@ -20,6 +20,16 @@ Foram cinco etapas.
 
 # Os principais pontos
 
+1.Aprendizado supervisionado;
+
+2.Aprendizado não supervisionado;
+
+3.Aprendizado por reforço;
+
+4.
+
+
+
 
 # English
 
