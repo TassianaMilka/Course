@@ -12,7 +12,7 @@ Foi realizado no site da Dio;
 
 Quando realizou?
 
-Realizei em 2024 entre Fevereiro até Junho;
+Realizei em 2024 de Julho;
 
 Quantas etapas?
 
