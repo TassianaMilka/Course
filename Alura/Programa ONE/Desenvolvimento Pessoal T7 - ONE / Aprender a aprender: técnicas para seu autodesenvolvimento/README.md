@@ -155,7 +155,4 @@ Cinco pasos.
 
 15.Planificación.
 
---------------------------------------------------------------------------------------------------------------------------------
 
-
-https://www.linkedin.com/in/tassiana-milka/details/certifications/
