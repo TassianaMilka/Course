@@ -12,7 +12,7 @@ Foi realizado no site da Alura;
 
 Quando realizou?
 
-Realizei em 2024 de Junho;
+Realizei em 2024 de Julho;
 
 Quantas etapas?
 
@@ -20,17 +20,13 @@ Foram cinco etapas.
 
 # Os principais pontos
 
-1.A importância da rede social Linkedin;
 
-2.Funcionamento;
-
-3.Formas para obter resultado.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # English
 
-# LinkedIn: How to Make Your Profile Work for You
+# 
 
 # Questions
 
@@ -40,7 +36,7 @@ It was held on the website of the Alura;
 
 When did it happen?
 
-I held it in 2024 the June;
+I held it in 2024 the July;
 
 How many steps?
 
@@ -69,7 +65,7 @@ En la página web del Alura;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2024 de Junio;
+Lo celebré en 2024 de Julio;
 
 ¿Cuántos pasos?
 
@@ -77,10 +73,6 @@ Cinco pasos.
 
 # Los puntos principales
 
-1.La importancia de  red social Linkedin;
 
-2.Funcionamento;
-
-3.Formas de obtener resultados.
 
 
