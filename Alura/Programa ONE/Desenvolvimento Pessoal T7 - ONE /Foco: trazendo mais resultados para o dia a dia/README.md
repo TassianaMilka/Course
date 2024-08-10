@@ -3,7 +3,8 @@ Write in portuguese, english and spanish.
 
 # Português
 
-# LinkedIn: como fazer o seu perfil trabalhar para você
+# Foco: trazendo mais resultados para o dia a dia
+
 
 Aonde realizou?
 
