@@ -5,7 +5,6 @@ Write in portuguese, english and spanish.
 
 # Foco: trazendo mais resultados para o dia a dia
 
-
 Aonde realizou?
 
 Foi realizado no site da Alura;
@@ -44,11 +43,7 @@ There were five stages.
 
 # The principals
 
-1.The importance of the social network Linkedin;
 
-2.Operation;
-
-3.Ways to get results.
    
 --------------------------------------------------------------------------------------------------------------------------------
 
