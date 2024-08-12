@@ -19,7 +19,21 @@ Foram cinco etapas.
 
 # Os principais pontos
 
+1.Procrastinação;
 
+2.Disciplina;
+
+3.Métodos;
+
+4.Metas;
+
+5.Mudanças de hábitos;
+
+6.Autoconhecimento;
+
+7.Organização;
+
+8.Gestão.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
