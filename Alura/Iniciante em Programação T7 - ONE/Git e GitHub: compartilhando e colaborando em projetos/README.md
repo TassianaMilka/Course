@@ -2,7 +2,7 @@ Write in portuguese, english and spanish.
 
 # Português
 
-# Praticando lógica de programação: Challenge Decodificador de Texto
+# Git e GitHub: compartilhando e colaborando em projetos
 
 # Perguntas
 
