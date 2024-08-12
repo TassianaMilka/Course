@@ -20,7 +20,7 @@ Foram cinco etapas.
 
 # Os principais pontos
 
-1.Principais commit entre versionamento do Git  e Github;
+1.Principais comandos entre versionamento do Git  e Github;
 
 2.Como deve descrever.
 
