@@ -84,6 +84,14 @@ Cinco pasos.
 
 # Los puntos principales
 
+1.Motivación;
 
+2.Multitarea;
+
+3.Lista;
+
+4.Fuerza;
+
+5.Equilibrio.
 
 
