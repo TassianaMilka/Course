@@ -20,7 +20,9 @@ Foram cinco etapas.
 
 # Os principais pontos
 
+1. Principais commit;
 
+2. Como deve descrever;
 
 --------------------------------------------------------------------------------------------------------------------------------
 
