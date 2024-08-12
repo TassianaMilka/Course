@@ -33,7 +33,7 @@ Foram cinco etapas.
 
 # English
 
-# 
+# Focus: bringing more results to everyday life
 
 # Questions
 
