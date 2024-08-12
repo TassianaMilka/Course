@@ -77,7 +77,7 @@ There were five stages.
 
 # Espanõl
 
-# Habits: from productivity to personal goals
+# Hábitos: de productividad a las metas personales
 
 
 # Preguntas
@@ -95,3 +95,20 @@ Lo celebré en 2024 de Julio;
 Cinco pasos.
 
 # Los puntos principales
+
+1.Procrastinación;
+
+2.Disciplina;
+
+3.Métodos;
+
+4.Objetivos;
+
+5.Cambios de hábitos;
+
+6.Autoconocimiento;
+
+7.Organización;
+
+8.Gestión.
+
