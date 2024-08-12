@@ -22,7 +22,7 @@ Foram cinco etapas.
 
 1.Principais commit entre versionamento do Git  e Github;
 
-2.Como deve descrever;
+2.Como deve descrever.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
