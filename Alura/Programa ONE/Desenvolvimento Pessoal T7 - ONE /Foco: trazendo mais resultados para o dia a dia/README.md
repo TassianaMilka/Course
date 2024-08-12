@@ -51,7 +51,15 @@ There were five stages.
 
 # The principals
 
+1.Motivation;
 
+2.Multitasking;
+
+3.List;
+
+4.Strength;
+
+5.Balance.
    
 --------------------------------------------------------------------------------------------------------------------------------
 
