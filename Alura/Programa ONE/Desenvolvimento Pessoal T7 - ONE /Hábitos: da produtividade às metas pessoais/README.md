@@ -57,7 +57,21 @@ There were five stages.
 
 # The principals
 
+1.Procrastination;
 
+2.Discipline;
+
+3.Methods;
+
+4.Goals;
+
+5.Changes in habits;
+
+6.Self-knowledge;
+
+7.Organization;
+
+8.Management.
    
 --------------------------------------------------------------------------------------------------------------------------------
 
