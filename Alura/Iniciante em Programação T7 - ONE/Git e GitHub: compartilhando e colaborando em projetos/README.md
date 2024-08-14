@@ -29,7 +29,7 @@ Foram cinco etapas.
 # English 
 
 
-# 
+# Git and GitHub: sharing and collaborating on projects
 
 # Questions
 
@@ -48,13 +48,16 @@ There were five stages.
 # The principals
 
 
+1. Main commands between Git and Github versioning;
+
+2.How you should describe it.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
 
-#
+#  Git y GitHub: compartir y colaborar en proyectos
 
 # Preguntas
 
@@ -72,5 +75,7 @@ Cinco pasos.
 
 # Los puntos principales
 
+1. Comandos principales entre el control de versiones de Git y Github;
 
+2.Cómo deberías describirlo.
 
