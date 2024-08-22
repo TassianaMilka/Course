@@ -28,8 +28,7 @@ Foram uma etapa.
 
 # English
 
-#  
-
+#  Project Challenges: Create a Winning Portfolio
 
 # Questions
 
@@ -54,7 +53,7 @@ There were one stage.
 
 # Espanõl
 
-#
+# Desafíos del proyecto: crear una cartera ganadora
 
 # Preguntas
 
