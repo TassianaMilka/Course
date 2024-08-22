@@ -2,7 +2,8 @@ Write in portuguese, english and spanish.
 
 #  Português
 
-# 
+# Desafios de Projetos: Crie Um Portfólio Vencedor
+
 
 # Perguntas
 
@@ -16,11 +17,11 @@ Realizei em 2024 de Agosto;
 
 Quantas etapas?
 
-Foram quatro etapas.
+Foram uma etapa.
 
 # Os principais pontos
 
-1.Git e Github.
+1.Explicação sobre o desafio.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -42,11 +43,11 @@ In 2024 the August;
 
 How many steps?
 
-There were four stages.
+There were one stage.
 
 # The principals
 
-1.Git and Github.
+1.Explantion about challenge.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -67,11 +68,11 @@ Lo celebré en 2024 de Agosto;
 
 ¿Cuántos pasos?
 
-cuatro pasos.
+ uno paso.
 
 # Los puntos principales
 
-1.Git y Github.
+1.Explicacione 
 
 
 
