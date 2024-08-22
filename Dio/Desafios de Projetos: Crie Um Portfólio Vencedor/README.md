@@ -71,7 +71,7 @@ Lo celebré en 2024 de Agosto;
 
 # Los puntos principales
 
-1.Explicacione 
+1.Explicación del desafío.
 
 
 
