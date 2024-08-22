@@ -28,7 +28,7 @@ Foram quatro etapas.
 
 # English
 
-#  
+#  Course Overview and Tools
 
 
 # Questions
@@ -43,7 +43,7 @@ In 2024 the August;
 
 How many steps?
 
-There were one stage.
+There were four stages.
 
 # The principals
 
@@ -54,7 +54,7 @@ There were one stage.
 
 # Espanõl
 
-#  
+#  Descripción general del curso y herramientas
 
 # Preguntas
 
