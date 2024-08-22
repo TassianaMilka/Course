@@ -46,7 +46,7 @@ There were one stage.
 
 # The principals
 
-1.Explantion about challenge.
+1.Explanation about challenge.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
