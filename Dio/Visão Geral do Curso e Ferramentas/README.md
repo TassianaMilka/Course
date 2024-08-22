@@ -21,6 +21,7 @@ Foram quatro etapas.
 
 # Os principais pontos
 
+1.Git e Github.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -46,6 +47,7 @@ There were one stage.
 
 # The principals
 
+1.Git and Github.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -69,6 +71,8 @@ Lo celebré en 2024 de Agosto;
 un paso.
 
 # Los puntos principales
+
+1.Git y Github.
 
 
 
