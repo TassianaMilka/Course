@@ -68,7 +68,7 @@ Lo celebré en 2024 de Agosto;
 
 ¿Cuántos pasos?
 
-un paso.
+cuatro pasos.
 
 # Los puntos principales
 
