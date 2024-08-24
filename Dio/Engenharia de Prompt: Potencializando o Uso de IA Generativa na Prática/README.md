@@ -2,7 +2,7 @@ Write in portuguese, english and spanish.
 
 #  Português
 
-# Engenharia de Prompt: Potencializando o uso de IA Generativa na Prática
+# Engenharia de Prompt: Potencializando o uso de IA Generativa na prática
 
 
 
