@@ -21,7 +21,9 @@ Foram uma etapa.
 
 # Os principais pontos
 
-1.Descrevendo o início sobre Inteligência Artificial.
+1.Importância  dos prompt;
+
+2.Forma objetiva para compreender.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
