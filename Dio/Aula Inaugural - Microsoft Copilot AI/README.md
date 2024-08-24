@@ -28,7 +28,7 @@ Foram uma etapa.
 
 # English
 
-#   
+#  Inaugural Class - Microsoft Copilot AI
 
 
 # Questions
@@ -47,13 +47,13 @@ There were one stage.
 
 # The principals
 
-
+1.Describing the beginning of Artificial Intelligence.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
 
-#  
+#  Clase inaugural: Microsoft Copilot AI
 
 # Preguntas
 
@@ -71,4 +71,5 @@ un paso.
 
 # Los puntos principales
 
+1.Describir los inicios de la Inteligencia Artificial.
 
