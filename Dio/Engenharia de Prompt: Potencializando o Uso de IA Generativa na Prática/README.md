@@ -30,7 +30,7 @@ Foram uma etapa.
 
 # English
 
-#  Prompt Engineering: Leveraging the use of Generative AI in Practice
+#  Prompt Engineering: Leveraging the use of Generative AI in practice
 
 # Questions
 
