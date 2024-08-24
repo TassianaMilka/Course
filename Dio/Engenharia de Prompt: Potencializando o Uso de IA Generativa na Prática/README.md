@@ -48,12 +48,16 @@ There were one stage.
 
 # The principals
 
+1.Importance of prompts;
+
+2.Objective to understand.
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
 
-#  
+# Ingeniería rápida: aprovechar el uso de la IA generativa en la práctica
 
 # Preguntas
 
@@ -71,5 +75,7 @@ un paso.
 
 # Los puntos principales
 
+1.Importancia de las indicaciones;
 
+2.Objetivo de entender.
 
