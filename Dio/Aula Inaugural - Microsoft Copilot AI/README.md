@@ -22,7 +22,7 @@ Foram uma etapa.
 
 # Os principais pontos
 
-
+1.Descrevendo o início sobre Inteligência Artificial.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
