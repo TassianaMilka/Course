@@ -20,12 +20,13 @@ Foram cinco etapas.
 
 # Os principais pontos
 
+1.Descreveu sobre a Inteligência Artificial.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # English
 
-# Applications and Impact of AI in  Today World
+# Inaugural Class - Microsoft Copilot AI
 
 # Questions
 
@@ -43,13 +44,13 @@ There were five stages.
 
 # The principals
 
-
+1.Described about Artificial Intelligence.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
 
-# 
+# Clase inaugural: Microsoft Copilot AI
 
 #  Preguntas
 
@@ -67,5 +68,5 @@ cinco pasos.
 
 # Los puntos principales
 
-
+1.Descrito sobre Inteligencia Artificial.
 
