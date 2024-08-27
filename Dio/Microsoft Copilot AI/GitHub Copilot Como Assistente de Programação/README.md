@@ -38,7 +38,7 @@ It was held on the website of the Dio;
 
 When did it happen?
 
-In 2024 the July;
+In 2024 the August;
 
 How many steps?
 
@@ -63,7 +63,7 @@ En la página web del Dio;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2024 de Julio;
+Lo celebré en 2024 de Agosto.
 
 ¿Cuántos pasos?
 
