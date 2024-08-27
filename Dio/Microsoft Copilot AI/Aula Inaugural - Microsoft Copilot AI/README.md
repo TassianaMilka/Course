@@ -16,7 +16,7 @@ Realizei em 2024 de Julho;
 
 Quantas etapas?
 
-Foram cinco etapas.
+Foi uma etapa.
 
 # Os principais pontos
 
@@ -40,7 +40,7 @@ In 2024 the July;
 
 How many steps?
 
-There were five stages.
+There were one stage.
 
 # The principals
 
@@ -64,7 +64,7 @@ Lo celebré en 2024 de Julio;
 
 ¿Cuántos pasos?
 
-cinco pasos.
+Uno paso.
 
 # Los puntos principales
 
