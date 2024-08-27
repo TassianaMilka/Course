@@ -25,7 +25,7 @@ Foram cinco etapas.
 
 # English
 
-# Applications and Impact of AI in  Today World
+# Contributing to Open Source Project on GitHub
 
 # Questions
 
@@ -49,7 +49,7 @@ There were five stages.
 
 # Espanõl
 
-# 
+# Contribuyendo a un proyecto de código abierto en GitHub
 
 #  Preguntas
 
@@ -59,7 +59,7 @@ En la página web del Dio;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2024 de Julio;
+Lo celebré en 2024 de Agosto;
 
 ¿Cuántos pasos?
 
