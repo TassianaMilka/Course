@@ -1,4 +1,9 @@
 
+
+*Criação de uma figura que representava o hardware,software e Inteligência Artificial  e uma poesia sobre o começo até o futuro da tecnologia para explicar a história para os alunos.
+
+
+
 ![image](https://github.com/user-attachments/assets/c010d551-d9c2-456a-b0c4-4e1bea7c6134)
 
 
