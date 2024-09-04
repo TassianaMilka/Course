@@ -1,4 +1,4 @@
-# Entrevista com Microsoft Compilot sobre Braille e Letras de Sinaís
+# Entrevista com Microsoft Compilot sobre Braille e Letras de Sinais
 
 
 ![Captura de tela 2024-09-03 211107](https://github.com/user-attachments/assets/5dc06471-c187-4b02-bb65-91d4bb34b23f)
