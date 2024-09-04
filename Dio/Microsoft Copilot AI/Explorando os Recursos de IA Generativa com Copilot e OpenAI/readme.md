@@ -25,7 +25,7 @@ Realizei em 2024 de Setembro.
 
 # English
 
-# 
+# Exploring Generative AI Capabilities with Copilot and OpenAI
 
 # Questions
 
@@ -46,7 +46,7 @@ In 2024 the Septeber.
 
 # Espanõl
 
-# 
+# Explorando las capacidades de IA generativa con Copilot y OpenAI
 
 # Preguntas
 
