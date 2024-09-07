@@ -20,7 +20,7 @@ Foram cinco etapas.
 
 # Os principais pontos
 
-1. pull e issues Github.
+1.pull e issues Github.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ There were five stages.
 
 # The principals
 
-1. pull and issues the Github.
+1.pull and issues the Github.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ cinco pasos.
 
 # Los puntos principales
 
-1. pull y issues Github.
+1.pull y issues Github.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
