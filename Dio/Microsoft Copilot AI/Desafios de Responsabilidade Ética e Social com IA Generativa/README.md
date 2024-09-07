@@ -70,6 +70,6 @@ un paso.
 
 # Los puntos principales
 
-1.Explicación sobre cómo completar el desafío.
+1.Explicación de la funcionalidad que conecta Microsoft Copilot con la ética.
 
 --------------------------------------------------------------------------------------------------------------------------------
