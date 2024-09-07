@@ -21,7 +21,7 @@ Foram uma etapa.
 
 # Os principais pontos
 
-1.Explicação sobre comorealizar o desafio.
+1.Explicação sobre a funcionalidade que interliga com a ética o Microsoft Copilot.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
