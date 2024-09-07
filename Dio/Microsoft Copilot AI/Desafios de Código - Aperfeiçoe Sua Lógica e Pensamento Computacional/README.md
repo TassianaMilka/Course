@@ -73,4 +73,6 @@ un paso.
 
 1.Explicación sobre cómo completar el desafío.
 
+--------------------------------------------------------------------------------------------------------------------------------
 
+https://github.com/TassianaMilka/Course/tree/main/Dio/Microsoft%20Copilot%20AI/Desvendando%20a%20IA%20Generativa%20com%20Desafios%20de%20C%C3%B3digos
