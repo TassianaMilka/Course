@@ -27,7 +27,7 @@ Foram uma etapa.
 
 # English
 
-#  Project Challenges: Create a Winning Portfolio
+#  Ethical and Social Responsibility Challenges with Generative AI
 
 # Questions
 
@@ -45,14 +45,15 @@ There were one stage.
 
 # The principals
 
-1.Explanation about the challenge.
+1.Explanation of the functionality that connects Microsoft Copilot with ethics
 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-# Espanõl
+# Espanõl 
 
-#  
+
+#  Desafíos éticos y de responsabilidad social con la IA generativa
 
 # Preguntas
 
