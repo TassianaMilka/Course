@@ -20,6 +20,7 @@ Foram cinco etapas.
 
 # Os principais pontos
 
+1. pull e issues Github.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,7 +44,7 @@ There were five stages.
 
 # The principals
 
-
+1. pull and issues the Github.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -67,9 +68,10 @@ cinco pasos.
 
 # Los puntos principales
 
+1. pull y issues Github.
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------
 
 
 https://github.com/TassianaMilka/dio-lab-open-source/commit/5214759945d238728e489cbf92d0d36ddd0335ee?short_path=44749bf#diff-44749bf348a5666352905b2f5a9d6172987c63af62fef4be47e4b6766ff20849
