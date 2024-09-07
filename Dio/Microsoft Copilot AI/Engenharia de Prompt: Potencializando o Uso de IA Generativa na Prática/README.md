@@ -57,7 +57,7 @@ There were one stage.
 
 # Espanõl
 
-# Ingeniería rápida: aprovechar el uso de la IA generativa en la práctica
+# Ingeniería prompt: aprovechar el uso de la IA generativa en la práctica
 
 # Preguntas
 
