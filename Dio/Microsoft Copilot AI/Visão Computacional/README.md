@@ -46,7 +46,7 @@ There were one stage.
 
 # The principals
 
-1.1.Use of Artificial Intelligence (AI) to track Objects;
+1.Use of Artificial Intelligence (AI) to track Objects;
 
 2.Yolo. 
 
