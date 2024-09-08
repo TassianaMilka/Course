@@ -28,8 +28,7 @@ Foram uma etapa.
 
 # English
 
-#  Natural or Fake Natty? How to Win in the Era of Generative AI!
-
+#  What are Generative AI
 
 # Questions
 
@@ -47,13 +46,12 @@ There were one stage.
 
 # The principals
 
-1.Creation of a poem.
-
+1.
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
 
-# ¿Natty natural o falso? ¡Cómo ganar en la era de la IA generativa!
+#  Qué ý IA generativas
 
 # Preguntas
 
@@ -72,5 +70,5 @@ un paso.
 # Los puntos principales
 
 
-1.Creación de un poema.
+1.
 
