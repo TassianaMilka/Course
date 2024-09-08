@@ -12,11 +12,11 @@ Foi realizado no site da Dio;
 
 Quando realizou?
 
-Realizei em 2024 de Setembro.
+Realizei em 2024 de  Agosto.
 
 # Os principais pontos
 
-1.
+1.Como é o funcionamento da Inteligência Artificial(IA).
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -33,11 +33,11 @@ It was held on the website of the Dio;
 
 When did it happen?
 
-In 2024 the Septeber.
+In 2024 the  August.
 
 # The main points
 
-1.Carrying out the project.
+1.Artificial Intelligence (AI) works.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -54,12 +54,11 @@ En la página web del Dio;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2024 de Setembro.
+Lo celebré en 2024 de Agosto.
 
 # Los puntos principales
 
-1.Realización del proyecto.
+1.Cómo funciona la Inteligencia Artificial (IA).
 
---------------------------------------------------------------------------------------------------------------------------------
 
 
