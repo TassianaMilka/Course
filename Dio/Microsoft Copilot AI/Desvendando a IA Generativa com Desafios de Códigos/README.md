@@ -21,13 +21,13 @@ Foram uma etapa.
 
 # Os principais pontos
 
-1.Explicação sobre a funcionalidade que interliga com a ética o Microsoft Copilot.
+1.Realização de  três exercícios.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # English
 
-#  Ethical and Social Responsibility Challenges with Generative AI
+#  Unlocking Generative AI with Code Challenges
 
 # Questions
 
@@ -45,7 +45,7 @@ There were one stage.
 
 # The principals
 
-1.Explanation of the functionality that connects Microsoft Copilot with ethics
+1.Three exercises.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -53,7 +53,7 @@ There were one stage.
 # Espanõl 
 
 
-#  Desafíos éticos y de responsabilidad social con la IA generativa
+#  Desbloquear la IA generativa con desafíos de código
 
 # Preguntas
 
@@ -71,4 +71,4 @@ un paso.
 
 # Los puntos principales
 
-1.Explicación de la funcionalidad que conecta Microsoft Copilot con la ética.
+1.Tres ejercicios.
