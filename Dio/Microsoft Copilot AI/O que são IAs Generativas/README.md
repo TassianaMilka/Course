@@ -21,7 +21,7 @@ Foram uma etapa.
 
 # Os principais pontos
 
-1.Criacação de uma poesia.
+1.Explicação sobre IA Generativa da sua importância.
 
    
 --------------------------------------------------------------------------------------------------------------------------------
