@@ -46,7 +46,8 @@ There were one stage.
 
 # The principals
 
-1.
+1.Explanation of the importance of Generative AI.
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
@@ -70,5 +71,5 @@ un paso.
 # Los puntos principales
 
 
-1.
+1.Explicación de importancia  la IA Generativa.
 
