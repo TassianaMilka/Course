@@ -5,7 +5,7 @@ public class Subtracao{
 
 
         int cal;
-
+ 
         System.out.println("---Subtração---");
 
         cal=10-5;
