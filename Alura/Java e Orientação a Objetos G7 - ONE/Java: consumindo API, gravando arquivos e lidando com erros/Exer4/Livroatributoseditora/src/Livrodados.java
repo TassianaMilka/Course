@@ -2,7 +2,7 @@
 // representando a editora. Em seguida, implemente um programa que utiliza a
 // biblioteca Gson para converter um JSON aninhado representando um livro em
 // um objeto do tipo Livro.
-import com.google.gson.Gson;
+import com.google.gson.Gson; 
 
 record Editora(String nome) {}
 record Livro(String titulo, String autor, Editora editora) {}
