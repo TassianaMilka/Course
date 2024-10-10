@@ -2,7 +2,7 @@
 // "arquivo.txt": "Conteúdo a ser gravado no arquivo." Utilize as classes do pacote
 // java.io.
 import java.io.FileWriter;
-import java.io.IOException;
+import java.io.IOException; 
 
 public class Principal {
     public static void main(String[] args) {
