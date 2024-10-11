@@ -20,11 +20,10 @@ Foram cinco etapas.
 
 # Os principais pontos
 
-1.  ArrayList;
+1.ArrayList;
 
-2.  
-
-3.  Collections.sort;
+2.Collections.sort.
+   
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Englsih 
@@ -48,7 +47,9 @@ There were five stages.
 
 # The principals
 
+1.ArrayList;
 
+2.Collections.sort.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -73,4 +74,7 @@ Cinco pasos.
 
 # Los puntos principales
 
+1.ArrayList;
+
+2.Collections.sort.
 
