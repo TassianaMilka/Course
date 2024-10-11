@@ -66,7 +66,7 @@ Lo celebré en 2024 de Octubre;
 
 ¿Cuántos pasos?
 
-Cinco pasos.
+tres pasos.
 
 # Los puntos principales
 
