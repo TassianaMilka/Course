@@ -20,11 +20,11 @@ Foram quatro etapas.
 
 # Os principais pontos
 
-1.IDE;
+1.Nome de class;
 
-2.Imprimir elementos;
+2.Método get and set.
 
-3.Entrada de dados;
+3.
 
 4.if and else;
 
