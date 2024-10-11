@@ -5,7 +5,7 @@
 import com.google.gson.Gson;
 
 record Pessoa(String nome, int idade) {}
-
+ 
 public class Pessoadado {
 
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class Pessoadado {
 
         Gson gson = new Gson();
         Pessoa pessoa = gson.fromJson(jsonPessoa, Pessoa.class);
-
+    
         System.out.println("Objeto Pessoa: " + pessoa);
     }
 }
