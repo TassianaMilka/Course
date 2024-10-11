@@ -2,7 +2,7 @@ Write in portuguese, english and spanish.
 
 # Português
 
-# Java: criando a sua primeira aplicação
+# Java: aplicando a Orientação a Objetos
 
 # Perguntas
 
@@ -22,13 +22,9 @@ Foram quatro etapas.
 
 1.Nome de class;
 
-2.Método get and set.
+2.Método get e set.
 
-3.
-
-4.if and else;
-
-5.Menu.
+3.void.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
