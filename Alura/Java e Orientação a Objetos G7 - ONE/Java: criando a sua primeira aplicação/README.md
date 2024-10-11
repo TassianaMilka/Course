@@ -16,7 +16,7 @@ Realizei em 2024 de Setembro;
 
 Quantas etapas?
 
-Foram cinco etapas.
+Foram quatro etapas.
 
 # Os principais pontos
 
@@ -41,7 +41,7 @@ I held it in 2024 the June;
 
 How many steps?
 
-There were five stages.
+There were four stages.
 
 # The principals
 
@@ -67,7 +67,7 @@ Lo celebré en 2024 de Julio;
 
 ¿Cuántos pasos?
 
-Cinco pasos.
+Quatro pasos.
 
 # Los puntos principales
 
