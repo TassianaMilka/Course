@@ -16,7 +16,7 @@ Realizei em 2024 de Setembro;
 
  Quantas etapas?
 
-Foram quatro etapas.
+Foram cinco etapas.
 
 # Os principais pontos
 
@@ -45,7 +45,7 @@ I held it in 2024 the September;
 
 How many steps?
 
-There were four stages.
+There were five stages.
 
 # The principals
 
@@ -78,12 +78,8 @@ Cuatro pasos.
 
 # Los puntos principales
 
-1.IDE;
+1.Nobre el class;
 
-2.Elementos de impresión;
-
-3.Ingreso de datos;
-
-4.idf and else;
-
-5.Menú.
+2.  get y set;
+   
+3.void.  
