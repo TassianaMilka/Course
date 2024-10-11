@@ -10,17 +10,19 @@ Aonde realizou?
 
 Foi realizado no site da Alura;
 
- Quando realizou?
+Quando realizou?
 
 Realizei em 2024 de outubro;
 
- Quantas etapas?
+Quantas etapas?
 
 Foram cinco etapas.
 
 # Os principais pontos
 
-1.
+1.  ArrayList;
+
+2.  
 
 --------------------------------------------------------------------------------------------------------------------------------
 
