@@ -22,7 +22,7 @@ Foram quatro etapas.
 
 1.Nome de class;
 
-2.Método get e set.
+2.Método get e set;
 
 3.void.
 
