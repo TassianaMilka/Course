@@ -12,7 +12,7 @@ Foi realizado no site da Alura;
 
 Quando realizou?
 
-Realizei em 2024 de Julho;
+Realizei em 2024 de Setembro;
 
 Quantas etapas?
 
