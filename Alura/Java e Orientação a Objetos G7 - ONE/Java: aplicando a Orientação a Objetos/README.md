@@ -74,7 +74,7 @@ Lo celebré en 2024 de Septiembre;
 
 ¿Cuántos pasos?
 
-Cuatro pasos.
+cinco pasos.
 
 # Los puntos principales
 
