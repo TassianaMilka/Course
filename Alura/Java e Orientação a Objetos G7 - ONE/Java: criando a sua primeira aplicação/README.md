@@ -10,11 +10,11 @@ Aonde realizou?
 
 Foi realizado no site da Alura;
 
-Quando realizou?
+ Quando realizou?
 
 Realizei em 2024 de Setembro;
 
-Quantas etapas?
+ Quantas etapas?
 
 Foram quatro etapas.
 
@@ -53,7 +53,7 @@ There were four stages.
 
 # Espanõl
 
-#
+# Java: creando tu primera aplicación
 
 # Preguntas
 
@@ -63,15 +63,15 @@ En la página web del Alura;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2024 de Julio;
+Lo celebré en 2024 de Septiembre;
 
 ¿Cuántos pasos?
 
-Quatro pasos.
+Cuatro pasos.
 
 # Los puntos principales
 
-
+1.
 
 
 
