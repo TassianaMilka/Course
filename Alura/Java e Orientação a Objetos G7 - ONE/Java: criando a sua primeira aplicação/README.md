@@ -27,7 +27,7 @@ Foram quatro etapas.
 # Englsih 
 
 
-#
+# Java: first application
 
 # Questions
 
@@ -37,7 +37,7 @@ It was held on the website of the Alura;
 
 When did it happen?
 
-I held it in 2024 the June;
+I held it in 2024 the September;
 
 How many steps?
 
