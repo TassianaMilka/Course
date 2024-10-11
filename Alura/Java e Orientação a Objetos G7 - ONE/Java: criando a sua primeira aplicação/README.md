@@ -20,7 +20,15 @@ Foram quatro etapas.
 
 # Os principais pontos
 
+1.IDE;
 
+2.Imprimir elementos;
+
+3.Entrada de dados;
+
+4.if and else;
+
+5.Menu.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -45,8 +53,15 @@ There were four stages.
 
 # The principals
 
+1.IDE;
 
+2.Print elements;
 
+3.Data entry;
+
+4.if and else;
+
+5.Menu.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -71,7 +86,15 @@ Cuatro pasos.
 
 # Los puntos principales
 
-1.
+1.IDE;
+
+2.Elementos de impresión;
+
+3.Ingreso de datos;
+
+4.idf and else;
+
+5.Menú.
 
 
 
