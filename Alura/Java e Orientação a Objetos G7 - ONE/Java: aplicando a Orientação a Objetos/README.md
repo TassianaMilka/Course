@@ -80,6 +80,6 @@ Cuatro pasos.
 
 1.Nobre el class;
 
-2.  get y set;
+2.método get y set;
    
 3.void.  
