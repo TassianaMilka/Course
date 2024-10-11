@@ -31,7 +31,7 @@ Foram quatro etapas.
 # Englsih 
 
 
-# Java: first application
+# Java: Object Orientation applying
 
 # Questions
 
@@ -49,15 +49,11 @@ There were four stages.
 
 # The principals
 
-1.IDE;
+1.Name the class;
 
-2.Print elements;
+2.Method get and set;
 
-3.Data entry;
-
-4.if and else;
-
-5.Menu.
+3.void.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
