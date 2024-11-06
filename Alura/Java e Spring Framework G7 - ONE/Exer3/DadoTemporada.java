@@ -8,3 +8,4 @@ for(int i = 1; i <= dadosSerie.totalTemporadas(); i++) {
 }
 
 temporadas.forEach(System.out::println);
+ 
