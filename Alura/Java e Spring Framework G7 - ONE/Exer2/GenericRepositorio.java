@@ -6,3 +6,11 @@ public class GenericRepository<T> {
         // Código para salvar 't' no banco de dados
     }
 }
+
+
+public class GenericRepository {
+    public <T> T save(T t) {
+        // Código para salvar 't' no banco de dados
+    }
+}
+
