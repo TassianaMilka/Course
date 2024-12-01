@@ -62,9 +62,5 @@ Lo celebré en 2024 de Septiembre;
 
 Cinco pasos.
 
-Los puntos principales
-1.Nobre el class;
+# Los puntos principales
 
-2.método get y set;
-
-3.void.
