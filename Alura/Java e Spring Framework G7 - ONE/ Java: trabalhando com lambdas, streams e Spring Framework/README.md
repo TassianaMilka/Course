@@ -23,13 +23,15 @@ Foram cinco etapas.
 
 # Os principais pontos
 
-1.Utilização do sprit boot na Ide.
+1.Utilização do  Spring  boot na Ide.
 
 
 # Englsih
 
 # 
+
 # Questions
+
 Where did you do it?
 
 It was held on the website of the Alura;
