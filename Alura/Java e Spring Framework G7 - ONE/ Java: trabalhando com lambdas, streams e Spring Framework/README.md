@@ -44,8 +44,9 @@ How many steps?
 
 There were five stages.
 
-The principals
+# The principals
 
+1.Using Spring boot in Ide.
 
 Espanõl
 Java: creando tu primera aplicación
