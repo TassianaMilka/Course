@@ -28,7 +28,7 @@ Foram cinco etapas.
 
 # Englsih
 
-# 
+# Java: working with lambdas, streams and Spring Framework
 
 # Questions
 
@@ -46,11 +46,15 @@ There were five stages.
 
 # The principals
 
-1.Using Spring boot in Ide.
+1.Spring boot on Ide.
 
-Espanõl
-Java: creando tu primera aplicación
-Preguntas
+# Espanõl
+
+# Java: creando tu primera aplicación
+
+
+# Preguntas
+
 ¿Dónde lo hiciste?
 
 En la página web del Alura;
@@ -65,3 +69,4 @@ Cinco pasos.
 
 # Los puntos principales
 
+1.Spring boot en Ide.
