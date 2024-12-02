@@ -25,7 +25,7 @@ Foram seis etapas.
 
 # Englsih
 
-Java: working with lambdas, streams and Spring Framework
+
 
 # Questions
 
@@ -44,9 +44,11 @@ There were six stages.
 The principals
 1.Spring boot on Ide.
 
-Espanõl
-Java: creando tu primera aplicación
-Preguntas
+# Espanõl
+
+
+# Preguntas
+
 ¿Dónde lo hiciste?
 
 En la página web del Alura;
@@ -60,4 +62,3 @@ Lo celebré en 2024 de Noviembre;
 Cinco pasos.
 
 Los puntos principales
-1.Spring boot en Ide.
