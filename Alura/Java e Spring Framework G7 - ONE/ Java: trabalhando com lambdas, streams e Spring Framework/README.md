@@ -38,7 +38,7 @@ It was held on the website of the Alura;
 
 When did it happen?
 
-I held it in 2024 the September;
+I held it in 2024 the November;
 
 How many steps?
 
@@ -61,7 +61,7 @@ En la página web del Alura;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2024 de Septiembre;
+Lo celebré en 2024 de Noviembre;
 
 ¿Cuántos pasos?
 
