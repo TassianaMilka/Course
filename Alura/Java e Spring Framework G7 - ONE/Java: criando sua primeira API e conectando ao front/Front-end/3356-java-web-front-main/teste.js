@@ -1,5 +1,5 @@
 import getDados from "./getDados.js";
-
+ 
 // Mapeia os elementos DOM que você deseja atualizar
 const elementos = {
     top5: document.querySelector('[data-name="top5"]'),
