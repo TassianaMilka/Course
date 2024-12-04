@@ -21,11 +21,12 @@ Foram seis etapas.
 
 # Os principais pontos
 
+1.Interligação  com o Banco de dado.
 
 
 # Englsih
 
-
+# Java: data persistence and queries with Spring Data JPA
 
 # Questions
 
@@ -41,11 +42,14 @@ How many steps?
 
 There were six stages.
 
-The principals
-1.Spring boot on Ide.
+# The principals
+
+1.Interconnection with the Database.
+ 
 
 # Espanõl
 
+# Java: persistencia de datos y consultas con Spring Data JPA
 
 # Preguntas
 
@@ -59,6 +63,8 @@ Lo celebré en 2024 de Noviembre;
 
 ¿Cuántos pasos?
 
-Cinco pasos.
+seis pasos.
 
-Los puntos principales
+# Los puntos principales
+
+1.Interconexión con la Base de Datos.
