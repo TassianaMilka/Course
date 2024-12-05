@@ -2,7 +2,7 @@ Write in portuguese, english and spanish.
 
 # Português
 
-# Java: criando sua primeira API e conectando ao front
+# Praticando Spring Boot: Challenge LiterAlura
 
 # Perguntas
 
@@ -16,15 +16,15 @@ Realizei em 2024 de Novembro;
 
 Quantas etapas?
 
-Foram cinco etapas.
+Foram três etapas.
 
 # Os principais pontos
 
-1.API.
+1.Desafio.
 
 # Englsih
 
-# Java: creating your first API and connecting to the front
+# Practicing Spring Boot: Challenge LiterAlura
 
 # Questions
 
@@ -38,15 +38,15 @@ I held it in 2024 the November;
 
 How many steps?
 
-There were five stages.
+There three stages.
 
 # The principals
 
-1.API.
+1.Challenge.
 
 # Espanõl
 
-# Java: creating your first API and connecting to the front
+# Practicando Spring Boot:  Desafío LiterAlura
 
 # Preguntas
 
@@ -60,9 +60,9 @@ Lo celebré en 2024 de Noviembre;
 
 ¿Cuántos pasos?
 
-Cinco pasos.
+Tres pasos.
 
 # Los puntos principales
 
-1.API.
+1.Desafío.
 
