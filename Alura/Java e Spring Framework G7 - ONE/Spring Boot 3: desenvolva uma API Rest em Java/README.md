@@ -20,7 +20,9 @@ Foram cinco etapas.
 
 # Os principais pontos
 
-1.
+1.API;
+
+2.DELETE(Deletar da API dados).
 
 # Englsih
 
