@@ -36,7 +36,7 @@ It was held on the website of the Alura;
 
 When did it happen?
 
-I held it in 2024 the     vgnvjvn;
+I held it in 2024 the December;
 
 How many steps?
 
@@ -46,7 +46,7 @@ There five stages.
 
 1.API;
 
-2.DELETE(Deletar da API dados).
+2.DELETE.
 
 # Espanõl
 
@@ -60,13 +60,15 @@ En la página web del Alura;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2024 de Noviembre;
+Lo celebré en 2024 de Diciembre;
 
 ¿Cuántos pasos?
 
-Tres pasos.
+cinco pasos.
 
 # Los puntos principales
 
-1.Desafío.
+1.API;
+
+2.DELETE.
 
