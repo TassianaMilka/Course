@@ -44,7 +44,9 @@ There five stages.
 
 # The principals
 
-1.Challenge.
+1.API;
+
+2.DELETE(Deletar da API dados).
 
 # Espanõl
 
