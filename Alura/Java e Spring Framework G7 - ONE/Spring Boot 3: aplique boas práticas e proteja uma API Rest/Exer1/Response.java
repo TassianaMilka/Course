@@ -1,6 +1,6 @@
 /*O código anterior não devolverá o código 201 como resposta e o cabeçalho Location será criado de maneira incorreta.*/
 
-@PostMapping
+@PostMapping  
 @Transactional
 public ResponseEntity cadastrar(@RequestBody @Valid DadosCadastroProduto dados) throws Exception {
     var produto = new Produto(dados);
