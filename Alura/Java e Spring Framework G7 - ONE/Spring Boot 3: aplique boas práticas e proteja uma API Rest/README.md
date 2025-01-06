@@ -66,7 +66,7 @@ Lo celebré en 2024 de Diciembre;
 
 Cinco pasos.
 
-# 
+# Los puntos principales
 
 1.API Rest;
 
