@@ -26,7 +26,7 @@ Foram cinco etapas.
 
 # Englsih
 
-#  Spring Boot 3: develop a Rest API in Java
+#  Spring Boot 3: Apply best practices and secure a Rest API
 
 # Questions
 
@@ -50,7 +50,7 @@ There five stages.
 
 # Espanõl
 
-# Spring Boot 3: desarrolle una API Rest en Java
+# Spring Boot 3: Aplicación de  mejores prácticas y protección de una API REST
 
 # Preguntas
 
