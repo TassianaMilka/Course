@@ -24,7 +24,7 @@ Foram três etapas.
 
 # Englsih
 
-#
+# Practicing Spring Framework: Challenge Forum Hub
 
 # Questions
 
@@ -34,7 +34,7 @@ It was held on the website of the Alura;
 
 When did it happen?
 
-I held it in 2025 the ;
+I held it in 2025 the january;
 
 How many steps?
 
@@ -46,7 +46,7 @@ There three stages.
 
 # Espanõl
 
-# 
+# Practicando Spring Framework: Centro del Foro del Desafío
 
 # Preguntas
 
@@ -56,7 +56,7 @@ En la página web del Alura;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2025 de ;
+Lo celebré en 2025 de enero;
 
 ¿Cuántos pasos?
 
