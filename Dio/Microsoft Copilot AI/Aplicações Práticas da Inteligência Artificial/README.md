@@ -2,8 +2,7 @@ Write in portuguese, english and spanish.
 
 #  Português
 
-# Desafios de Código - Aperfeiçoe Sua Lógica e Pensamento Computacional
-
+# Aplicações Práticas da Inteligência Artificial
 
 # Perguntas
 
@@ -21,13 +20,13 @@ Foram uma etapa.
 
 # Os principais pontos
 
-1.Explicação sobre como realizar o desafio.
+1.Inteligência Artificial(IA).
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # English
 
-#  Code Challenges - Perfect Your Logic and Computational Thinking
+# Practical applications of Artificial Intelligence
 
 
 # Questions
@@ -46,14 +45,14 @@ There were one stage.
 
 # The principals
 
-1.Explanation about the challenge.
+1.Artificial Intelligence(AI).
 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
 
-#  Desafíos de código: perfeccione su lógica y su pensamiento computacional
+#  Aplicaciones prácticas de la Inteligencia Artificial
 
 # Preguntas
 
@@ -71,4 +70,4 @@ un paso.
 
 # Los puntos principales
 
-1.Explicación sobre cómo completar el desafío.
+1.Inteligencia Artificial(IA).
