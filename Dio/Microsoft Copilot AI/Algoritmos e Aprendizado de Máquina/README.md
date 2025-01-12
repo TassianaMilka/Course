@@ -17,7 +17,7 @@ Realizei em 2024 de Agosto.
 
 # Os principais pontos
 
-1.
+1.Sobre algoritmos.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -38,7 +38,7 @@ In 2024 the  August.
 
 # The main points
 
-1.
+1.About algorithms.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -59,4 +59,4 @@ Lo celebré en 2024 de Agosto.
 
 # Los puntos principales
 
-1.Cómo funciona la Inteligencia Artificial (IA).
+1.Acerca de los algoritmos.
