@@ -55,19 +55,19 @@ There six stages.
 
 # The principals
 
-1. Career;
+1.Career;
 
-2. Multidisciplinary;
+2.Multidisciplinary;
 
-3. Success;
+3.Success;
 
-4. Change;
+4.Change;
 
-5. Performance;
+5.Performance;
 
-6. Theories;
+6.Theories;
 
-7. Decision.
+7.Decision.
 
 # Espanõl
 
@@ -89,18 +89,18 @@ Seis pasos.
 
 # Los puntos principales
 
-1. Carrera;
+1.Carrera;
 
-2. Multidisciplinariedad;
+2.Multidisciplinariedad;
 
-3. Éxito;
+3.Éxito;
 
-4. Cambio;
+4.Cambio;
 
-5. Desempeño;
+5.Desempeño;
 
-6. Teorías;
+6.Teorías;
 
-7. Decisión.
+7.Decisión.
 
    
