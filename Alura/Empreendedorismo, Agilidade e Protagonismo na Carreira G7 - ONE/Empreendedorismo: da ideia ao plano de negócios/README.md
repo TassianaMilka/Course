@@ -20,7 +20,9 @@ Foram cinco etapas.
 
 # Os principais pontos
 
+1.Ideias;
 
+2.Oportunidades.
 
 # Englsih
 
@@ -42,7 +44,9 @@ There five stages.
 
 # The principals
 
+1.Ideas;
 
+2.Opportunities.
 
 
 # Espanõl
@@ -65,11 +69,6 @@ Cinco pasos.
 
 # Los puntos principales
 
-1.Agilidad;
+1.Ideas;
 
-2.Scrum;
-
-3.Kanbam;
-
-4.Soft Skills.
-
+2. Oportunidades.
