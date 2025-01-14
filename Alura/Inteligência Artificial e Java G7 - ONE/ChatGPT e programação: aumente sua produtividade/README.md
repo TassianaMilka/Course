@@ -42,7 +42,7 @@ I held it in 2025 the January;
 
 How many steps?
 
-There five stages.
+There four stages.
 
 # The principals
 
@@ -69,7 +69,7 @@ Lo celebré en 2025 de Enero;
 
 ¿Cuántos pasos?
 
-Cinco  pasos.
+Cuatro pasos.
 
 # Los puntos principales
 
