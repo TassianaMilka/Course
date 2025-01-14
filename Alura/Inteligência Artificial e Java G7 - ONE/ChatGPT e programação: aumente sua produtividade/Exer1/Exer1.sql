@@ -1,5 +1,6 @@
 
 
+
 SELECT v.nome AS nome_vendedor, SUM(vd.valor) AS total_vendas
 FROM vendedores v
 JOIN vendas vd ON v.id = vd.id_vendedor
