@@ -16,7 +16,7 @@ Realizei em 2025 de Janeiro;
 
 Quantas etapas?
 
-Foram quatro etapas.
+Foram cinco etapas.
 
 # Os principais pontos
 
