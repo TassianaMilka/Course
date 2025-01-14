@@ -20,15 +20,11 @@ Foram quatro etapas.
 
 # Os principais pontos
 
-1.ChatGPT;
 
-2.Regex;
-
-3.SQL.
 
 # Englsih
 
-#  ChatGPT y programación: aumenta tu productividad
+#  
 
 # Questions
 
@@ -46,16 +42,12 @@ There five stages.
 
 # The principals
 
-1.ChatGPT;
 
-2.Regex;
-
-3.SQL.
 
 
 # Espanõl
 
-# ChatGPT y programación: aumenta tu productividad
+# 
 
 # Preguntas
 
@@ -73,8 +65,3 @@ Cinco  pasos.
 
 # Los puntos principales
 
-1.ChatGPT;
-
-2.Regex;
-
-3.SQL.
