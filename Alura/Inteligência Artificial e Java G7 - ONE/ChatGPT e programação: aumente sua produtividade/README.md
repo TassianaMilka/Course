@@ -20,7 +20,11 @@ Foram quatro etapas.
 
 # Os principais pontos
 
-1.
+1.ChatGPT;
+
+2.Regex;
+
+3.SQL.
 
 # Englsih
 
@@ -42,7 +46,11 @@ There five stages.
 
 # The principals
 
-1.
+1.ChatGPT;
+
+2.Regex;
+
+3.SQL.
 
 
 # Espanõl
@@ -65,7 +73,11 @@ Cinco  pasos.
 
 # Los puntos principales
 
-1.
+1.ChatGPT;
+
+2.Regex;
+
+3.SQL.
 
 
 
