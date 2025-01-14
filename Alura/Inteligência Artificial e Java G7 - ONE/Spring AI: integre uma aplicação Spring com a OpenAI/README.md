@@ -20,11 +20,15 @@ Foram quatro etapas.
 
 # Os principais pontos
 
+1.Spring AI;
 
+2.OpenAI;
+
+3.Prompt Engineering.
 
 # Englsih
 
-#  
+#  Spring AI: Integrate a Spring application with OpenAI
 
 # Questions
 
@@ -42,12 +46,16 @@ There five stages.
 
 # The principals
 
+1.Spring AI;
 
+2.OpenAI;
+
+3.Prompt Engineering.
 
 
 # Espanõl
 
-# 
+# Spring AI: Integración de una aplicación Spring con OpenAI
 
 # Preguntas
 
@@ -65,3 +73,8 @@ Cinco  pasos.
 
 # Los puntos principales
 
+1.Spring AI;
+
+2.OpenAI;
+
+3.Prompt Engineering.
