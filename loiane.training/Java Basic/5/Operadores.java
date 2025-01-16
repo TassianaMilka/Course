@@ -5,7 +5,7 @@ public class OperadoresAritmeticos{
 
     int resultado=1+2;
 
-    System.out.println(resultado);
+    System.out.println(resultado); 
 
 
     resultado = resultado-1;   
