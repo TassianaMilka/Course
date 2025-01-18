@@ -92,7 +92,6 @@ public static void main(String[] args){
          System.out.println("Não é um dia da semana válida");
         
         
-}
-
+     }
 
 }
