@@ -52,7 +52,7 @@ public static void main(String[] args){
 
    }else{
 
-     System.out.println("Não é um dia válido);
+     System.out.println("Não é um dia da semana válido);
 
   }
 
