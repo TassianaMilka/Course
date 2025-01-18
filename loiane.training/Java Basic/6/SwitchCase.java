@@ -10,7 +10,7 @@ public static void main(String[] args){
    int diaSemana= scan.nextInt();
 
 
-  if(diaSemana == 1){
+ /* if(diaSemana == 1){
 
     System.out.println("Domingo");
     
@@ -54,7 +54,7 @@ public static void main(String[] args){
 
      System.out.println("Não é um dia da semana válido);
 
-  }
+  } */
 
   switch(diaSemana){
 
