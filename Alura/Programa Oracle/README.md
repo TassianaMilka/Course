@@ -1,5 +1,5 @@
 
-# Programa Oracle/Programming Oracle
+# Programa Oracle
 
 ## Iniciante em Programação T7 - ONE
 
