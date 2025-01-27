@@ -1,0 +1,3 @@
+
+
+SELECT * FROM Vendedores2 WHERE YEAR(DATA_ADMISSAO) >= 2016;
