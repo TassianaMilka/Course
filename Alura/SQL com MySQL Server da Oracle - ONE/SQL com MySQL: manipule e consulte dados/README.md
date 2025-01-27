@@ -35,7 +35,7 @@ Foram cinco etapas.
 
 # Englsih
 
-#  SQL with MySQL:
+#  SQL with MySQL: manipulate and query data
 
 # Questions
 
@@ -68,7 +68,7 @@ There five stages.
 
 # Espanõl
 
-# SQL   MySql 
+# SQL con MySQL: manipular y consultar datos
 
 # Preguntas
 
