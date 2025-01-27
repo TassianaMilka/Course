@@ -6,7 +6,7 @@ CREATE SCHEMA `sucos2` DEFAULT CHARACTER SET utf8;
 
 
 --!Apagar a tabela do banco de dado(diretórios).
-DROP DATABASE sucos;
+DROP DATABASE sucos; 
 
 
 --!Pode descrever diferente essa duas formas.
