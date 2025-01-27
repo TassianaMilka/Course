@@ -35,7 +35,7 @@ Foram cinco etapas.
 
 # Englsih
 
-#  Spring AI: Integrate a Spring application with OpenAI
+#  SQL with MySQL:
 
 # Questions
 
@@ -68,7 +68,7 @@ There five stages.
 
 # Espanõl
 
-# 
+# SQL   MySql 
 
 # Preguntas
 
