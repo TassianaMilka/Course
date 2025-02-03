@@ -22,7 +22,7 @@ Foram seis etapas.
 
 1.Prefixos;
 
-2.LEGT/RIGHT;
+2.LEGT/RIGHT.
 
 3.UNION/UNION ALL;
 
