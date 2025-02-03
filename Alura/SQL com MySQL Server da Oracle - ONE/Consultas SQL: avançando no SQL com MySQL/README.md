@@ -76,5 +76,8 @@ Seis  pasos.
 
 # Los puntos principales
 
+1.LETF/RIGHT JOIN;
 
+2.UNION/UNION ALL;
 
+3.CASE.
