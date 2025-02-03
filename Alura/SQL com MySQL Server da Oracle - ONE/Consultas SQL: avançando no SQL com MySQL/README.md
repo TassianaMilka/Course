@@ -30,7 +30,7 @@ Foram seis etapas.
 
 # Englsih
 
-#  SQL with MySQL: manipulate and query data
+# SQL queries: Advancing SQL with MySQL
 
 # Questions
 
@@ -58,7 +58,7 @@ There six stages.
 
 # Espanõl
 
-# SQL con MySQL: manipular y consultar datos
+# Consultas SQL: avances en SQL con MySQL
 
 # Preguntas
 
