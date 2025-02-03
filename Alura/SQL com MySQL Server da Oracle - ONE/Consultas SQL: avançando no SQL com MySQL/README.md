@@ -20,13 +20,12 @@ Foram seis etapas.
 
 # Os principais pontos
 
-1.Prefixos;
 
-2.LEGT/RIGHT.
+1.LETF/RIGHT JOIN;
 
-3.UNION/UNION ALL;
+2.UNION/UNION ALL;
 
-4.
+3.CASE.
 
 
 # Englsih
@@ -50,6 +49,11 @@ There six stages.
 # The principals
 
 
+1.LETF/RIGHT JOIN;
+
+2.UNION/UNION ALL;
+
+3.CASE.
 
 
 # Espanõl
