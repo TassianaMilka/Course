@@ -40,7 +40,7 @@ It was held on the website of the Alura;
 
 When did it happen?
 
-I held it in 2025 the January;
+I held it in 2025 the February;
 
 How many steps?
 
@@ -69,7 +69,7 @@ En la página web del Alura;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2025 de Enero;
+Lo celebré en 2025 Febrero;
 
 ¿Cuántos pasos?
 
