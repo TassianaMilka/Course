@@ -30,7 +30,7 @@ Foram cinco etapas.
 
 # Englsih
 
-# 
+# DML Commands: data manipulation with MySQL
 
 # Questions
 
@@ -59,7 +59,7 @@ There five stages.
 
 # Espanõl
 
-# 
+# Comandos DML: manipulación de datos con MySQL
 
 # Preguntas
 
