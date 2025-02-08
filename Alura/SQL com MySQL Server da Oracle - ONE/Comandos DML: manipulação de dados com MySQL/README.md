@@ -30,7 +30,7 @@ Foram cinco etapas.
 
 # Englsih
 
-# SQL queries: Advancing SQL with MySQL
+# 
 
 # Questions
 
@@ -48,12 +48,18 @@ There five stages.
 
 # The principals
 
+1.PRIMARY KEY;
 
+2.DELETE;
+
+3.ROLLBACK/COMMIT;
+
+4.TRIGGER.
 
 
 # Espanõl
 
-# Consultas SQL: avances en SQL con MySQL
+# 
 
 # Preguntas
 
@@ -71,4 +77,10 @@ Cinco  pasos.
 
 # Los puntos principales
 
+1.PRIMARY KEY;
 
+2.DELETE;
+
+3.ROLLBACK/COMMIT;
+
+4.TRIGGER.
