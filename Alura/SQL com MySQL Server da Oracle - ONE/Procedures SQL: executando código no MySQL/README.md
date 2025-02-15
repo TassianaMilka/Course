@@ -24,7 +24,7 @@ Foram seis etapas.
 
 # Englsih
 
-# 
+# SQL Procedures: executing code in MySQL
 
 # Questions
 
@@ -47,7 +47,7 @@ There six stages.
 
 # Espanõl
 
-# 
+# Procedimientos SQL: ejecución de código en MySQL
 
 # Preguntas
 
