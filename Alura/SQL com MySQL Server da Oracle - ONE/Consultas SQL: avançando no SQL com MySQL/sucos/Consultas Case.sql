@@ -1,7 +1,7 @@
 --!Selecionar pela tabela o preço se é caro ou em conta ou barato 
 SELECT * FROM tabela_de_produtos;
 
-SELECT NOME_DO_PRODUTO, PRECO_DE_LISTA,
+SELECT NOME_DO_PRODUTO, PRECO_DE_LISTA, 
 CASE 
    WHEN PRECO_DE_LISTA >= 12 THEN 'PRODUTO CARO'
    WHEN PRECO_DE_LISTA >= 7 AND PRECO_DE_LISTA < 12 THEN 'PRODUTO EM CONTA'
