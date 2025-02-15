@@ -20,7 +20,11 @@ Foram seis etapas.
 
 # Os principais pontos
 
+DECLARE;
 
+DROP;
+
+SELECT.
 
 # English
 
@@ -42,6 +46,11 @@ There six stages.
 
 # The principals
 
+DECLARE;
+
+DROP;
+
+SELECT.
 
 
 
@@ -65,4 +74,9 @@ Seis  pasos.
 
 # Los puntos principales
 
+DECLARE;
+
+DROP;
+
+SELECT.
 
