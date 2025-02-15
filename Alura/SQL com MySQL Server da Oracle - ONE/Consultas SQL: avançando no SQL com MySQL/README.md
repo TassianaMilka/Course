@@ -28,7 +28,7 @@ Foram seis etapas.
 3.CASE.
 
 
-# Englsih
+# English
 
 # SQL queries: Advancing SQL with MySQL
 
