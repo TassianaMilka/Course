@@ -22,7 +22,7 @@ Foram seis etapas.
 
 
 
-# Englsih
+# English
 
 # SQL Procedures: executing code in MySQL
 
