@@ -28,7 +28,7 @@ Foram cinco etapas.
 
 4.TRIGGER.
 
-# Englsih
+# English
 
 # DML Commands: data manipulation with MySQL
 
