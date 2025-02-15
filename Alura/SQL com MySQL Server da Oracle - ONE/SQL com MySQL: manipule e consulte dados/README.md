@@ -33,7 +33,7 @@ Foram cinco etapas.
 6.AND/OR.
 
 
-# Englsih
+# English
 
 #  SQL with MySQL: manipulate and query data
 
