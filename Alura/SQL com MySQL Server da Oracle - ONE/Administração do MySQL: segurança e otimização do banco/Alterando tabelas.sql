@@ -1,4 +1,4 @@
---!Criação de tabela e o engine da memária
+--!Criação de tabela e o engine da memória
 CREATE TABLE DEFAULT_TABLE (ID INTEGER, NOME VARCHAR(100));
 
 ALTER TABLE DEFAULT_TABLE ENGINE = MyISAM;
