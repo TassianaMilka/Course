@@ -10,7 +10,7 @@ Aonde realizou?
 
 Foi realizado no site da Alura;
 
-Quando realizou?
+Quando realizou? 
 
 Realizei em 2025 de Fevereiro;
 
