@@ -20,7 +20,11 @@ Foram cinco etapas.
 
 # Os principais pontos
 
+1.CREATE USER;
 
+2.DROP USER;
+
+3.GRANT SELECT.
 
 # English
 
@@ -44,7 +48,11 @@ There five stages.
 
 # The principals
 
+1.CREATE USER;
 
+2.DROP USER;
+
+3.GRANT SELECT.
 
 # Espanõl
 
@@ -66,3 +74,8 @@ Cinco  pasos.
 
 # Los puntos principales
 
+1.CREATE USER;
+
+2.DROP USER;
+
+3.GRANT SELECT.
