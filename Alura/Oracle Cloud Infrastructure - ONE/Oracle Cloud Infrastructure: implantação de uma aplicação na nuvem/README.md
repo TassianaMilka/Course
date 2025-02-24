@@ -20,7 +20,7 @@ Foram cinco etapas.
 
 # Os principais pontos
 
-1. Oracle cloud;
+1.Oracle cloud;
 
 2.Protocolo de rede(IP).
 
@@ -46,7 +46,7 @@ There five stages.
 
 # The principals
 
-1. Oracle cloud;
+1.Oracle cloud;
 
 2.Network protocol (IP).
 
@@ -71,7 +71,7 @@ Cinco  pasos.
 
 # Los puntos principales
 
-1. Oracle cloud;
+1.Oracle cloud;
 
 2.Protocolo de red (IP).
 
