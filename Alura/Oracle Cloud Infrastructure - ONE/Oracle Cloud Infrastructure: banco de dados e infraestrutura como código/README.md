@@ -31,7 +31,7 @@ Foram cinco etapas.
 # English
 
 
-#
+# Oracle Cloud Infrastructure: database and infrastructure  code
 
 # Questions
 
@@ -51,12 +51,14 @@ There five stages.
 
 1.Oracle cloud;
 
-2.Network protocol (IP).
+2.Database;
+
+3.API.
 
 
 # Espanõl
 
-#  
+#  Oracle Cloud Infrastructure: código de infraestructura y base de datos
 
 # Preguntas
 
@@ -76,4 +78,6 @@ Cinco  pasos.
 
 1.Oracle cloud;
 
-2.
+2.Base de datos;
+
+3.API.
