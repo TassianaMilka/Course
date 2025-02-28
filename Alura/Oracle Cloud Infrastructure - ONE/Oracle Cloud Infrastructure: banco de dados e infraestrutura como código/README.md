@@ -2,7 +2,8 @@ Write in portuguese, english and spanish.
 
 # Português 
 
-# Oracle Cloud Infrastructure: implantação de uma aplicação na nuvem
+# Oracle Cloud Infrastructure: banco de dados e infraestrutura como código
+
 
 # Perguntas
 
@@ -22,13 +23,15 @@ Foram cinco etapas.
 
 1.Oracle cloud;
 
-2.Protocolo de rede(IP).
+2.Banco de dado;
+
+3.API.
 
 
 # English
 
 
-# Oracle Cloud Infrastructure: deploying an application in the Cloud
+#
 
 # Questions
 
@@ -53,7 +56,7 @@ There five stages.
 
 # Espanõl
 
-#  Oracle Cloud Infrastructure: implementación de una aplicación en la nube
+#  
 
 # Preguntas
 
@@ -73,4 +76,4 @@ Cinco  pasos.
 
 1.Oracle cloud;
 
-2.Protocolo de red (IP).
+2.
