@@ -32,7 +32,7 @@ Foram cinco etapas.
 
 # English
 
-#  
+#  Landing Page with AI: building  functional web page
 
 # Questions
 
@@ -42,7 +42,7 @@ It was held on the website of the Alura;
 
 When did it happen?
 
-I held it in 2025 the January;
+I held it in 2025 the March;
 
 How many steps?
 
@@ -61,7 +61,7 @@ There five stages.
 
 # Espanõl
 
-# 
+# Landing Page con IA: creación de una página web funcional
 
 # Preguntas
 
@@ -71,7 +71,7 @@ En la página web del Alura;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2025 de Enero;
+Lo celebré en 2025 de Marzo;
 
 ¿Cuántos pasos?
 
