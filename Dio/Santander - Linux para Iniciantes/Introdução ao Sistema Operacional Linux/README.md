@@ -29,7 +29,10 @@ Foram três etapas.
 
 # English
 
-# 
+
+# Introduction to the Linux Operating System
+
+
 
 # Questions
 
@@ -53,7 +56,7 @@ There three stages.
 
 # Espanõl
 
-# 
+# Introducción al sistema operativo Linux
 
 # Preguntas
 
@@ -67,7 +70,7 @@ Lo celebré en 2025 de Marzo;
 
 ¿Cuántos pasos?
 
-Um  pasos.
+Tres pasos.
 
 # Los puntos principales
 
