@@ -22,12 +22,12 @@ Foram cinco etapas.
 
 # Os principais pontos
 
-
+1.Layout de página e app.
 
 
 # English
 
-#  
+#  Artificial Intelligence and UX: optimize the construction of  digital product
 
 
 # Questions
@@ -46,11 +46,11 @@ There five stages.
 
 # The principals
 
-
+1.Layout the page and app.
 
 # Espanõl
 
-# 
+# Inteligencia Artificial y UX: optimiza construcción de un producto digital
 
 # Preguntas
 
@@ -68,4 +68,4 @@ Cinco  pasos.
 
 # Los puntos principales
 
-
+1.Layout de sitio y app.
