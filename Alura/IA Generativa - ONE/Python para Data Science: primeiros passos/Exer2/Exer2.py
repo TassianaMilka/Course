@@ -79,4 +79,22 @@ print(nump/nums)
 ######
 
 
+6-Crie um programa que solicite dois valores numéricos, um operador e uma potência, e realize a exponenciação entre esses dois valores.
+
+
+numoper = int (input('Informe o número operador:'))
+
+numpot = int (input('Informe o número da potência:'))
+
+print(f'O número do operador:{numoper}')
+
+print(f'O número da potência:{numpot}')
+
+print('O resultado final!')
+
+print(numoper**numpot)
+
+######
+
+
 
