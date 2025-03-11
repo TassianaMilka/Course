@@ -62,3 +62,21 @@ print(nump*nums)
 ######
 
 
+
+#5-Crie um programa que solicite dois valores numéricos, um numerador e um denominador, e realize a divisão entre os dois valores. Deixe claro que o valor do denominador não pode ser 0.
+
+print('******************OBSERVAÇÃO O DENOMINADOR DE VALOR DA DIVISÃO NÃO PODE SER 0(ZERO)******************')
+
+nump = int (input('Informe o primeiro número:'))
+
+nums = int (input('Informe o segundo número:'))
+
+
+print('A divisão!')
+
+print(nump/nums)
+
+######
+
+
+
