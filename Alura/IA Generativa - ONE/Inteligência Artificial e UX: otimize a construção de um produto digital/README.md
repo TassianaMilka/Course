@@ -2,7 +2,8 @@ Write in portuguese, english and spanish.
 
 # Português 
 
-#  Landing Page com IA: construindo uma página web funcional
+#  Inteligência Artificial e UX: otimize a construção de um produto digital
+
 
 
 # Perguntas
@@ -21,18 +22,13 @@ Foram cinco etapas.
 
 # Os principais pontos
 
-1.CHATGPT;
 
-2.Adobe Firefly;
-
-3.Freepik;
-
-4.Framer.
 
 
 # English
 
-#  Landing Page with AI: building  functional web page
+#  
+
 
 # Questions
 
@@ -50,18 +46,11 @@ There five stages.
 
 # The principals
 
-1.CHATGPT;
-
-2.Adobe Firefly;
-
-3.Freepik;
-
-4.Framer.
 
 
 # Espanõl
 
-# Landing Page con IA: creación de una página web funcional
+# 
 
 # Preguntas
 
@@ -79,10 +68,4 @@ Cinco  pasos.
 
 # Los puntos principales
 
-1.CHATGPT;
 
-2.Adobe Firefly;
-
-3.Freepik;
-
-4.Framer.
