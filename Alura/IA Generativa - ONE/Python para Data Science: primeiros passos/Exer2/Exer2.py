@@ -98,3 +98,24 @@ print(numoper**numpot)
 
 
 
+#7-Crie um código que solicita 3 notas de um estudante e imprima a média das notas.
+
+
+nump = int (input('Informe o primeiro número:'))
+
+nums = int (input('Informe o segundo número:'))
+
+numt = int (input('Informe o terceiro número:'))
+
+
+
+print('O resultado finalmédia das notas!')
+
+print(nump+nums+numt/2)
+
+
+######
+
+
+
+
