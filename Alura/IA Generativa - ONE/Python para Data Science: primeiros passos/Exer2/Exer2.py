@@ -44,6 +44,21 @@ print('A subtração!')
 
 print(nump-nums)
 
+######
+
+
+#4-Crie um programa que solicite dois valores numéricos à pessoa usuária e imprima a multiplicação dos dois valores.
+
+
+nump = int (input('Informe o primeiro número:'))
+
+nums = int (input('Informe o segundo número:'))
+
+
+print('A subtração!')
+
+print(nump*nums)
 
 ######
+
 
