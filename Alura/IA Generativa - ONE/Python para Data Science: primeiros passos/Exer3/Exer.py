@@ -183,20 +183,38 @@ else:
 #8-Escreva um programa que peça um número inteiro à pessoa usuária e determine se ele é par ou ímpar. Dica: Você pode utilizar o operador módulo %.
 
 
-num=int(input('Informe o número'))
+num=int(input('Informe o número:'))
 
 
 if num%2==0:
 
-   print('O número é par')
+   print('O número é par!')
 
 else:
 
-  print('O número é impar')
+  print('O número é impar!')
 
 
 #####
 
+
+
+#9-Escreva um programa que peça um número à pessoa usuária e informe se ele é inteiro ou decimal.
+
+
+
+#9-Escreva um programa que peça um número à pessoa usuária e informe se ele é inteiro ou decimal.
+
+num=float(input('Informe o número:'))
+
+
+if num%1==0:
+
+   print('O número é do tipo inteiro!')
+
+else:
+
+  print('O número é do tipo decimal!')
 
 
 
