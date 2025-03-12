@@ -109,4 +109,19 @@ print("O preço mais baixo dos três produtos:", preco_mais_baixo)
 #####
 
 
+#6-Escreva um programa que leia três números e os exiba em ordem decrescente.
+
+
+
+
+
+#####
+
+
+#7-Escreva um programa que pergunte em qual turno a pessoa usuária estuda ("manhã", "tarde" ou "noite") e exiba a mensagem "Bom Dia!", "Boa Tarde!", "Boa Noite!", ou "Valor Inválido!", conforme o caso.
+
+
+
+
+#####
 
