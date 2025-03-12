@@ -52,5 +52,39 @@ else:
 
 
 
+#4-Escreva um programa que leia valores médios de preços de um modelo de carro por 3 anos consecutivos e exiba o valor mais alto e mais baixo entre esses três anos.
+
+
+
+preco_ano1 = float(input("Digite o preço médio do carro no ano 1: "))
+preco_ano2 = float(input("Digite o preço médio do carro no ano 2: "))
+preco_ano3 = float(input("Digite o preço médio do carro no ano 3: "))
+
+
+preco_mais_alto = preco_ano1
+preco_mais_baixo = preco_ano1
+
+
+if preco_ano2 > preco_mais_alto:
+    preco_mais_alto = preco_ano2
+elif preco_ano2 < preco_mais_baixo:
+    preco_mais_baixo = preco_ano2
+
+
+if preco_ano3 > preco_mais_alto:
+    preco_mais_alto = preco_ano3
+elif preco_ano3 < preco_mais_baixo:
+    preco_mais_baixo = preco_ano3
+
+
+print("O preço mais alto do carro nos três anos foi:", preco_mais_alto)
+print("O preço mais baixo do carro nos três anos foi:", preco_mais_baixo)
+
+
+#####
+
+
+
+
 
 
