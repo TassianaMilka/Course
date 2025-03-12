@@ -152,6 +152,34 @@ print("Números em ordem decrescente:", maior, meio, menor)
 #7-Escreva um programa que pergunte em qual turno a pessoa usuária estuda ("manhã", "tarde" ou "noite") e exiba a mensagem "Bom Dia!", "Boa Tarde!", "Boa Noite!", ou "Valor Inválido!", conforme o caso.
 
 
+escolha =input('Informe em que horário você estuda?:')
+
+
+if escolha=="manhã":
+
+
+  print('Bom dia!')
+
+
+elif escolha=="tarde":
+
+
+ print('Bom tarde!')
+
+
+elif escolha=="noite":
+
+ print('Bom noite!')
+
+
+else:
+
+  print('Tenta novamente!')
+
+
+#####
+
+
 
 
 #####
