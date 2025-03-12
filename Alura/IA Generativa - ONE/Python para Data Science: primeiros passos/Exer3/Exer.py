@@ -18,5 +18,21 @@ elif nums>nump:
 ######
 
 
+#2-Escreva um programa que solicite o percentual de crescimento de produção de uma empresa e informe se houve um crescimento (porcentagem positiva) ou decrescimento (porcentagem negativa).
+
+num=float(input('Informe o percentual de crescimento de produção'))
+
+
+
+if num>0:
+
+  print(f'Conteve crescimento positivo na porcentagem:{num}')
+
+elif num<0:
+
+  print(f'Contém crescimento negativo na porcentagem:{num}')
+  
+
+######
 
 
