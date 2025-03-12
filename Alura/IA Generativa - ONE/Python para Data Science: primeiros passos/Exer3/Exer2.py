@@ -67,15 +67,37 @@ else:
     print('O resultado é ímpar!')
 
 
-
 ######
 
 
+#11-Escreva um programa que peça à pessoa usuária três números que representam os lados de um triângulo. O programa deve informar se os valores podem ser utilizados para formar um triângulo e, caso afirmativo, se ele é equilátero, isósceles ou escaleno. Tenha em mente algumas dicas:
+
+#Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
+#Triângulo Equilátero: três lados iguais;
+#Triângulo Isósceles: quaisquer dois lados iguais;
+#Triângulo Escaleno: três lados diferentes.
 
 
 
 
+print('Coletaremos os lados de um triângulo.')
+lado1 = float(input('Digite o comprimento do primeiro lado: '))
+lado2 = float(input('Digite o comprimento do segundo lado: '))
+lado3 = float(input('Digite o comprimento do terceiro lado: '))
 
+if (lado1 + lado2 > lado3) and (lado2 + lado3 > lado1) and (lado1 + lado3 > lado2):
+    print('Os valores podem formar um triângulo!')
+    if (lado1 == lado2) and (lado2 == lado3):
+        print('O triângulo é equilátero.')
+    elif (lado1 != lado2) and (lado2 != lado3) and (lado1 != lado3):
+        print('O triângulo é escaleno.')
+    else:
+        print('O triângulo é isósceles.')
+else:
+    print('Os valores não podem formar um triângulo!')
+
+
+######
 
 
 
