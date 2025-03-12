@@ -84,7 +84,29 @@ print("O preço mais baixo do carro nos três anos foi:", preco_mais_baixo)
 #####
 
 
+#5-Escreva um programa que pergunte sobre o preço de três produtos e indique qual é o produto mais barato para comprar.
 
+preco_produto_p = float(input("Informe o preço do produto 1: "))
+preco_produto_s = float(input("Informe o preço do produto 2: "))
+preco_produto_t = float(input("Informe o preço do produto 3: "))
+
+
+
+preco_mais_baixo = preco_produto_p
+
+
+
+if preco_produto_s < preco_mais_baixo:
+    preco_mais_baixo = preco_produto_s
+
+
+if preco_produto_t < preco_mais_baixo:
+    preco_mais_baixo = preco_produto_t
+
+
+print("O preço mais baixo dos três produtos:", preco_mais_baixo)
+
+#####
 
 
 
