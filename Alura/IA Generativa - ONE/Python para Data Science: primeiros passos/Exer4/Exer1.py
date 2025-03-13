@@ -55,3 +55,47 @@ print('Todas as notas são válidas!')
 ######
 
 
+#4-Desenvolva um programa que leia um conjunto indeterminado de temperaturas em Celsius e informe a média delas. A leitura deve ser encerrada ao ser enviado o valor -273°C.
+
+
+temperatura = float(input('Informe a temperatura em Celsius: '))
+
+
+contadora = 0
+soma = 0
+
+
+while temperatura != -273:
+
+    soma += temperatura
+
+    contadora += 1
+  
+    temperatura = float(input('Iforme a temperatura em Celsius: '))
+
+    media = soma / contadora
+
+
+######
+
+
+
+#5-Escreva um programa que calcule o fatorial de um número inteiro fornecido pela pessoa usuária. Lembrando que o fatorial de um número inteiro é a 
+#multiplicação desse número por todos os seus antecessores até o número 1. Por exemplo, o fatorial de 5 é 5 x 4 x 3 x 2 x 1 = 120.
+
+
+for num in range(0,1):
+
+
+
+   multi=5*4*3*2*1
+
+
+   print(f'O resultado do fatorial em sequência:{multi}')
+
+
+######
+
+
+
+
