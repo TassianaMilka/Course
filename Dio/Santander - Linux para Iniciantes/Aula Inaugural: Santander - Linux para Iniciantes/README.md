@@ -42,7 +42,7 @@ I held it in 2025 the March;
 
 How many steps?
 
-One stage.
+There one stage.
 
 # The principals
 
