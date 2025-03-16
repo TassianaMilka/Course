@@ -33,8 +33,51 @@ sum(valor)
 
 ######
 
+
 #3-Faça um código que colete em uma lista 5 números inteiros quaisquer e imprima a lista. Exemplo: [1,4,7,2,4].
 
 numeros=[1,4,7,2,4];
 
 print(numeros)
+
+
+
+
+######
+
+#4-Colete novamente 5 inteiros e imprima a lista em ordem inversa à enviada.
+
+
+numeros=[4,2,7,4,1];
+
+print(numeros)
+
+######
+
+
+#5-
+
+
+
+
+
+
+######
+
+#6-Escreva um programa que peça uma data informando o dia, mês e ano e determine se ela é válida para uma análise.
+
+data=["14/09/2000"];
+
+escolher=int(input('Informe se deseja visualizar a data informada para 1-[sim]ou 2-[finalização]\n]'))
+
+if  escolher==1:
+
+  print('Data válida para uma análise!')
+  print(data)
+
+else:
+
+  print('Finalização!')
+
+
+
