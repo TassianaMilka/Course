@@ -280,6 +280,6 @@ for setor, idades in dados.items():
 print(f'{acima_media} pessoas estão acima da idade média geral')
 
 
-######
+
 
 
