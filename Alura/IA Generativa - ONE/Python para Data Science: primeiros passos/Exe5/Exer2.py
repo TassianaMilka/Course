@@ -167,6 +167,74 @@ print(f'Porcentagem de votos: {porcentagem}%')
 
 
 
+salarios = [1172, 1644, 2617, 5130, 5532, 6341, 6650, 7238, 7685, 7782, 7903];
+
+dic_abonos = {} ;
+total_abono = 0;
+abonos_minimo = 0 ;
+maior_abono = 0 ;
+
+
+for salario in salarios:
+  
+  abono = salario * 0.1
+ 
+  if abono < 200:
+    abono = 200
+ 
+  dic_abonos[salario] = abono
+
+for abono in dic_abonos.values():
+
+  if abono == 200:
+    abonos_minimo += 1
+ 
+  if abono > maior_abono:
+    maior_abono = abono
+ 
+  total_abono += abono
+
+print(f'Abonos: {dic_abonos}')
+print(f'Total de gasto com abonos: {total_abono}')
+print(f'Número de funcionários que receberam o abono mínimo: {abonos_minimo}')
+print(f'Maior valor de abono: {maior_abono}')
+
+
+######
+
+
+#14-Uma equipe de cientistas de dados está estudando a diversidade biológica em uma floresta. A equipe fez a coleta de informações sobre o número de espécies de plantas e animais em cada área dessa floresta e armazenou essas informações
+#em um dicionário. Nele, a chave descreve a área dos dados e os valores nas listas correspondem às espécies de plantas e animais nas áreas, respectivamente.
+#Escreva um código para calcular a média de espécies por área e identificar a área com a maior diversidade biológica. Dica: use as funções built-in sum() e len().
+
+
+dados = {'Área Norte': [2819, 7236],
+         'Área Leste': [1440, 9492],
+         'Área Sul': [5969, 7496],
+         'Área Oeste': [14446, 49688],
+         'Área Centro': [22558, 45148]};
+
+soma_media = 0; 
+maior_diversidade = ''; 
+maior_soma = 0 ;
+
+for area, especies in dados.items():
+
+  soma_especies = sum(especies)
+  media = soma_especies / len(especies)
+
+  print(f'A {area} tem a média de {media} espécies')
+ 
+  if soma_especies > maior_soma:
+      maior_soma = soma_especies
+      maior_diversidade = area
+
+  soma_media += media
+
+media_total = soma_media / len(dados)
+
+print(f'Média geral de espécies: {media_total}')
+print(f'Área com a maior diversidade biológica: {maior_diversidade}')
 
 
 
@@ -174,7 +242,44 @@ print(f'Porcentagem de votos: {porcentagem}%')
 
 
 
+#15- O setor de RH da sua empresa te pediu uma ajuda para analisar as idades de colaboradores(as) de 4 setores da empresa. Para isso, foram fornecidos os seguintes dados:
+#Sabendo que cada setor tem 10 colaboradores(as), construa um código que calcule a média de idade de cada setor, a idade média geral entre todos os setores e quantas pessoas estão 
+#acima da idade média geral.
 
 
+
+dados = {'Setor A': [22, 26, 30, 30, 35, 38, 40, 56, 57, 65],
+        'Setor B': [22, 24, 26, 33, 41, 49, 50, 54, 60, 64],
+        'Setor C': [23, 26, 26, 29, 34, 35, 36, 41, 52, 56],
+        'Setor D': [19, 20, 25, 27, 34, 39, 42, 44, 50, 65]};
+
+total_idades = 0;
+
+for setor, idades in dados.items():
+
+  media_idade = sum(idades) / len(idades)
+
+  print(f'O {setor} tem a média de {media_idade}')
+ 
+  total_idades += sum(idades)
+
+media_total = total_idades / (len(idades) * len(dados))
+print(f'A média de idade geral é {media_total}')
+
+
+acima_media = 0;
+
+for setor, idades in dados.items():
+ 
+  for id in idades:
+
+    if id > media_total:
+    
+      acima_media += 1
+
+print(f'{acima_media} pessoas estão acima da idade média geral')
+
+
+######
 
 
