@@ -22,7 +22,7 @@ sum(valor)
 
 ######
 
-
+#2-
 
  
 
@@ -34,7 +34,6 @@ sum(valor)
 numeros=[1,4,7,2,4];
 
 print(numeros)
-
 
 
 
@@ -65,12 +64,8 @@ numeros_primos=[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 
 print(f'Lista de número primos até 199\n{numeros_primos}')
 
 
-
-
-
-
-
 ######
+
 
 #6-Escreva um programa que peça uma data informando o dia, mês e ano e determine se ela é válida para uma análise.
 
