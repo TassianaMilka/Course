@@ -98,7 +98,9 @@ for i in range(0,12):
 
 ######
 
+
 #11-Uma empresa de e-commerce está interessada em analisar as vendas dos seus produtos. Os dados das vendas foram armazenados em um dicionário:
+#Escreva um código que calcule o total de vendas e o produto mais vendido.
 
 dados_vendas = {'Produto A': 300, 'Produto B': 80, 'Produto C': 60, 'Produto D': 200, 'Produto E': 250, 'Produto F': 30}
 
@@ -121,4 +123,43 @@ print(f'{produto_mais_vendido} é o mais vendido')
 
 
 
-#12- 
+######
+
+#12- Uma pesquisa de mercado foi feita para decidir qual design de marca infantil mais agrada as crianças. A pesquisa foi feita e o votos computados podem ser observados abaixo:
+#Adapte os dados fornecidos para uma estrutura de dicionário. A partir dele, informe o design vencedor e a porcentagem de votos recebidos.
+
+
+
+votos = {'Design 1': 1334, 'Design 2': 982, 'Design 3': 1751, 'Design 4': 210, 'Design 5': 1811}
+
+
+total_votos = 0;
+vencedor = '';
+voto_vencedor = 0;
+
+#items selecionar os votos
+
+for design, voto_desing in votos.items():
+
+  total_votos += voto_desing;
+ 
+  if voto_desing > voto_vencedor:
+
+    voto_vencedor = voto_desing;
+
+    vencedor = design;
+
+
+porcentagem = 100 * (voto_vencedor) / (total_votos);
+
+
+print(f'{vencedor} é o vencedor: ')
+print(f'Porcentagem de votos: {porcentagem}%')
+
+
+
+######
+
+
+
+
