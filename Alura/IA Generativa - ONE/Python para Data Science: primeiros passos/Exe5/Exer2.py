@@ -5,8 +5,8 @@
 
 
 
-bacterias_colonia = [1.2, 2.1, 3.3,4.6,3.4]
-bacterias_colonia_2=[2.4, 4.5, 2.4,7.8,1.2]
+bacterias_colonia = [1.2, 2.1, 3.3,4.6,3.4];
+bacterias_colonia_2=[2.4, 4.5, 2.4,7.8,1.2];
 
 porcentagem_crescimento = []
 for i in range(1, len(bacterias_colonia)):
