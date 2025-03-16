@@ -21,4 +21,35 @@ print(f'Porcentagens de crescimento:\n{porcentagem_crescimento}')
 ######
 
 
+8-
 
+
+
+
+
+######
+
+
+#9-Desenvolva um programa que informa a nota de um(a) aluno(a) de acordo com suas respostas. Ele deve pedir a resposta desse(a) aluno(a) para cada questão e é preciso verificar se a resposta foi igual ao gabarito. 
+#Cada questão vale um ponto e existem as alternativas A, B, C ou D.
+
+respostas = [] 
+
+gabarito = ['D', 'A', 'C', 'B', 'A', 'D', 'C', 'C', 'A', 'B']
+soma = 0 
+
+
+for i in range(0, 10):
+  respostas.append(input('Informe a resposta da questão').upper())
+
+for i in range(0,10):
+  if respostas[i] == gabarito[i]:
+
+    #Inclementação de quantidade
+    soma+= 1
+
+# Exibindo nota final
+print(f'Nota final: {soma}')
+
+
+######
