@@ -23,11 +23,19 @@ sum(valor)
 ######
 
 
-#2-
+#5-Faça um programa que, ao inserir um número qualquer, cria uma lista contendo todos os números primos entre 1 e o número digitado.
 
 
+numero=int(input('Informe um número primo\n'))
 
 
+print(f'O número informado\n{numero}')
+
+numeros_primos=[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97,101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199];
+  
+  
+  
+print(f'Lista de número primos até 199\n{numeros_primos}')
 
 
 
