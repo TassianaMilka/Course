@@ -17,7 +17,7 @@ Realizei em 2025 de Março;
 
 Quantas etapas?
 
-Foram nove etapas.
+Foram doze etapas.
 
 # Os principais pontos
 
@@ -47,13 +47,9 @@ There one stage.
 
 # The principals
 
-1.Linux;
+1.Criando diretório;
 
-2.Ubuntu;
-
-3.Virtual box;
-
-4.Icloud Amazon.
+2.Trabalhando arquivo em texto.
 
 
 # Espanõl
