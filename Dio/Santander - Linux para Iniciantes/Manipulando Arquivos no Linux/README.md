@@ -43,7 +43,7 @@ I held it in 2025 the March;
 
 How many steps?
 
-There one stage.
+There twelve stages.
 
 # The principals
 
@@ -68,7 +68,7 @@ Lo celebré en 2025 de Marzo;
 
 ¿Cuántos pasos?
 
-Nueve pasos.
+Doce pasos.
 
 # Los puntos principales
 
