@@ -33,7 +33,7 @@ Foram cinco etapas.
 
 # English
 
-# 
+# Linux Package Management
 
 # Questions
 
@@ -51,12 +51,18 @@ There five stages.
 
 # The principals
 
+1.Ubuntu;
 
+2.Debian;
+
+3.Fedora;
+
+4.Red Hat.
 
 
 # Espanõl
 
-# 
+# Gestión de paquetes de Linux
 
 # Preguntas
 
@@ -74,4 +80,10 @@ Cinco pasos.
 
 # Los puntos principales
 
+1.Ubuntu;
 
+2.Debian;
+
+3.Fedora;
+
+4.Red Hat.
