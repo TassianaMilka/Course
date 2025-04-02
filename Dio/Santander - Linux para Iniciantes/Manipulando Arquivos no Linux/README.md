@@ -72,7 +72,7 @@ Nueve pasos.
 
 # Los puntos principales
 
-1. Creación de directorio;
+1.Creación de directorio;
 
-2. Archivo de trabajo en texto.
+2.Archivo de trabajo en texto.
 
