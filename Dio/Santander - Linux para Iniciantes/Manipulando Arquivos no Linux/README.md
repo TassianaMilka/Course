@@ -29,7 +29,7 @@ Foram doze etapas.
 
 # English
 
-# Installing Linux
+# Manipulating Files on Linux
 
 # Questions
 
@@ -49,12 +49,12 @@ There one stage.
 
 1.Create diretory;
 
-2.Work folder in text.
+2.Work file in text.
 
 
 # Espanõl
 
-# Instalación de Linux
+# Manipulación de archivos en Linux
 
 # Preguntas
 
@@ -72,11 +72,7 @@ Nueve pasos.
 
 # Los puntos principales
 
-1.Linux;
+1. Creación de directorio;
 
-2.Ubuntu;
-
-3.Virtual box;
-
-4.Icloud Amazon.
+2. Archivo de trabajo en texto.
 
