@@ -47,9 +47,9 @@ There one stage.
 
 # The principals
 
-1.Criando diretório;
+1.Create diretory;
 
-2.Trabalhando arquivo em texto.
+2.Work folde  in text.
 
 
 # Espanõl
