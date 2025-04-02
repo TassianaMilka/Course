@@ -27,7 +27,7 @@ Foram oito etapas.
 
 # English
 
-# 
+# Managing Users on Linux
 
 # Questions
 
@@ -50,7 +50,7 @@ There eight stages.
 
 # Espanõl
 
-# 
+# Administración de usuarios en Linux
 
 # Preguntas
 
@@ -64,7 +64,7 @@ Lo celebré en 2025 de Marzo;
 
 ¿Cuántos pasos?
 
-Doce pasos.
+Nueve pasos.
 
 # Los puntos principales
 
