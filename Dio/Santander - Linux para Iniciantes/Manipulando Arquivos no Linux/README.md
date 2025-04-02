@@ -49,7 +49,7 @@ There one stage.
 
 1.Create diretory;
 
-2.Work folde  in text.
+2.Work folder in text.
 
 
 # Espanõl
