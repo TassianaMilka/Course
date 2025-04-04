@@ -42,7 +42,17 @@ tabuada(num)
 
 #3-Crie a função que leia a lista abaixo e retorne uma nova lista com os múltiplos de 3:
 
+num = [97, 80, 94, 88, 80, 1, 16, 53, 62, 32, 24, 99];
 
+def tabuada(numeros: list):
+    for num in numeros:
+        print(f'Tabuada do {num}:')
+        for i in range(11):
+            resultado = num * i
+            print(f'{num} x {i} = {resultado}')
+        print('\n')  
+
+tabuada(num)
 
 
 
@@ -50,6 +60,7 @@ tabuada(num)
 
 
 #4-Crie uma lista dos quadrados dos números da seguinte lista [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]. Lembre-se de utilizar as funções lambda e map() para calcular o quadrado de cada elemento da lista.
+
 
 
 
