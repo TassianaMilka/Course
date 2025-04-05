@@ -28,7 +28,10 @@ print(lista)
 #elemento como a posição do nome na lista original e o segundo elemento sendo o próprio nome.
 
 
-
+lista_de_tuplas = ['Pedro', 'Júlia', 'Otávio', 'Eduardo'];
+for i in range(len(lista)):
+    lista_de_tuplas.append((i, lista[i]))
+print(lista_de_tuplas)
 
 
 ######
@@ -36,3 +39,6 @@ print(lista)
 
 
 
+
+
+######
