@@ -75,5 +75,12 @@ for n in nome_completo:
 ######
 
 
+#8-Como cientista de dados em um time de futebol, você precisa implementar novas formas de coleta de dados sobre o desempenho de jogadores e do time como um todo. 
+#Sua primeira ação é criar uma forma de calcular a pontuação do time no campeonato nacional a partir dos dados de gols marcados e sofridos em cada jogo.
 
+
+
+
+
+######
 
