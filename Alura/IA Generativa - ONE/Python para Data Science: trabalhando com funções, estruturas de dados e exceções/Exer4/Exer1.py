@@ -32,7 +32,22 @@ else:
 #3- Crie uma função que recebe uma lista como parâmetro e converta todos os valores da lista para float. A função deve conter um tratamento de erro indicando o tipo de erro gerado e retornar a lista caso não tenha ocorrido nenhum erro. 
 #Por fim, deve ter a cláusula finally para imprimir o texto: 'Fim da execução da função'.
 
+def converter_para_float(lista):
+    try:
+        lista_convertida = [float(item) for item in lista]
+        return lista_convertida
+    except ValueError as e:
+        print(f"Erro de conversão: {e}")
+    except TypeError as e:
+        print(f"Erro de tipo: {e}")
+        return lista  
+    finally:
+        print("Fim da execução da função")
 
+
+dados = ["3.5", "7", "abc", 10]
+resultado = converter_para_float(dados)
+print(resultado)
 
 
 
@@ -43,6 +58,19 @@ else:
 #4-Crie uma função que recebe duas listas como parâmetros e agrupe os elementos um a um das listas, formando uma lista de tuplas de 3 elementos, no qual o primeiro e segundo elemento da tupla são os valores na posição i das listas e o terceiro 
 #elemento é a soma dos valores na posição i das listas.
 
+def agrupar_listas(lista1, lista2):
+    try:
+        lista_agrupada = [(lista1[i], lista2[i], lista1[i] + lista2[i]) for i in range(min(len(lista1), len(lista2)))]
+        return lista_agrupada
+    except TypeError as e:
+        print(f"Erro de tipo: {e}")
+    finally:
+        print("Fim da execução da função")
 
+lista_a = [1, 2, 3, 4]
+lista_b = [10, 20, 30, 40]
+resultado = agrupar_listas(lista_a, lista_b)
+print(resultado)
+   
 
   ######
