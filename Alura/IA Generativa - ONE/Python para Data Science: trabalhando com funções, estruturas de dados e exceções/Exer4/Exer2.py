@@ -4,7 +4,33 @@
 #entradas com as alternativas A, B, C ou D em todos os testes. Se não for lançada a exceção, será exibida uma lista com as notas em cada teste.
 
 
+def calcular_pontuacao(respostas_estudantes, gabarito):
+    pontuacoes = []
+    try:
+        for respostas in respostas_estudantes:
+            pontuacao = sum(1 for i in range(len(gabarito)) if respostas[i] == gabarito[i])
+            pontuacoes.append(pontuacao)
+        return pontuacoes
+    except IndexError as e:
+        print(f"Erro: As listas de respostas estão com tamanhos inconsistentes. {e}")
+    except Exception as e:
+        print(f"Erro inesperado: {e}")
+    finally:
+        print("Fim da execução da função")
 
+
+gabarito_correto = ["A", "B", "C", "D", "A"]
+
+
+respostas_estudantes = [
+    ["A", "B", "C", "D", "A"], 
+    ["A", "C", "C", "D", "B"],  
+    ["B", "B", "C", "A", "D"]   
+
+]
+
+pontuacoes = calcular_pontuacao(respostas_estudantes, gabarito_correto)
+print(f"Pontuações dos estudantes: {pontuacoes}")
 
 
 ######
@@ -14,7 +40,26 @@
 
 
 
+def processar_frase(lista_palavras):
+    try:
+    
+        frase_reconstruida = " ".join(lista_palavras)
+        
+       
+        frequencia_palavras = {palavra: lista_palavras.count(palavra) for palavra in set(lista_palavras)}
 
+        return frase_reconstruida, frequencia_palavras
+    except TypeError as e:
+        print(f"Erro de tipo: {e}")
+    finally:
+        print("Fim da execução da função")
+
+
+lista_exemplo = ["ChatGPT", "é", "um", "modelo", "de", "IA", "modelo", "baseado", "em", "transformers"]
+frase, frequencia = processar_frase(lista_exemplo)
+
+print(f"Frase reconstruída: {frase}")
+print(f"Frequência das palavras: {frequencia}")
 
 
 
