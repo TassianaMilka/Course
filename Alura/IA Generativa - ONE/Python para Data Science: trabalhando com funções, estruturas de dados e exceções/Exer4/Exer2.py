@@ -61,12 +61,29 @@ frase, frequencia = processar_frase(lista_exemplo)
 print(f"Frase reconstruída: {frase}")
 print(f"Frequência das palavras: {frequencia}")
 
-
+######
 
 #7-Você foi contratado(a) como uma pessoa cientista de dados para auxiliar um laboratório que faz experimentos sobre o comportamento de uma cultura de fungos. O laboratório precisa avaliar constantemente a razão (divisão) entre os 
 #dados de pressão e temperatura do ambiente controlado recolhidos durante a experimentação para definir a melhor condição para os testes.
 
 
+def calcular_razao(pressao, temperatura):
+    try:
+        razoes = [p / t if t != 0 else float('inf') for p, t in zip(pressao, temperatura)]
+        return razoes
+    except TypeError as e:
+        print(f"Erro de tipo: {e}")
+    except ZeroDivisionError as e:
+        print(f"Erro de divisão por zero: {e}")
+    finally:
+        print("Fim da execução da função")
+
+
+pressao_dados = [101.3, 102.5, 100.8, 99.2, 103.1]
+temperatura_dados = [25, 30, 28, 0, 27]  
+
+razoes_calculadas = calcular_razao(pressao_dados, temperatura_dados)
+print(f"Razões calculadas: {razoes_calculadas}")
 
 
 
