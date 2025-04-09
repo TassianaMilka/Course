@@ -72,7 +72,7 @@ En la página web del Alura;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2025 de Marzo;
+Lo celebré en 2025 de  Abril;
 
 ¿Cuántos pasos?
 
