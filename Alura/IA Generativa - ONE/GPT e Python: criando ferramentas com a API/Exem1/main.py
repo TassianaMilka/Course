@@ -6,7 +6,7 @@ load_dotenv()
 cliente = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 resposta = cliente.chat.completions.create(
-    messages=[
+    messages=[ 
         {
             "role":"system",
             "content" : "Listar apenas os nomes dos produtos, sem considerar descrição."
