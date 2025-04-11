@@ -31,7 +31,7 @@ Foram cinco etapas.
 # English
 
 
-#  
+#  Desktop Linux
 
 
 # Questions
@@ -56,8 +56,8 @@ There five stages.
 
 # Espanõl
 
+#  Linux Desktop
 
-#  
 
 # Preguntas
 
@@ -76,7 +76,7 @@ Cinco  pasos.
 # Los puntos principales
 
 
-1. Codigo.
+1. Desktop.
 
 
 
