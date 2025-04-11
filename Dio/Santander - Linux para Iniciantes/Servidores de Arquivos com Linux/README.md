@@ -75,6 +75,6 @@ Tres  pasos.
 # Los puntos principales
 
 
-1. Arquivo.
+1. Archivo.
 
 
