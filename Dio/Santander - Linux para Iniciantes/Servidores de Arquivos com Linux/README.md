@@ -2,8 +2,7 @@ Write in portuguese, english and spanish.
 
 # Português 
 
-#  Associando Comandos CLI
-
+#  Servidores de Arquivos com Linux
 
 
 
@@ -30,7 +29,7 @@ Foram três etapas.
 # English
 
 
-#  Associating CLI Commands
+#  Linux File Servers
 
 
 # Questions
@@ -56,7 +55,7 @@ There three stages.
 # Espanõl
 
 
-#  Asociar comandos de la CLI
+#  Servidores de archivos Linux
 
 # Preguntas
 
