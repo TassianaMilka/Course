@@ -24,7 +24,7 @@ Foram três etapas.
 
 # Os principais pontos
 
-1. Código.
+1. Arquivo.
 
 
 # English
@@ -50,7 +50,7 @@ There three stages.
 # The principals
 
 
-1. Code.
+1. File.
 
 
 # Espanõl
@@ -75,6 +75,6 @@ Tres  pasos.
 # Los puntos principales
 
 
-1. Codigo.
+1. Arquivo.
 
 
