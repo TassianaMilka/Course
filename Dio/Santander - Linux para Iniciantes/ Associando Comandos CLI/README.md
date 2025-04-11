@@ -2,7 +2,8 @@ Write in portuguese, english and spanish.
 
 # Português 
 
-# Análise de dados com Python: utilizando o ChatGPT como assistente
+#  Associando Comandos CLI
+
 
 
 
@@ -29,7 +30,7 @@ Foram três etapas.
 # English
 
 
-#  
+#  Associating CLI Commands
 
 
 # Questions
@@ -44,7 +45,7 @@ I held it in 2025 the April;
 
 How many steps?
 
-There  stages.
+There three stages.
 
 # The principals
 
@@ -55,7 +56,7 @@ There  stages.
 # Espanõl
 
 
-#  
+#  Asociar comandos de la CLI
 
 # Preguntas
 
@@ -69,11 +70,11 @@ Lo celebré en 2025 de Abril;
 
 ¿Cuántos pasos?
 
-Cuatro  pasos.
+Tres  pasos.
 
 # Los puntos principales
 
 
-1. ChatGPT.
+1. COdigo.
 
 
