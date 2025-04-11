@@ -75,6 +75,6 @@ Tres  pasos.
 # Los puntos principales
 
 
-1. COdigo.
+1. Codigo.
 
 
