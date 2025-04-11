@@ -18,7 +18,7 @@ Realizei em 2025 de Março;
 
 Quantas etapas?
 
-Foram cinco etapas.
+Foram três etapas.
 
 # Os principais pontos
 
