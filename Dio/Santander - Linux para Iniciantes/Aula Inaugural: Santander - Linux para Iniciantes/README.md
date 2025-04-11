@@ -9,7 +9,7 @@ Write in portuguese, english and spanish.
 
 Aonde realizou?
 
-Foi realizado no site da Alura;
+Foi realizado no site da Dio;
 
 Quando realizou?
 
@@ -34,7 +34,7 @@ Foi uma etapa.
 
 Where did you do it?
 
-It was held on the website of the Alura;
+It was held on the website of the Dio;
 
 When did it happen?
 
@@ -57,7 +57,7 @@ There one stage.
 
 ¿Dónde lo hiciste?
 
-En la página web del Alura;
+En la página web del Dio;
 
 ¿Cuándo sucedió?
 
