@@ -30,7 +30,7 @@ Foram cinco etapas.
 # English
 
 
-#  Data analysis with Python: using ChatGPT an assistant
+#  
 
 
 # Questions
@@ -56,7 +56,7 @@ There five stages.
 # Espanõl
 
 
-#  Análisis de datos con Python: usando ChatGPT como asistente
+#  
 
 
 # Preguntas
