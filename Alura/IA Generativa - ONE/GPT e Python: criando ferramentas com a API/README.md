@@ -30,7 +30,7 @@ Foram cinco etapas.
 # English
 
 
-#  
+#  GPT and Python: create with API
 
 
 # Questions
@@ -56,7 +56,7 @@ There five stages.
 # Espanõl
 
 
-#  
+#  GPT y Python: Creación de herramientas con la API
 
 
 # Preguntas
