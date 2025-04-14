@@ -20,7 +20,7 @@ Realizei em 2025 de Abril;
 
 Quantas etapas?
 
-Foram Uma etapa.
+Foram uma etapa.
 
 # Os principais pontos
 
