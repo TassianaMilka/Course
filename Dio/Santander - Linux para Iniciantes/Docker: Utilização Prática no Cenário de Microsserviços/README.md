@@ -31,7 +31,7 @@ Foram uma etapa.
 # English
 
 
-#  
+#  Docker: Practical Use in the Microservices Landscape
 
 
 # Questions
@@ -57,7 +57,7 @@ One three stage.
 # Espanõl
 
 
-#  
+#  Docker: Uso práctico en el panorama de los microservicios
 
 # Preguntas
 
