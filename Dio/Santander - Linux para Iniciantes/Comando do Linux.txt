@@ -1,0 +1,95 @@
+Comando do Linux
+
+
+Puttty.
+
+
+nomeusuario date(data);
+
+pwd(Diretório padrão);
+
+cd(raiz);
+
+sys/kernel(Dentro);
+
+
+ls
+find -name arg*(Procurar vários);
+
+
+mkdir NomedoDiretório(Criação de arquivos/Diretório);
+
+
+sudo passwd root(Criar uma senha);
+
+
+history(Histórico dos comandos descrito anteriormente).
+
+
+Criar usuário 
+
+
+useradd nome_usuario (termo para alicar no sistema);
+
+
+
+nano arquivo nome .txt(Alterar);
+
+
+-rw-r(Leitura e gravação);
+
+
+apt-get(mais abaixo nível);
+
+
+ec2-user(certificado);
+
+ifconfig(Configuração);
+
+
+dnf remove net-tools -y(Remover);
+
+ls  -l;
+
+sudo apt install ./ link(Instalação pelo comando);
+
+
+Comando
+
+yum e dnf(Fedora e Red Hat Distribuição Linux);
+
+
+lsblk(visualizar disco);
+
+ext4 defaults  0 0 (back);
+
+
+cp --help(Copia de arquivo);
+
+cp /home/nomeusuario/nome do arquivo.mdf/disk2 -r(Copiar);
+
+
+ps a(Monstra o processo de todo os usuários);
+
+
+samba-(Compartilha Linux);
+
+smb.conf
+apt install samba -y(instalação 
+compartilhamento de arquivos);
+
+
+\\192.168.100.10\publica(servidor ip);
+
+
+
+/var/www/hpt(Diretório);
+
+
+
+
+mysql -u root -p(Usuário root de logat MySql);
+
+apt install mysql-server-8.0 -y(instalação de Linux ubuntu).
+
+
