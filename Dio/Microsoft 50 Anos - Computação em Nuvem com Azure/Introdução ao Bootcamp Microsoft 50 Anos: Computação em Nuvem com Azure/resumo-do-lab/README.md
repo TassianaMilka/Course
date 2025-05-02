@@ -2,7 +2,7 @@
 # Computação na Nuvem-Microsoft
 
 
-<p>Durante a realização de observação foi aprendido sobre como conseguir o acesso e os principai itens de utilização como:</p>
+<p>Durante a realização de observação foi aprendido sobre como conseguir o acesso e os principais itens de utilização como:</p>
 
 - Como mudar a interface de acesso;
 
