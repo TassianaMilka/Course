@@ -4,7 +4,7 @@
 
 <p>Durante a realização de observação foi aprendido sobre como conseguir o acesso na Microsoft Azure e os principais itens de utilização como:</p>
 
-- Como mudar a interface de acesso;
+- Mudar a interface de acesso;
 
 - Idioma;
 
