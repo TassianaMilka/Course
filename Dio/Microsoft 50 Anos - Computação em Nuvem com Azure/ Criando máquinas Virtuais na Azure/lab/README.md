@@ -16,4 +16,4 @@
 - Configurar para mais defina na utilização.
 
 
-  <p>Esse foram os itens mais eficientes para criação de desenvolvimento.</p>
+<p>Esse foram os itens mais eficientes para criação de desenvolvimento.</p>
