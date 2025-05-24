@@ -18,17 +18,17 @@ Realizei em 2025 de Maio;
 
 Quantas etapas?
 
-Foi uma etapa.
+Foram Doze  etapas.
 
 # Os principais pontos
 
-1. 
+1. Computação na Nuvem.
 
 
 # English
 
 
-#  Introduction to the Microsoft Experience 50 Years
+#  How Cloud Computing Works
 
 # Questions
 
@@ -42,18 +42,17 @@ I held it in 2025 the April;
 
 How many steps?
 
-There one stage.
+There twelve stages.
 
 # The principals
 
 
-1. Introduction.
-
+1.Cloud Computing.
 
 # Espanõl
 
 
-# Introducción a la Experiencia Microsoft 50 Años
+# Cómo funciona la Computación en Nube
 
 # Preguntas
 
@@ -67,10 +66,10 @@ Lo celebré en 2025 de Abril;
 
 ¿Cuántos pasos?
 
-Uno  paso.
+doce  pasos.
 
 # Los puntos principales
 
 
-1.introducción.
+1.Computadora Nube.
 
