@@ -38,7 +38,7 @@ It was held on the website of the Dio;
 
 When did it happen?
 
-I held it in 2025 the April;
+I held it in 2025 the Mays;
 
 How many steps?
 
@@ -62,7 +62,7 @@ En la página web del Dio;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2025 de Abril;
+Lo celebré en 2025 de Mayo;
 
 ¿Cuántos pasos?
 
