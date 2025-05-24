@@ -31,8 +31,7 @@ Foi uma etapa.
 # English
 
 
-#  Associating CLI Commands
-
+#  Introduction to the Microsoft Experience 50 Years
 
 # Questions
 
@@ -57,7 +56,7 @@ There one stage.
 # Espanõl
 
 
-#  Asociar comandos de la CLI
+# Introducción a la Experiencia Microsoft 50 Años
 
 # Preguntas
 
