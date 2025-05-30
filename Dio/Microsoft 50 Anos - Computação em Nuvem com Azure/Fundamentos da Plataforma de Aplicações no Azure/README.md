@@ -29,7 +29,7 @@ Foram Doze  etapas.
 # English
 
 
-#  
+#  Fundamentals of the Application Platform in Azure
 
 # Questions
 
@@ -53,7 +53,7 @@ There twelve stages.
 # Espanõl
 
 
-# 
+# Fundamentos de la Plataforma de Aplicaciones en Azure
 
 # Preguntas
 
