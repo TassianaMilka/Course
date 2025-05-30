@@ -29,7 +29,7 @@ Foram Doze  etapas.
 # English
 
 
-# 
+# Benefits of Azure Cloud
 
 # Questions
 
@@ -43,7 +43,7 @@ I held it in 2025 the Mays;
 
 How many steps?
 
-There twelve stages.
+There five stages.
 
 # The principals
 
@@ -53,7 +53,7 @@ There twelve stages.
 # Espanõl
 
 
-# Fundamentos de la Plataforma de Aplicaciones en Azure
+# Beneficios de la Nube Azure
 
 # Preguntas
 
@@ -67,7 +67,7 @@ Lo celebré en 2025 de Mayo;
 
 ¿Cuántos pasos?
 
-doce  pasos.
+Cinco  pasos.
 
 # Los puntos principales
 
