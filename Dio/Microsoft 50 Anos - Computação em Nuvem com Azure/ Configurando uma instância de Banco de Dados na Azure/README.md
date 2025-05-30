@@ -28,7 +28,7 @@ Foram uma etapa.
 # English
 
 
-# 
+# Setting up a Database instance on Azure
 
 # Questions
 
@@ -50,7 +50,7 @@ There one stage.
 # Espanõl
 
 
-# 
+# Configurando una instancia de Base de Datos en Azure
 
 # Preguntas
 
