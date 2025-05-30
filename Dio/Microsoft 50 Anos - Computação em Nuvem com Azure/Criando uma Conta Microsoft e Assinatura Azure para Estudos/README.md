@@ -29,7 +29,7 @@ Foram três etapas.
 # English
 
 
-# 
+# Creating a Microsoft Account and Azure Subscription for Studies
 
 # Questions
 
@@ -43,7 +43,7 @@ I held it in 2025 the Mays;
 
 How many steps?
 
-There twelve stages.
+There three stages.
 
 # The principals
 
@@ -54,7 +54,7 @@ There twelve stages.
 # Espanõl
 
 
-# 
+# Creando una cuenta de Microsoft y una suscripción de Azure para estudios
 
 # Preguntas
 
