@@ -19,7 +19,7 @@ Realizei em 2025 de Maio;
 
 Quantas etapas?
 
-Foram Doze  etapas.
+Foram cinco  etapas.
 
 # Os principais pontos
 
