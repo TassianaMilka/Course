@@ -1,0 +1,68 @@
+
+-Explicação sobre a história da Microsoft;
+
+-O que é Computação na Nuvem?
+Um modelo de entrega de serviços de tecnologia em recursos de armazenamento, processamento de dados , software e redes.
+
+O que é Infraestrutura?
+
+Recursos físicos ou virtuais necessários para o funcionamento de sistemas de TI.
+
+
+Quais são os modelos de Infra?
+
+1-On-Premise é baseado na empresa da própria infraestrutura física;
+
+2-Cloud é o custo feito pelo uso;
+
+
+3-Hybrid é o servidores locais dos servidores em cloud.
+
+
+Quais são os serviços?
+
+1-IaaS(Infraestrutura de Serviço) é uma infraestrutura de TI básica de serviço para fornecer recursos dos servidores virtuais, armazenamento, redes e outros componentes essenciais de TI;
+
+2-PaaS(Plataforma de Serviço) é uma plataforma de desenvolvimento completo na nuvem que permite os desenvolvedores para construir, testar e implementar aplicativos;
+
+
+3-SaaS(Software de Serviço) é uma aplicação completa de nuvem para acessar internet sem necessidade de instalação ou manutenção local;
+
+
+4-BaaS(Backend de Serviço) é uma solução pronta para uso de aplicativos móveis ou web com a gestão de bancos de dados, autenticação de usuários, notificações push e outros recursos comuns;
+
+FaaS(Função de Serviço) uma forma que executa funções de código específicas sem precisar gerenciar servidores;
+
+
+DBaaS(Database de Serviço) é para gerenciar os servidores e permitindo aos usuários conter o acesso de gerenciamento no bancos de dados na nuvem.
+
+
+4-Quais são os benefícios da nuvem?
+
+Alta disponibilidade- concentra em garantir a disponibilidade máxima que independentemente de interrupções ou eventos que possam ocorrer;
+
+Escalabilidade- capacidade de ajustar recursos para atender os recursos necessários;
+
+
+Elasticidade- algo de demanda repentino que implementa para ser expandido;
+
+
+Confiabilidade- design descentralizado na nuvem dos recursos implantados em várias regiões do mundo;
+
+
+
+Previsibilidade-uma confiança do desempenho ou no custo;
+
+Segurança-necessidades dos clientes que implementa que é realizado pelo cliente;
+
+
+Governança-auditoria baseada na nuvem que ajuda na sinalizar o recurso fora de conformidade dos padrões corporativos e fornece estratégias de mitigação;
+
+
+Gerenciabilidade- capacidade de gerenciamento na computação em nuvem.
+
+
+
+
+
+
