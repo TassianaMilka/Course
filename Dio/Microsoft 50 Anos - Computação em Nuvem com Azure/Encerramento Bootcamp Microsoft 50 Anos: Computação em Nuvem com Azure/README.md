@@ -2,7 +2,8 @@ Write in portuguese, english and spanish.
 
 # Português 
 
-#  Criando uma Conta Microsoft e Assinatura Azure para Estudos
+# Encerramento Bootcamp Microsoft 50 Anos: Computação em Nuvem com Azure
+
 
 
 
@@ -19,17 +20,17 @@ Realizei em 2025 de Maio;
 
 Quantas etapas?
 
-Foram três etapas.
+Foi uma etapa.
 
 # Os principais pontos
 
-1. Login.
+1. Acesso.
 
 
 # English
 
 
-# Creating a Microsoft Account and Azure Subscription for Studies
+# 
 
 # Questions
 
@@ -43,18 +44,18 @@ I held it in 2025 the Mays;
 
 How many steps?
 
-There three stages.
+There one stage.
 
 # The principals
 
 
-1.Login.
+1. Acess.
 
 
 # Espanõl
 
 
-# Creando una cuenta de Microsoft y una suscripción de Azure para estudios
+# 
 
 # Preguntas
 
@@ -68,12 +69,11 @@ Lo celebré en 2025 de Mayo;
 
 ¿Cuántos pasos?
 
-Tres  pasos.
+Uno  paso.
 
 # Los puntos principales
 
 
-1.Login.
-
+1. Aceso.
 
 
