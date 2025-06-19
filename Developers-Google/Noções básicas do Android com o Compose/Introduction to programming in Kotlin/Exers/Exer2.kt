@@ -43,3 +43,34 @@ fun main() {
     cartTotal = 20
     println("Total: $cartTotal")
 }
+
+
+
+/*5-Cout the ++ and -- two messages print*/
+
+
+
+
+fun main() {
+    var count = 10
+    println("You have $count unread messages.")
+    count = count + 1
+    println("You have $count unread messages.")
+}
+
+
+
+fun main() {
+    var count = 10
+    println("You have $count unread messages.")
+    count++
+    println("You have $count unread messages.")
+}
+
+
+fun main() {
+    var count = 10
+    println("You have $count unread messages.")
+    count--
+    println("You have $count unread messages.")
+}
