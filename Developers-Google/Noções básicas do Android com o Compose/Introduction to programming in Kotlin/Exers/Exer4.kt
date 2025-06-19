@@ -39,3 +39,26 @@ fun main() {
     println("New chat message from a friend");
 }
 
+
+
+/*3-Este programa informa os usuários sobre a próxima promoção de um determinado item. Ele tem um modelo de string, que depende da variável discountPercentage para o desconto percentual
+e da variável item para o item à venda. No entanto, há erros de compilação no código.
+
+
+fun main() {
+    val discountPercentage: Int = 0
+    val offer: String = ""
+    val item = "Google Chromecast"
+    discountPercentage = 20
+    offer = "Sale - Up to $discountPercentage% discount on $item! Hurry up!"
+    
+    println(offer)
+}
+Você consegue descobrir e corrigir a causa dos erros?
+Você consegue determinar a saída desse programa antes de executar o código no Playground Kotlin?*/
+
+
+
+
+
+
