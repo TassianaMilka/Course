@@ -59,6 +59,15 @@ Você consegue determinar a saída desse programa antes de executar o código no
 
 
 
+fun main() {
+    val discountPercentage: Int = 20;
+    val item = "Google Chromecast";
+
+    println("Sale - Up to $discountPercentage% discount on $item! Hurry up!");
+}
+
+
+
 
 
 
