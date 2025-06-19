@@ -75,4 +75,59 @@ fun main() {
 }
 
 
+/*5-Corrija o erro do programa para que ele gere a saída esperada.
+
+fun main() {
+    printLine("There is a chance of snow")
+}
+Saída esperada:
+
+
+There is a chance of snow*/
+
+
+
+fun main() {
+    println("There is a chance of snow")
+
+}
+
+
+
+/*6-Corrija o erro do programa para que ele gere a saída esperada.
+
+fun main() {
+    println("Cloudy") println("Partly Cloudy") println("Windy")
+}
+Saída esperada:
+
+
+Cloudy
+Partly Cloudy
+Windy*/
+
+
+fun main() {
+    println("Cloudy") 
+    println("Partly Cloudy") 
+    println("Windy")
+}
+
+
+/*7-Corrija o erro do programa para que ele gere a saída esperada.
+
+fun main() (
+    println("How's the weather today?")
+)
+Saída esperada:
+
+
+How's the weather today?*/
+
+
+fun main() {
+    println("How's the weather today?") 
+  
+}
+
 
