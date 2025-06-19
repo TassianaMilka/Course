@@ -198,3 +198,34 @@ fun add(firstNumber: Int, secondNumber: Int,thirdNumber:Int): Int {
     
 }
 
+
+/*Etapa 3
+Agora você tem uma função reutilizável para adicionar dois números.
+
+É possível implementar a função subtract() da mesma forma que a função add()? Modifique a função main() também para usar a função subtract() para verificar se ela funciona como esperado.
+Dica: pense na diferença entre adição, subtração e outras operações matemáticas. Comece a trabalhar no código da solução a partir disso.*/
+
+
+
+
+fun main() {
+    
+    val firstNumber = 10;
+    val secondNumber = 5;
+    val thirdNumber=8;
+    val resultOne = firstNumber - secondNumber;
+    val resultTwo = firstNumber - thirdNumber;
+
+    println(resultOne);
+    println(resultTwo);
+}
+
+fun add(firstNumber: Int, secondNumber: Int,thirdNumber:Int): Int {
+    
+    return firstNumber - secondNumber;
+    return firstNumber - thirdNumber;
+    
+    
+}
+
+
