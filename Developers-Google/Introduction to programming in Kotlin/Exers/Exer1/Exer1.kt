@@ -1,4 +1,4 @@
-#1-Você consegue ler o código deste programa e adivinhar qual vai ser a saída (sem precisar executar no Playground Kotlin)?
+/*1-Você consegue ler o código deste programa e adivinhar qual vai ser a saída (sem precisar executar no Playground Kotlin)?*/
 
 
 
