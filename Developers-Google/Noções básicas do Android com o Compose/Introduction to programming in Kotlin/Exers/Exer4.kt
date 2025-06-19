@@ -129,5 +129,31 @@ fun main() {
     
 }
 
+/*6-Neste exercício, você vai criar um programa que executa operações matemáticas básicas e mostra a resposta.
+
+Etapa 1
+A função main() contém um erro de compilação:
+
+
+fun main() {
+    val firstNumber = 10
+    val secondNumber = 5
+    
+    println("$firstNumber + $secondNumber = $result")
+}
+Você pode corrigir o erro para que o programa mostre este resultado?
+
+10 + 5 = 15*/
+
+
+
+fun main() {
+    val firstNumber = 10;
+    val secondNumber = 5;
+    
+    println(firstNumber + secondNumber);
+}
+
+
 
 
