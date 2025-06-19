@@ -27,9 +27,19 @@ fun main() {
 
 #Or
 
-
 fun main() {
     val unreadCount = 60;
     val readCount = 6;
     println("You have ${unreadCount + readCount} total messages in your inbox.");
+}
+
+
+/*4-Print two type String about numbers*/
+
+fun main() {
+    var cartTotal = 0
+    println("Total: $cartTotal")
+
+    cartTotal = 20
+    println("Total: $cartTotal")
 }
