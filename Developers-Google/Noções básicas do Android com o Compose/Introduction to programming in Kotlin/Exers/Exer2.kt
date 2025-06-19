@@ -74,3 +74,17 @@ fun main() {
     count--
     println("You have $count unread messages.")
 }
+
+
+/*6-String menssages and sum two numbers*/
+
+fun main() {
+    val nextMeeting = "Next meeting: "
+    val date = "January 1"
+    val reminder = nextMeeting + date + " at work"
+    val sum=3+2
+    println(sum)
+    println(reminder)
+}
+
+
