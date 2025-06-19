@@ -155,5 +155,46 @@ fun main() {
 }
 
 
+/*7-Etapa 2
+O código funciona, mas a lógica para adicionar dois números está localizada na variável resultante, tornando o código menos flexível à reutilização. Em vez disso, é possível extrair a operação de adição para uma função add() para que o código seja reutilizável. Para fazer isso, atualize o código para que fique como o mostrado abaixo. O código agora introduz uma nova variável val chamada thirdNumber e mostra o resultado dessa nova variável com firstNumber.
 
+
+fun main() {
+    val firstNumber = 10
+    val secondNumber = 5
+    val thirdNumber = 8
+    
+    val result = add(firstNumber, secondNumber)
+    val anotherResult = add(firstNumber, thirdNumber)
+
+    println("$firstNumber + $secondNumber = $result")
+    println("$firstNumber + $thirdNumber = $anotherResult")
+}
+
+// Define add() function below this line
+Você pode definir a função add() para que o programa gere essa saída?
+
+10 + 5 = 15
+10 + 8 = 18*/
+
+
+fun main() {
+    
+    val firstNumber = 10;
+    val secondNumber = 5;
+    val thirdNumber=8;
+    val resultOne = firstNumber + secondNumber;
+    val resultTwo = firstNumber + thirdNumber;
+
+    println(resultOne);
+    println(resultTwo);
+}
+
+fun add(firstNumber: Int, secondNumber: Int,thirdNumber:Int): Int {
+    
+    return firstNumber + secondNumber;
+    return firstNumber + thirdNumber;
+    
+    
+}
 
