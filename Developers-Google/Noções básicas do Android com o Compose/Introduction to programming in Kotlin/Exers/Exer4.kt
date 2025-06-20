@@ -337,3 +337,25 @@ fun main() {
     println()
 }*/
 
+fun main() {
+    
+    val firstUserEmailId = "user_one@gmail.com"
+    val secondUserOperatingSystem = "Windows"
+    val secondUserEmailId = "user_two@gmail.com"
+    val thirdUserOperatingSystem = "Mac OS"
+    val thirdUserEmailId = "user_three@gmail.com"
+
+    println(displayAlertMessage(firstUserEmailId,secondUserOperatingSystem,secondUserEmailId,thirdUserOperatingSystem,
+                                thirdUserEmailId))
+ 
+}
+
+
+
+fun displayAlertMessage(firstUserEmailId:String,secondUserOperatingSystem: String, secondUserEmailId :String,   
+                       thirdUserOperatingSystem : String,thirdUserEmailId: String): 
+String {
+    
+    return "$firstUserEmailId,$secondUserOperatingSystem,$secondUserEmailId ,$thirdUserOperatingSystem and $thirdUserEmailId."
+
+}
