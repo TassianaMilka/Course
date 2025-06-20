@@ -229,3 +229,45 @@ fun add(firstNumber: Int, secondNumber: Int,thirdNumber:Int): Int {
 }
 
 
+
+/*7-O Gmail tem um recurso que envia uma notificação ao usuário sempre que uma tentativa de login é feita em um novo dispositivo.
+
+Neste exercício, você vai criar um programa que mostra uma mensagem aos usuários com este modelo:
+
+
+There's a new sign-in request on operatingSystem for your Google Account emailId.
+É necessário implementar uma função que aceite parâmetros operatingSystem e emailId, construa e retorne a mensagem no formato fornecido.
+
+Por exemplo, se a função foi chamada com "Chrome OS" para o operatingSystem e "sample@gmail.com" para o emailId, ela vai retornar esta string:
+
+
+There's a new sign-in request on Chrome OS for your Google Account sample@gmail.com.
+Etapa 1
+É possível implementar a função displayAlertMessage() nesse programa para que ele mostre o resultado abaixo?
+
+fun main() {
+    val operatingSystem = "Chrome OS"
+    val emailId = "sample@gmail.com"
+
+    println(displayAlertMessage(operatingSystem, emailId))
+}
+
+// Define your displayAlertMessage() below this line.*/
+
+
+
+fun main() {
+    val operatingSystem = "Chrome OS"
+    val emailId = "sample@gmail.com"
+
+    println(displayAlertMessage(operatingSystem, emailId))
+}
+
+
+fun displayAlertMessage(operatingSystem : String, emailId: String): String {
+    
+    return "There's a new sign-in request on $operatingSystem for your Google Account $emailId."
+
+}
+
+
