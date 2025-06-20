@@ -361,7 +361,7 @@ String {
 }
 
 
-/*O pedômetro é um dispositivo eletrônico que conta o número de passos. Atualmente, quase todos os smartphones, smartwatches e equipamentos de ginástica vêm com pedômetros integrados. O app de saúde e fitness usa pedômetros
+/*8-O pedômetro é um dispositivo eletrônico que conta o número de passos. Atualmente, quase todos os smartphones, smartwatches e equipamentos de ginástica vêm com pedômetros integrados. O app de saúde e fitness usa pedômetros
 integrados para calcular esse número. Essa função calcula o número de calorias que o usuário queima com base nos passos dados.*/
 
 
@@ -383,4 +383,84 @@ fun main() {
 }
 
 
+/*9-Os smartphones modernos têm um recurso integrado que monitora o tempo de uso, ou seja, o tempo que você passa no smartphone por dia.
 
+Neste exercício, você vai implementar uma função que compara o tempo em minutos gasto no smartphone no dia atual com o tempo gasto no dia anterior. A função aceita dois parâmetros inteiros e retorna um valor booleano.
+
+O primeiro parâmetro contém o número de minutos que você gastou no dia atual e o segundo contém o número de minutos gastos no dia anterior. A função vai retornar um valor true se você tiver passado mais tempo no smartphone no dia atual em comparação com o dia anterior. Caso contrário, ela retorna um valor false.
+
+Por exemplo, se você chamou a função com os argumentos nomeados abaixo:
+
+timeSpentToday = 300 e timeSpentYesterday = 250, a função retorna um valor true.
+timeSpentToday = 300 e timeSpentYesterday = 300, a função retorna um valor false.
+timeSpentToday = 200 e timeSpentYesterday = 220, a função retorna um valor false.
+Dica: o operador de comparação > retorna true se o valor antes do operador for maior que o valor após o operador. Caso contrário, ela retorna um valor false.*/
+
+
+
+fun main() {
+    
+    println("Have I spent more time using my phone today: ${compareTime(300, 250)}")
+    println("Have I spent more time using my phone today: ${compareTime(300, 300)}")
+    println("Have I spent more time using my phone today: ${compareTime(200, 220)}")
+    
+}
+
+fun compareTime(timeSpentToday: Int, timeSpentYesterday: Int): Boolean {
+    
+    return timeSpentToday > timeSpentYesterday
+    
+}
+
+
+
+/*10-Este programa mostra a previsão do tempo para diferentes cidades. Ele inclui o nome da cidade, as temperaturas máximas e mínimas do dia e a chance de chuva.
+
+
+fun main() {
+    println("City: Ankara")
+    println("Low temperature: 27, High temperature: 31")
+    println("Chance of rain: 82%")
+    println()
+
+    println("City: Tokyo")
+    println("Low temperature: 32, High temperature: 36")
+    println("Chance of rain: 10%")
+    println()
+    
+    println("City: Cape Town")
+    println("Low temperature: 59, High temperature: 64")
+    println("Chance of rain: 2%")
+    println()
+    
+    println("City: Guatemala City")
+    println("Low temperature: 50, High temperature: 55")
+    println("Chance of rain: 7%")
+    println()
+}
+Existem muitas semelhanças com o código que mostra o clima de cada cidade. Por exemplo, há frases que são repetidas várias vezes, como "City:" (cidade) e "Low temperature:" (temperatura baixa). Códigos semelhantes e repetidos apresentam risco de erros no programa. Em uma das cidades, você pode ter um erro de digitação ou esquecer um dos detalhes meteorológicos.
+
+É possível criar uma função que mostra os detalhes do clima para uma cidade a fim de reduzir a repetição na função main() e fazer o mesmo com as cidades restantes?
+É possível atualizar a função main(), chamar a função que você criou para cada cidade e transmitir os detalhes adequados do clima como argumentos?*/
+
+
+
+
+
+
+fun main() {
+    
+    printWeatherForCity("Ankara", 27, 31, 82)
+    printWeatherForCity("Tokyo", 32, 36, 10)
+    printWeatherForCity("Cape Town", 59, 64, 2)
+    printWeatherForCity("Guatemala City", 50, 55, 7)
+    
+}
+
+fun printWeatherForCity(cityName: String, lowTemp: Int, highTemp: Int, chanceOfRain: Int) {
+    
+    println("City: $cityName")
+    println("Low temperature: $lowTemp, High temperature: $highTemp")
+    println("Chance of rain: $chanceOfRain%")
+
+}
