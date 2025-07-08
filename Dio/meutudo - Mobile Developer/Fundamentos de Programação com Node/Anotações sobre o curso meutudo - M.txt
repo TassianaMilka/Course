@@ -1,0 +1,46 @@
+Anotações sobre o curso meutudo - Mobile Developer
+
+
+Introdução a Node.Js
+
+
+Criado em 2009 pelo Ryan Dahl  e foi lançado em um ambiente de execução de JavaScript do lado do servidor e 2010 o desenvolvimento da comunidade e o crescente interesse na plantaforma.
+
+O que o Node não é
+
+
+
+Uma linguagem de programação da linguagem é Jacascript;
+Não é um framework é um runtine(ambiente de execução) de javascript;
+Node não é limitado que faz tudo que outras tecnologias de backend fazem.
+
+
+Quais aplicações de Node.js?
+
+Real chats em time,Web aplicações,REST API server,Complex SPAs,Lot aplicações e Data streaming.
+
+Dowload 
+
+https://nodejs.org/pt/download
+
+
+node -v(confirmated)-cdm
+
+
+comandos de navegação de diretórios
+
+  del *       (delete) deleta arquivos
+  ls            (list) lista arquivos no diretório
+  cls          (clear) limpa terminal 
+  cd          (change directory) muda de diretório
+  mkdir     (make directory) cria um diretório novo 
+  code      (vscode) abre o editor de código do vscode
+
+comandos npm e node
+  npm init -y           inicia um projeto node
+  node [arquivo]     roda arquivo javascript
+  node --watch [arquivo] node fica vigiando arquivo
+
+
+
+
