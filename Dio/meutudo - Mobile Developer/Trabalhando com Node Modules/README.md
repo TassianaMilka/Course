@@ -2,7 +2,7 @@ Write in portuguese, english and spanish.
 
 #  Português
 
-# Fundamentos de Programação com Node
+# Trabalhando com Node Modules
 
 
 # Perguntas
@@ -17,14 +17,16 @@ Realizei em 2025 de Julho.
 
 # Os principais pontos
 
-1.node.js.
+1.node.js;
+
+2.Module.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # English
 
-# Fundamentals of Programming with Node
+# 
 
 # Questions
 
@@ -38,13 +40,15 @@ In 2025 the July.
 
 # The main points
 
-1.node.js.
+1.node.js;
+
+2.Module.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
 
-# Fundamentos de Programación con Node
+# 
 
 # Preguntas
 
@@ -58,4 +62,7 @@ Lo celebré en 2025 de Julio.
 
 # Los puntos principales
 
-1.node.js.
+1.node.js;
+
+2.Module.
+
