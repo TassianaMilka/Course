@@ -1,0 +1,21 @@
+
+Links
+
+
+-  Chainlit
+
+https://docs.chainlit.io/get-started/overview?utm_medium=email&_hsenc=p2ANqtz-_kzgIpvcWbmS7tWir75mZAy8OrKGvTsgxsn_bFWS06cfcuuqrZ2saMJwtgqj2BRz7Rx6CTDQEAsk64AJqaYQCfdkpByw&_hsmi=310113685&utm_content=310113685&utm_source=hs_automation
+
+- Pyngrok
+
+https://pyngrok.readthedocs.io/en/latest/?utm_medium=email&_hsenc=p2ANqtz-9nkNOwxs_Kxr0MOp8s8H0UukZHPF09HyNH8T9mjAa_l1n4p31vqD8mIdkXnIOd1MZTRxDBZeZgvXCDD2m_UuYfpLH__Q&_hsmi=310113685&utm_content=310113685&utm_source=hs_automation
+
+
+- LangChain
+
+https://python.langchain.com/docs/introduction/?utm_medium=email&_hsenc=p2ANqtz--hJSlO27UkITcqNdODx6Ck7S7uAcSYJCnt7-99l_3n0eeLcK2JjlIEC909w1XtA7nwtKoLp6--8BSYfhzp7GIQAf7A_Q&_hsmi=310113685&utm_content=310113685&utm_source=hs_automation
+
+
+-  Optimum
+
+https://huggingface.co/docs/optimum/index?utm_medium=email&_hsenc=p2ANqtz-8yKjROccW4VBeud4-DoB6cvNpO4jV2tXLFPChgt4C2G9X-DVirMK9fiAD0jq5SEKvJ_El6IU_z1x9K0dgC_5i2VGbZXA&_hsmi=310113685&utm_content=310113685&utm_source=hs_automation
