@@ -26,7 +26,7 @@ Realizei em 2025 de Julho.
 
 # English
 
-# 
+# Working with Node Modules
 
 # Questions
 
@@ -48,7 +48,7 @@ In 2025 the July.
 
 # Espanõl
 
-# 
+# Trabajando con módulos de Node
 
 # Preguntas
 
