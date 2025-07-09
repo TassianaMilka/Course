@@ -17,14 +17,14 @@ Realizei em 2025 de Julho.
 
 # Os principais pontos
 
-1.Sobre algoritmos.
+1.node.js.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # English
 
-#
+# Fundamentals of Programming with Node
 
 # Questions
 
@@ -38,14 +38,13 @@ In 2025 the July.
 
 # The main points
 
-1.
-
+1.node.js.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
 
-# 
+# Fundamentos de Programación con Node
 
 # Preguntas
 
@@ -59,4 +58,4 @@ Lo celebré en 2025 de Julio.
 
 # Los puntos principales
 
-1.
+1.node.js.
