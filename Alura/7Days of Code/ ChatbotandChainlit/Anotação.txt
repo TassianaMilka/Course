@@ -19,3 +19,9 @@ https://python.langchain.com/docs/introduction/?utm_medium=email&_hsenc=p2ANqtz-
 -  Optimum
 
 https://huggingface.co/docs/optimum/index?utm_medium=email&_hsenc=p2ANqtz-8yKjROccW4VBeud4-DoB6cvNpO4jV2tXLFPChgt4C2G9X-DVirMK9fiAD0jq5SEKvJ_El6IU_z1x9K0dgC_5i2VGbZXA&_hsmi=310113685&utm_content=310113685&utm_source=hs_automation
+
+
+
+-Ngrok
+
+https://ngrok.com/docs/getting-started/?os=windows&utm_medium=email&_hsenc=p2ANqtz-984CYLbgcoGNpuJkQiP3VYV86--YlpaOVYL5q6kFo-G91YS3R394_nhdUj9gqfeeVp06ywUh-JYZOinUDqAVah4hilrg&_hsmi=310114163&utm_content=310114163&utm_source=hs_automation
