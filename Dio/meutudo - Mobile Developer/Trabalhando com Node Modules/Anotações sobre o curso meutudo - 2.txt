@@ -1,0 +1,30 @@
+Modules node.js
+
+
+Por que modularizar?
+
+
+Código longo,código vai se tornando complexo,difícil de dar manutenção e difícil de fazer mudanças.
+Divido em partes os pequenos arquivos.
+
+
+Tipos de módulos
+
+
+Common JS é utilizado uma sintaxe mais simples com as palavras-chave require para carregar módulos e module.exports para exportar funcionalidades.
+
+
+ESM um módulos ESM introduzir uma sintaxa unificada com as palavras-chave import e export que alinha com padrões de outras linguagens modernas.
+
+
+
+https://nodejs.org/api/modules.html
+
+
+
+
+
+
+
+
+
