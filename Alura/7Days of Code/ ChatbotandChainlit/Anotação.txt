@@ -25,3 +25,9 @@ https://huggingface.co/docs/optimum/index?utm_medium=email&_hsenc=p2ANqtz-8yKjRO
 -Ngrok
 
 https://ngrok.com/docs/getting-started/?os=windows&utm_medium=email&_hsenc=p2ANqtz-984CYLbgcoGNpuJkQiP3VYV86--YlpaOVYL5q6kFo-G91YS3R394_nhdUj9gqfeeVp06ywUh-JYZOinUDqAVah4hilrg&_hsmi=310114163&utm_content=310114163&utm_source=hs_automation
+
+
+-Hugging Face
+
+https://huggingface.co/TheBloke/zephyr-7B-beta-GPTQ?utm_campaign=%5Bb2c%5D%207DoC%20Chatbot%20-%201%C2%AA&utm_medium=email&_hsenc=p2ANqtz-8tTPwyEfYxkrvnIsImYvZHZubq9owULmi1gjnjmhCEE5wDC_KfAY_wGvG8UQn2S92kXZvLPyc6JOygnrOeJ5gAWSez9w&_hsmi=310113483&utm_content=310113483&utm_source=hs_automation
+
