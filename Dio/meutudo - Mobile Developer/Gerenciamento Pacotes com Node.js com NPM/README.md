@@ -25,7 +25,8 @@ Realizei em 2025 de Julho.
 
 # English
 
-# Fundamentals of Programming with Node
+# Package Management with Node.js using NPM
+
 
 # Questions
 
@@ -39,13 +40,17 @@ In 2025 the July.
 
 # The main points
 
-1.node.js.
+1.node.js;
+
+2.Scripts NPM.
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
 
-# Fundamentos de Programación con Node
+# Gestión de paquetes con Node.js y NPM
 
 # Preguntas
 
@@ -59,5 +64,8 @@ Lo celebré en 2025 de Julio.
 
 # Los puntos principales
 
-1.node.js.
+1.node.js;
+
+2.Scripts NPM.
+
 
