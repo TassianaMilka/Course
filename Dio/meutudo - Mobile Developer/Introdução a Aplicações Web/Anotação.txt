@@ -1,0 +1,61 @@
+# O que é domínio?
+
+# 
+
+# Domínio de uma aplicação do conjunto dos valores 
+
+possíveis que uma variável pode assumir em um contexto ou sistema;
+
+
+
+
+
+Tipos de Aplicações
+
+
+
+
+
+Crud são implementação das ações  básicas para fazer o registro,de criar registro,atualizar,ler o registro e deletar o registro;
+
+
+
+
+
+Web services são conjunto de serviços de uma aplicação programadas em uma mesma solução;
+
+
+
+
+
+Microsserviços de menores que são especializadas em pequenas partes;
+
+
+
+
+
+Monolito que comporta dentro de toda estrutura,o back-end de todos os serviços e o frontend de muitas vezes até o frontend tudo junto.
+
+
+
+# HTTP
+
+
+O que é?
+
+Um padronizado de comunicação entre duas aplicações que fazem aplicações conversarem de maneira padronizada.
+Através de um padrão de requisitos(requests)e respostas(responses).
+
+
+Comunicação
+
+Http Request-O jeito padrão de solicitar coisas através do 
+protocolo HTTP;
+
+Http Response-O jeito padrão de enviar dados de resposta do 
+protocolo HTTP;
+
+Header-São configurações,observações ou adendos enviados
+pelo servidor;
+
+Content-O conteúdo de fato solicirado pelo usuário.
