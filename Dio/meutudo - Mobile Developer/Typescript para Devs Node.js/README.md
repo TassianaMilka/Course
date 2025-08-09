@@ -26,7 +26,7 @@ Realizei em 2025 de Julho.
 
 # English
 
-# Typescript to Devs Node.js
+# Typescript Devs Node.js
 
 
 
