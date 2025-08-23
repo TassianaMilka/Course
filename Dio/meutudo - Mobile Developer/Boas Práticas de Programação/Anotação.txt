@@ -1,0 +1,14 @@
+
+
+# API RESTful
+
+Destinado uma arquitetura de software utilizada para criar serviços web escaláveis;
+
+
+HTTP;
+
+GET;
+
+PUT;
+
+Orientação a objeto com API(Resumindo o funcionamento).
