@@ -61,7 +61,7 @@ En la página web del Dio;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2025 de Julio.
+Lo celebré en 2025 de Agosto.
 
 # Los puntos principales
 
