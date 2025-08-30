@@ -1,0 +1,12 @@
+
+Introdução sobre React Native na criação de um projeto com emulador a visualização do Layout
+
+
+
+Liks extras
+
+https://reactnative.dev/docs/button
+
+https://reactnative.dev/
+
+
