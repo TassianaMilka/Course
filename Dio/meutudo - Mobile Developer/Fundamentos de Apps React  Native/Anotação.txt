@@ -1,1 +1,9 @@
 
+
+
+Links
+
+https://reactnative.dev/docs/components-and-apis
+
+
+https://reactnative.dev/docs/flexbox
