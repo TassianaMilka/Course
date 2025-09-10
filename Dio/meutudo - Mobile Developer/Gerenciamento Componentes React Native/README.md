@@ -28,8 +28,7 @@ Realizei em 2025 de Agosto e Setembro.
 
 # English
 
-# APP React Native
-
+# Management of React Native Components
 
 # Questions
 
@@ -51,7 +50,7 @@ In 2025 the August and September.
 
 # Espanõl
 
-#    React Native
+#  Gestión de Componentes React Native
 
 
 # Preguntas
