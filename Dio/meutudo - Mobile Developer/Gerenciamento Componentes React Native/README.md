@@ -20,7 +20,9 @@ Realizei em 2025 de Agosto e Setembro.
 # Os principais pontos
 
 
-1.React Native.
+1.React Native;
+
+2.Api.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -41,13 +43,15 @@ In 2025 the August and September.
 
 # The main points
 
-1.React Native.
+1.React Native;
+
+2.Api.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
 
-# 
+#    React Native
 
 
 # Preguntas
@@ -62,7 +66,9 @@ Lo celebré en 2025 de Agosto e Setembro.
 
 # Los puntos principales
 
-1.React Native.
+1.React Native;
+
+2.Api
 
 
 
