@@ -27,7 +27,7 @@ Realizei em 2025 de Agosto e Setembro.
 
 # English
 
-# APP React Native
+# Navigability React Native
 
 
 # Questions
@@ -48,7 +48,8 @@ In 2025 the August and September.
 
 # Espanõl
 
-# Apps React Native
+# Navegabilidad en React Native
+
 
 
 # Preguntas
