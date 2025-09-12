@@ -21,7 +21,7 @@ Realizei em 2025 de Setembro.
 # Os principais pontos
 
 
-1.Compilot.
+1.Copilot.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ In 2025 the August and September.
 
 # The main points
 
-1.Compilot.
+1.Copilot.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -63,6 +63,6 @@ Lo celebré en 2025 de Agosto e Setembro.
 
 # Los puntos principales
 
-1.Compilot.
+1.Copilot.
 
-2.Api.
+
