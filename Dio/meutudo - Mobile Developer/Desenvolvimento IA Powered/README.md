@@ -37,7 +37,7 @@ It was held on the website of the Dio;
 
 When did it happen?
 
-In 2025 the August and September.
+In 2025 the  September.
 
 # The main points
 
@@ -59,7 +59,7 @@ En la página web del Dio;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2025 de Agosto e Setembro.
+Lo celebré en 2025 de Setembro.
 
 # Los puntos principales
 
