@@ -1,1 +1,14 @@
 
+Componentes de um Prompt
+
+
+Instruções-Orientam o modelo sobre a tarefa a ser realizada;
+Exemplos(Few - shor Learning)-Entrada e saída esperados do modelo o comportamento ou formato ideal para a tarefa definida;
+Contecto ou Configuração-Define  o papel de modelo o cenário;
+Restrições ou Limitações-Resposta em termos de extensão ou escopo;
+Conteúdo Principal-Dados apresentado como uma frase;
+Indicações-Guiam o modelo para gerar saídas específicas;
+Formato de Saída-Específica a resposta;
+Conteúdo de Suporte-Dados extras que ajudam na tarefa.
+
+
