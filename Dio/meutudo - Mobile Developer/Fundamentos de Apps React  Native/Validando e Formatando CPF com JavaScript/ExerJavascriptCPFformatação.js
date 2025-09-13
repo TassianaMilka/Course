@@ -1,5 +1,5 @@
 
-const valor = gets();
+const valor = gets()
 
 function formatarCPF(cpf) {
   const apenasNumeros = cpf.replace(/\D/g, '');
