@@ -46,7 +46,7 @@ In 2022 at 2025.
 
 # Espanõl
 
-# Java Basico
+# Java Básico
 
 # Preguntas
 
