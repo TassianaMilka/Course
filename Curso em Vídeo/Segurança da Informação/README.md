@@ -2,7 +2,7 @@ Write in portuguese, english and spanish.
 
 #  Português
 
-# Segurança da Informação: Módulo 01 [20 HORAS]
+# Segurança da Informação
 
 
 
@@ -15,7 +15,7 @@ Foi realizado no site da  Curso em Vídeo;
 
 Quando realizou?
 
-Realizei em 2024.
+Realizei em 2024 e 2205.
 
 # Os principais pontos
 
@@ -36,7 +36,7 @@ It was held on the website of the hrbrcursos;
 
 When did it happen?
 
-In 2025.
+In 2024 and 2025.
 
 # The main points
 
@@ -57,7 +57,7 @@ En la página web del  Curso em Vídeo;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2024.
+Lo celebré en 2024 y 2025.
 
 # Los puntos principales
 
