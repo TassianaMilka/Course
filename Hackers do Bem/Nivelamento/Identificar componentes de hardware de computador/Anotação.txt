@@ -1,0 +1,32 @@
+-Grandezas computacionais e sistema numéricos
+
+
+Numeros;
+
+ENIAC.
+
+
+
+-CPU, Placa-mãe, Memórias e BIOS/UEFI
+
+
+Compreender sobre funcionalidade no junto ao sistema operacional;
+
+
+
+-Armazenamento, Fonte, Placas Offboard e Gabinete
+
+
+Compreender sobre o funcionamento dos hardwares.
+
+
+
+-Instalação de SO
+
+Compreender sobre o sistema operacional.
+
+
+-Virtualização
+
+
+O que é o contexto e uma explicação como funciona.
