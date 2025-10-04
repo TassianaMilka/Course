@@ -1,0 +1,40 @@
+
+-O que é rede?
+
+ Sobre seu fundamento.
+
+
+-História das redes
+
+
+Histórico.
+
+
+
+-Tipo de redes
+
+
+Redes.
+
+
+-Padrões em comunicações de dados
+
+
+Comunicação dos dados.
+
+
+-Ativos de rede
+
+
+Funcionalidade.
+
+
+
+-Passivo de rede
+
+Funcionalidade.
+
+
+
+
+Tipos de Redes.
