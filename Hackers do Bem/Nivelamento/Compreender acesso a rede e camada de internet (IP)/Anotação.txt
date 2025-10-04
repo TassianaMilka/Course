@@ -1,1 +1,39 @@
 
+
+-Camada de acesso
+
+Suas fubcionalidade.
+
+
+
+-Endereço MAC e tráfego de Dados
+
+
+Como funciona.
+
+
+
+- Protocolo ARP
+
+
+Definição.
+
+
+
+-Endereço IPV4
+
+
+Diferença com IPV6.
+
+
+
+-IP Público, Privado e NAT
+
+
+Explicação sobre o privado e público.
+
+
+
+-Subrede
+
+Classificação.
