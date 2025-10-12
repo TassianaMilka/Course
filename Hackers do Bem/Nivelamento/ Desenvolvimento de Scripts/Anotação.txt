@@ -1,0 +1,3 @@
+
+Descrição de linguagem de programação como JaScript;
+Funcionalidade para o mercado profissional.
