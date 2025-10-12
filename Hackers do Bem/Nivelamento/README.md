@@ -38,7 +38,7 @@ It was held on the website of the Hackers do Bem;
 
 When did it happen?
 
-I held it in 2025 the Octuber;
+I held it in 2025 the October;
 
 How many steps?
 
