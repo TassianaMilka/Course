@@ -1,6 +1,49 @@
 
 
 
-Endereçamento IPv6
+-Endereçamento IPv6
 
+
+Ip.
+
+
+
+-Tipos de endereço
+
+
+Comprreender.
+
+
+
+-Abreviações IPv6
+
+
+Compreender.
+
+
+-Sub-rede IPv6
+
+Compreender.
+
+
+
+-Camada transporte
+
+
+Funcionalidade  pela transferência de dados entre duas ou mais máquinas, independente da configuração de rede utilizada.
+
+
+
+-Protocolo TCP
+
+
+O TCP se baseia em um mecanismo de confirmação e retransmissão para garantir que os dados enviados de um dispositivo para outro cheguem corretamente ao destino.
+
+
+
+
+-Protocolo UDP
+
+
+Fornecer comunicação rápida entre dispositivos em redes IP. O UDP não realiza controle de fluxo, o que significa que não tenta ajustar a taxa de transferência com base na capacidade da rede. 
 
