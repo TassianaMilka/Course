@@ -27,7 +27,7 @@ Foram dez etapas.
 
 # English 
 
-# 
+# Leveling
 
 
 # Questions
@@ -53,7 +53,7 @@ There were ten stages.
 
 # Espanõl 
 
-# 
+# Nivelación
 
 # Preguntas
 
@@ -63,7 +63,7 @@ En la página web del Hackers do Bem;
 
 ¿Cuándo sucedió?
 
-Lo celebré en 2025 de  ;
+Lo celebré en 2025 de  Octubre;
 
 ¿Cuántos pasos?
 
