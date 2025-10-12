@@ -1,1 +1,5 @@
 
+-DHCP
+
+
+Um protocolo de rede amplamente utilizado para automatizar a atribuição de endereços IP e outros parâmetros de configuração a dispositivos em uma rede. 
