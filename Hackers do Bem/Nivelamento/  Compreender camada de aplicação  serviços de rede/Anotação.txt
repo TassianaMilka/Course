@@ -3,3 +3,11 @@
 
 
 Um protocolo de rede amplamente utilizado para automatizar a atribuição de endereços IP e outros parâmetros de configuração a dispositivos em uma rede. 
+
+
+-SNMP, NTP e SYSLOG
+
+
+O SNMP (Simple Network Management Protocol) é um protocolo do conjunto TCP/IP que permite monitorar e controlar os dispositivos da rede;
+O Network Time Protocol, ou NTP, permite a sincronização dos relógios dos dispositivos de uma rede e define uma série de algoritmos utilizados para consultar os servidores, calcular a diferença de tempo e encontrar algum erro nesse processo.;
+O System Logging Protocol é um sistema que registra eventos em log, armazenando mensagens de eventos dentro de uma rede. 
