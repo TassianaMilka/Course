@@ -1,0 +1,21 @@
+Mainframe na máquina é importante descrever um ip corporativo ou público para o acesso  o mais comum é utilizar o TN3270.
+
+
+Software(Download)
+
+
+Quick3270
+
+
+https://www.dn-computing.com/features.htm
+
+
+Pw3270
+
+https://softwarepublico.gov.br/social/pw3270
+
+
+TN3270
+
+https://www.mochasoft.dk/tn3270.htm
+
