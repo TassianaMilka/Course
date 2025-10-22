@@ -1,0 +1,12 @@
+
+Linguagem de Baixo(Nível de máquina);
+
+Linguagem de Alto(Nível);
+
+
+Back-end;
+
+
+Front-end;
+
+Banco de dado.
