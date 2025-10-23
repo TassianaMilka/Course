@@ -29,5 +29,11 @@ Descrição como uma documentação:
 
 
 -Nome do autor;
--Data.
+-Data;
+-Declaração de variável de números/valores e string(9-numero) (x-string);
+-DIPLAY(Imprimir uma mensagem ou valore/números;
+-Mover o nome  como o sobrenome primeiro e depois o nome principal de um usuário;
+-Entrada e saída de dado dos cálculos para exibir resultado final;
+-Estrutura de condição(if and else);
+
 
