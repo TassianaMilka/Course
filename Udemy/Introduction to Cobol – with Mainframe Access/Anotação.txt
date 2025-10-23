@@ -22,4 +22,10 @@ https://www.mochasoft.dk/tn3270.htm
 
 
 
-Conheçendo como é um software  de mainframe para programar em cobol e o mais importante a linguagem de programação em Cobol
+Conheçendo como é um software  de mainframe para programar em cobol e o mais importante a linguagem de programação em Cobol.
+
+
+Descrição como uma documentação:
+
+
+-
