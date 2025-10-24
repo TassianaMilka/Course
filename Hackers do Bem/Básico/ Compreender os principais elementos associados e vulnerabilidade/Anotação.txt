@@ -1,0 +1,5 @@
+
+-Vulnerabilidade;
+-Framework;
+-Gestão de Vulnerabilidade e Processos;
+-Ferramentas.
