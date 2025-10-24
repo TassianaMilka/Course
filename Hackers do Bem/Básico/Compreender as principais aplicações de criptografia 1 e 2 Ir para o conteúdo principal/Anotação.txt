@@ -1,0 +1,5 @@
+
+-Criptografia;
+-Chaves públicas,privadas,asimétricas e simétricas.
+-Função hash;
+-Certificados digitais.
