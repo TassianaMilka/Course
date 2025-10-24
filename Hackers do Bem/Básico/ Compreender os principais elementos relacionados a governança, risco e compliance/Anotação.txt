@@ -1,0 +1,6 @@
+
+-Frameworks;
+-Segurança;
+-Políticas de tecnologia;
+-LGPD;
+-Ética.
