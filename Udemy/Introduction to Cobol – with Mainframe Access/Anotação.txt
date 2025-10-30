@@ -35,5 +35,6 @@ Descrição como uma documentação:
 -Mover o nome  como o sobrenome primeiro e depois o nome principal de um usuário;
 -Entrada e saída de dado dos cálculos para exibir resultado final;
 -Estrutura de condição(if and else);
+-Loop.
 
 
