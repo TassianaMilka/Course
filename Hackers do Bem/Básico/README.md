@@ -2,7 +2,7 @@ Write in portuguese, english and spanish.
 
 # Português
 
-# Nivelamento
+# Básico
 
 # Perguntas
 
@@ -16,7 +16,7 @@ Realizei em 2025 de Outubro;
 
 Quantas etapas?
 
-Foram dez etapas.
+Foram seis etapas.
 
 # Os principais pontos
 
@@ -27,7 +27,7 @@ Foram dez etapas.
 
 # English 
 
-# Leveling
+# Basic
 
 
 # Questions
@@ -42,7 +42,7 @@ I held it in 2025 the October;
 
 How many steps?
 
-There were ten stages.
+There were six stages.
 
 # The principals
 
@@ -53,7 +53,7 @@ There were ten stages.
 
 # Espanõl 
 
-# Nivelación
+# Basico
 
 # Preguntas
 
@@ -67,7 +67,7 @@ Lo celebré en 2025 de  Octubre;
 
 ¿Cuántos pasos?
 
-Cinco pasos.
+seis pasos.
 
 # Los puntos principales
 
