@@ -2,13 +2,15 @@ SOC
 
 
 
-Segurança de Operação é a necessidade de função para proteger a organização da resposta fundamental de cyber segurança do processos na criação junto com estrutura e dedicação SecOps e arquitetura para identificar,investigar,mitigar e aprimorar da proteção de Endpoint e resposta inteligente das suas  missões,governança,planejamento ,colaboração,treinamento,consistência de identificar alertas do processo.
+Segurança de Operação é a necessidade de função para proteger a organização da resposta fundamental de cyber segurança do processos na criação junto com estrutura e dedicação SecOps e arquitetura para identificar,investigar,
+mitigar e aprimorar da proteção de Endpoint e resposta inteligente das suas  missões,governança,planejamento ,colaboração,treinamento,consistência de identificar alertas do processo.
 
 
 
 SOAR
 
-Uma  orquestração,automação e responsabilidade de compremisso primário de componentes que envolve alertas para detectar SIEMS do network de segurança e mailboxes na execução de processos para ajuda que acelera o incidente response do analise de produtividade.
+Uma  orquestração,automação e responsabilidade de compremisso primário de componentes que envolve alertas para detectar SIEMS do network de segurança e mailboxes na execução de processos para ajuda que acelera o incidente 
+response do analise de produtividade.
 
 
 XSOAR 
