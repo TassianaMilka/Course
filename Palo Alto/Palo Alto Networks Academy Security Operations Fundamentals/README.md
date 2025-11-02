@@ -62,5 +62,3 @@ Lo celebré en 2025.
 
 1.Ciberseguridad.
 
-1.Cobol.
-
