@@ -1,1 +1,38 @@
+SOC
+
+
+
+Segurança de Operação é a necessidade de função para proteger a organização da resposta fundamental de cyber segurança do processos na criação junto com estrutura e dedicação SecOps e arquitetura para identificar,investigar,mitigar e aprimorar da proteção de Endpoint e resposta inteligente das suas  missões,governança,planejamento ,colaboração,treinamento,consistência de identificar alertas do processo.
+
+
+
+SOAR
+
+Uma  orquestração,automação e responsabilidade de compremisso primário de componentes que envolve alertas para detectar SIEMS do network de segurança e mailboxes na execução de processos para ajuda que acelera o incidente response do analise de produtividade.
+
+
+XSOAR 
+
+
+
+Uma inteligência para organização criar do consume de inovação nova de segurança produto  em formato de prevenir,detectar e simplificar.
+
+
+
+Cortex XSIAM
+
+
+Segurança de Inteligência  e automatização da integridade e automatização de capacidade e processos da moderna segurança operação centro(Segurity Operations Center(SOC).
+
+Funcionalidade do Cortex XSIAM:
+
+
+
+SOAR - Para analisar função de ajuda de automação do processos e perfomes do alerta que reduze falsa e positivo;
+
+EDR-Analisa a visualibilidade do endpoints e outros com segurança para proteger do malware,exploits,ransomware etc;
+
+ASM-Monitoramento de ataque;
+
+SIEM-Ajuda pelos logs a criação para detectar do alertas ao sistema.
 
