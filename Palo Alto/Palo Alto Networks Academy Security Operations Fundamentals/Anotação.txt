@@ -9,7 +9,7 @@ mitigar e aprimorar da proteção de Endpoint e resposta inteligente das suas  m
 
 SOAR
 
-Uma  orquestração,automação e responsabilidade de compremisso primário de componentes que envolve alertas para detectar SIEMS do network de segurança e mailboxes na execução de processos para ajuda que acelera o incidente 
+Uma orquestração,automação e responsabilidade de compremisso primário de componentes que envolve alertas para detectar SIEMS do network de segurança e mailboxes na execução de processos para ajuda que acelera o incidente 
 response do analise de produtividade.
 
 
