@@ -10,4 +10,4 @@ Descrição sobre IA(Inteligência Artificial) da utilidade  no mercado profissi
 
 
 
-Conhecendo a ferramenta para Prompti de modelos IBM Granite.
+Conhecendo a ferramenta para Prompt de modelos IBM Granite.
