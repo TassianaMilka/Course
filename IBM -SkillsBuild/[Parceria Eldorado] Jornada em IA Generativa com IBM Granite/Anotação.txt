@@ -1,0 +1,13 @@
+
+Descrição sobre IA(Inteligência Artificial) da utilidade  no mercado profissional como:
+
+
+-Melhorias;
+-Realização em menos tempo;
+-Agilidade;
+-Retiração de Ambiguidade;
+-Contextualizada.
+
+
+
+Conhecendo a ferramenta para Prompti de modelos IBM Granite.
