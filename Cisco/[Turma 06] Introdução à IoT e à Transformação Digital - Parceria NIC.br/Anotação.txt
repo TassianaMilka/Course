@@ -2,7 +2,7 @@
 loT 
 
 
-Introdução sobre a interligação de  conexão entre aparelhos,veículos,aparelho eletronico entre suas principais abordagem:
+Introdução sobre a interligação de  conexão entre aparelhos,veículos,aparelho eletrônico entre suas principais abordagem:
 
 - Aprendizado de Máquina;
 -Automação;
