@@ -7,7 +7,8 @@ Introdução sobre a interligação de  conexão entre aparelhos,veículos,apare
 - Aprendizado de Máquina;
 -Automação;
 -Inteligência Artificial e Natural;
--Big  Data.
+-Big  Data;
+-Lógica de Linguagem de Programação(Python).
 
 
 Que estabelece o conhecimento de aprendizagem na inovação e segurança dos dados deste da empresa e aos usuários.
